@@ -1,0 +1,161 @@
+{
+  "patient": {
+    "name": "SELF",
+    "age": 0,
+    "gender": "Male",
+    "patient_id": "RECEIVED"
+  },
+  "tests": [
+    {
+      "name": "CODE/NAME & ADDRESS :C000138483 ‘ACCESSION NO 0323WDO001144 ",
+      "value": 138483.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SUJAFOS0466323A _:05/04/2023 00:00:00",
+      "value": 466323.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "#99/1, 1ST FLOOR, 11TH AVENUE ASHOK NAGAR, '",
+      "value": 99.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CHRNNAI,CHENNAT {CLIENT PATIENT ID: RECEIVED 05/04/2023 15:1",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NO REPORTED :05/04/2023 17:07:24",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CHENNAI 600083 : |",
+      "value": 600083.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "9900107700",
+      "value": 9900107700.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PPBS(POST PRANDIAL BLOOD SUGAR) 318 High 70 140 mg/dL",
+      "value": 318.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "1. Itis presumed that the test sample belongs to the patient",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. All tests are performed and reported as per the technical",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "turnaround time stated in the SRL Directory of Services. 6. ",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3. Result delays could occur due to unforeseen it must be co",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "other unforeseen event. 7. Test results may vary based on ti",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4. A requested test might not be performed if: physiological",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "iii. Incorrect specimen type 8. Test results cannot be used ",
+      "value": 8.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "iv. Discrepancy between identification on specimen 9. Incase",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "container label and test requisition form (91115 91115) with",
+      "value": 91115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Fortis Hospital, Sector 62, Phase VIII,",
+      "value": 62.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Mohali 160062",
+      "value": 160062.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 1 Of 1",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Veda Ranghaa Nivas, No:22/97,Dr.Ambedkar Road, Ashok Nagar,4",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CHENNAI, 600083 Patient 323000001178888 Ref, No.",
+      "value": 600083.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "name": 0.56,
+      "age": 0.36,
+      "gender": 0.76,
+      "patient_id": 0.56
+    }
+  },
+  "needs_review": [
+    "patient.name",
+    "patient.age",
+    "patient.patient_id"
+  ],
+  "metadata": {
+    "processed_images": 1,
+    "total_tokens": 409,
+    "processing_timestamp": "2025-10-14T17:27:49.890033",
+    "original_filename": "tmp3vfg0md6_new3.pdf"
+  }
+}

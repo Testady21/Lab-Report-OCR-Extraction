@@ -1,0 +1,215 @@
+ {
+  "original": {
+  "patient": {
+    "age": 42,
+    "gender": "Male"
+  },
+  "tests": [
+    {
+      "name": "MANMOHAN SINGH Reference: VID: 220116000092751",
+      "value": 220116000092751,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "16/07/2022 07:54 . PM",
+      "value": 16,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "11a, Ground Floor, Cycle Merchant Co-",
+      "value": 11,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PID NO: ; P1162200081990 Collected On: ;",
+      "value": 1162200081990,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Op Housing Society, 252/6/253a, Nana",
+      "value": 252,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age: 42.0 Year(s) Sex: Male Peth, Pune 411002 16/07/2022 7:5",
+      "value": 42,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "16/07/2022 09:05 PM",
+      "value": 16,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "411004",
+      "value": 411004,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HbA1C- Glycated Haemoglobin, blood by HPLC method",
+      "value": 1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HbA1C- Glycated Haemoglobin 9.9 % Non-diabetic: <= 5.6",
+      "value": 1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(HPLC) Pre-diabetic: 5.7-6.4",
+      "value": 5.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Diabetic: >= 6.5",
+      "value": 6.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Estimated Average Glucose (eAG) 237.43 mg/dL",
+      "value": 237.43,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "1. HbA‘c is used for monitoring diabetic control. It reflect",
+      "value": 1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. HbA1c has been endorsed by clinical groups & ADA (America",
+      "value": 2,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "diabetes using a cut-off point of 6.5%.",
+      "value": 6.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3. Trends in HbA‘c a better indicator of diabetic control th",
+      "value": 3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4. Low glycated haemoglobin(below 4%) in a non-diabetic indi",
+      "value": 4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5. To estimate the eAG from the HbA1C value, the following e",
+      "value": 5,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "6. Interference of Haemoglobinopathies in HbA1c estimation.",
+      "value": 6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "A. For HbF > 25%, an alternate platform (Fructosamine) is re",
+      "value": 25,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "C. Heterozygous state detected (D10/ Tosho G8 is corrected f",
+      "value": 10,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7. In known diabetic patients, following values can be consi",
+      "value": 7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Excellent Control 6 to 7 %,",
+      "value": 6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Fair to Good Control 7 to 8 %,",
+      "value": 7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Unsatisfactory Control 8 to 10 %",
+      "value": 8,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and Poor Control More than 10%.",
+      "value": 10,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "P age 1 \"° of 1",
+      "value": 1,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "age": 0.36,
+      "gender": 0.76
+    }
+  },
+  "needs_review": [
+    "patient.age"
+  ],
+  "metadata": {
+    "processed_images": 1,
+    "total_tokens": 333,
+    "processing_timestamp": "2025-10-14T16:44:26.688744",
+    "original_filename": "tmpymdfid0k_new4.pdf"
+  },
+  "output_file": "result_20251014_164426.json"
+},
+  "corrected": {
+  "patient": {
+    "name": "Manmohan Singh",
+    "age": 42
+  },
+  "tests": [
+    {
+      "name": "HbA1C - Glycated Hemoglobin",
+      "value": 9.9,
+      "unit": "%",
+      "confidence": 0.6
+    },
+    {
+      "name": "Estimated Average Glucose (eAG)",
+      "value": 237.43,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    }
+  ]
+}
+
+}

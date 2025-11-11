@@ -1,0 +1,290 @@
+{
+  "patient": {
+    "gender": "Male",
+    "age": 79,
+    "patient_id": "37"
+  },
+  "tests": [
+    {
+      "name": "Bese MC-6072",
+      "value": -6072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name : Mrs RATHNA GABRIAL Gender Female LabID_ : 50636000175",
+      "value": 50636000175.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age’: 79 Years Mob. No. :",
+      "value": 79.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Reg Date and Time 03-Jun-2025 08:37 Report Date and Time : 0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Plasma Glucose F 102 mg/dL </= 100 mg/dl: Normal",
+      "value": 102.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "100 125 mg/dl:",
+      "value": 100.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "HEXOKINASE/G-6-PDH -",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">/= 126 mg/dl: Diabetes.",
+      "value": 126.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "2012)",
+      "value": 2012.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Plasma Fluoride F Coll. Time:03-Jun-2025 08:45",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Potassium 4.57 mEq/L 3.5 5.1",
+      "value": 4.57,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Serum Coll. Time:03-Jun-2025 08:45",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal,HC- Hig",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "DLH 2018 0000588 KTK",
+      "value": 2018.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Printed On: 03-Jun-2025 16:40",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Shivajinagar, @1800:425.1974 Tamil Nadu; Indias",
+      "value": 1800.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Bese MC-6072",
+      "value": -6072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name : Mrs RATHNA GABRIAL Gender: Female : 50636000175",
+      "value": 50636000175.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age’: 79 Years Mob. No. :",
+      "value": 79.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Reg Date and Time 03-Jun-2025 08:37 Report Date and Time : 0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HbA1C H 7.14 </= 5.6 % NORMAL",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Capillary Electrophoresis 5.7-64%-",
+      "value": 5.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">/=6.5% DIABETES",
+      "value": 6.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2012)",
+      "value": 2012.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Estimated Avg Glucose (3 Mths) 157.07 mg/dL Not available",
+      "value": 3.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "Please Note change in reference range as per ADA 2021 guidel",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HbA1C level reflects the mean glucose concentration over pre",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Levels of HbA1C may be low as result of shortened RBC life s",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Increased HbA1C values may be found in patients with polycyt",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Patients with Homozygous forms of rare variant Hb(CC,SS,EE,S",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal,HC- Hig",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "KMC NO. 97304",
+      "value": 97304.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Printed On: 03-Jun-2025 16:40",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Shivalinagar, Bangalore-560:001 @1800:425; 1974 Tamil Nadu; ",
+      "value": -560.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Bese MC-6072",
+      "value": -6072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name : Mrs RATHNA GABRIAL Gender: Female : 50636000175",
+      "value": 50636000175.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age’: 79 Years Mob. No. :",
+      "value": 79.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Reg Date and Time 03-Jun-2025 08:37 Report Date and Time : 0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TSH 5.25 yIU/mL 0.5 8.9",
+      "value": 5.25,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Serum Coll. Time:03-Jun-2025 08:45",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal,HC- Hig",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "DLH 2018 0000588 KTK",
+      "value": 2018.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Printed On: 03-Jun-2025 16:40",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Shivajinagar, Bangalore-560:001 Perungudi,‘Chennai Tamil Nad",
+      "value": -560.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "gender": 0.76,
+      "age": 0.36,
+      "patient_id": 0.56
+    }
+  },
+  "needs_review": [
+    "patient.age",
+    "patient.patient_id"
+  ],
+  "metadata": {
+    "processed_images": 3,
+    "total_tokens": 651,
+    "processing_timestamp": "2025-10-02T20:11:48.833388",
+    "original_filename": "tmp473fitrs_82226685_Report_50636000175_RATHNA GABRIAL.pdf"
+  }
+}

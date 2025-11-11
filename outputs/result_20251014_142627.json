@@ -1,0 +1,2766 @@
+{
+  "patient": {
+    "name": "",
+    "age": 0
+  },
+  "tests": [
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "—: FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 i i",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HEMOGLOBIN (HB) 11.8 Low 12.0 15.0 g/dL",
+      "value": 11.8,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "RED BLOOD CELL (RBC) COUNT 4.68 3.8 4.8",
+      "value": 4.68,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "WHITE BLOOD CELL (WBC) COUNT 8.20 4.0 10.0 thou/uL",
+      "value": 8.2,
+      "unit": "/uL",
+      "confidence": 0.6
+    },
+    {
+      "name": "PLATELET COUNT 329 150 410 thou/uL",
+      "value": 329.0,
+      "unit": "/uL",
+      "confidence": 0.6
+    },
+    {
+      "name": "HEMATOCRIT (PCV) 38.3 36 46 %",
+      "value": 38.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORPUSCULAR VOLUME (MCV) 82.0 Low 83 101 fL",
+      "value": 82.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORPUSCULAR HEMOGLOBIN (MCH) 25.1 Low 27.0 32.0 Pg",
+      "value": 25.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORPUSCULAR HEMOGLOBIN 30.7 Low 31.5 34.5 g/dL",
+      "value": 30.7,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "RED CELL DISTRIBUTION WIDTH (RDW) 14.3 High 11.6 14.0 %",
+      "value": 14.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MENTZER INDEX 17.5",
+      "value": 17.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN PLATELET VOLUME (MPV) 9.6 6.8 10.9 fL",
+      "value": 9.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NEUTROPHILS 59 40 80 %",
+      "value": 59.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LYMPHOCYTES 37 20 40 %",
+      "value": 37.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MONOCYTES 3 2-10 %",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "EOSINOPHILS 1 1-6 %",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 1 Of 18",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Patient 775000002431311 Ref. No.",
+      "value": 775000002431311.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24 “ac.",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY, :",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BASOPHILS 0 0-2 %",
+      "value": 0.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ABSOLUTE NEUTROPHIL COUNT 4.84 2.0 7.0 thou/yL",
+      "value": 4.84,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ABSOLUTE LYMPHOCYTE COUNT 3.03 High 1.0 3.0 thou/yL",
+      "value": 3.03,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ABSOLUTE MONOCYTE COUNT 0.25 1.0 thou/yL",
+      "value": 0.25,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ABSOLUTE EOSINOPHIL COUNT 0.08 0.02 0.50 thou/yL",
+      "value": 0.08,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ABSOLUTE BASOPHIL COUNT 0 Low 0.02 0.10 thou/yL",
+      "value": 0.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NEUTROPHIL LYMPHOCYTE RATIO (NLR) 1.6",
+      "value": 1.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BLOOD COUNTS,EDTA WHOLE BLOOD-The cell morphology is well pr",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "RBC AND PLATELET INDICES-Mentzer index (MCV/RBC) is an autom",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(<13) tn patients with microcytic anaemia. This needs to be ",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "WBC DIFFERENTIAL COUNT-The optimal threshold of 3.3 for NLR ",
+      "value": 3.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "patients. When age = 49.5 years old and NLR = 3.3, 46.1% COV",
+      "value": 49.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3.3, COVID-19 patients tend to show mild disease.",
+      "value": 3.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(Reference to - The diagnostic and predictive role of NLR, d",
+      "value": -19.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 2 Of 18",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 !ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7TH",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 ' '",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FBS (FASTING BLOOD SUGAR) 206 High 74 99 mg/dL",
+      "value": 206.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "GLYCOSYLATED HEMOGLOBIN(HBA1C), EDTA WHOLE",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HBAIC 11.1 High Non-diabetic: < 5.7 %",
+      "value": 11.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Pre-diabetics: 5.7 6.4",
+      "value": 5.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Diabetics: > or 6.5",
+      "value": 6.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Therapeutic goals: < 7.0",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Action suggested : > 8.0",
+      "value": 8.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(ADA Guideline 2021)",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ESTIMATED AVERAGE GLUCOSE(EAG) 271.9 High < 116.0 mg/dL",
+      "value": 271.9,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "BLOOD UREA NITROGEN 10 6 20 mg/dL",
+      "value": 10.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "CREATININE 0.79 0.60 1.10 mg/dL",
+      "value": 0.79,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "URIC ACID 3.7 2.6 6.0 mg/dL",
+      "value": 3.7,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL PROTEIN 7.6 6.4 8.2 g/dL",
+      "value": 7.6,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "SODIUM, SERUM 144 136 145 mmol/L",
+      "value": 144.0,
+      "unit": "mmol/L",
+      "confidence": 0.6
+    },
+    {
+      "name": "POTASSIUM, SERUM 5.06 3.50 5.10 mmol/L",
+      "value": 5.06,
+      "unit": "mmol/L",
+      "confidence": 0.6
+    },
+    {
+      "name": "CHLORIDE, SERUM 100 98 107 mmol/L",
+      "value": 100.0,
+      "unit": "mmol/L",
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 3 Of 18",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Patient 775000002431311 Ref. No.",
+      "value": 775000002431311.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY, {",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "water intake. Drugs: steroids, paralysis. Drugs: potassium s",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "falls about 1.6 mEq/L for each 100 placement. Very high WBC/",
+      "value": 1.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN, TOTAL 0.34 0.2- 1.0 mg/dL",
+      "value": 0.34,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN, DIRECT 0.05 0.0 0.2 mg/dL",
+      "value": 0.05,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN, INDIRECT 0.29 0.1 1.0 mg/dL",
+      "value": 0.29,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL PROTEIN 7.6 6.4 8.2 g/dL",
+      "value": 7.6,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "ALBUMIN 4.2 3.4 5.0 g/dL",
+      "value": 4.2,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "GLOBULIN 3.4 2.0 4.1 g/dL",
+      "value": 3.4,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "ALBUMIN/GLOBULIN RATIO 1.2 1.0- 2.1 RATIO",
+      "value": 1.2,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 4 Of 18",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24 ac.",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY, { :",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 ' '",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ASPARTATE AMINOTRANSFERASE 18 15 37 U/L",
+      "value": 18.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "METHOD : SPECTROPHOTOMETRY, UV WITH PYRIDOXAL -5-PHOSPHATE",
+      "value": -5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALANINE AMINOTRANSFERASE (ALT/SGPT) 33 < 34.0 U/L",
+      "value": 33.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "METHOD : SPECTROPHOTOMETRY, UV WITH PYRIDOXAL -5-PHOSPHATE",
+      "value": -5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALKALINE PHOSPHATASE 97 30 120 U/L",
+      "value": 97.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "GAMMA GLUTAMYL TRANSFERASE (GGT) 36 5-55 U/L",
+      "value": 36.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LACTATE DEHYDROGENASE 150 100 190 U/L",
+      "value": 150.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALBUMIN 4.2 3.4 5.0 g/dL",
+      "value": 4.2,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "PPBS(POST PRANDIAL BLOOD SUGAR) 300 High 70 139 mg/dL",
+      "value": 300.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 5 Of 18",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient 775000002431311 Ref, No.",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SSS CODE/NAME & ADDRESS :C000138482",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "‘ACCESSION NO 0042WB003997 :42 Years Female",
+      "value": 42.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID FARKF24028142 DRAWN :24/02/2023 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ! !",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: { RECEIVED 11:15:24",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1 1",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HEALTH SCREEN 3",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BUN/CREAT RATIO 12.66 5.00 15.00",
+      "value": 12.66,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "GLOBULIN 3.4 2.0 4.1 g/dL",
+      "value": 3.4,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "Diabetes mellitus, Cushing’ s syndrome (10 - 15%), chronic p",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "GLYCOSYLATED HEMOGLOBIN(HBA1C), EDTA WHOLE BLOOD-Used For:",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1.Evaluating the long-term control of blood glucose concentr",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2.Diagnosing diabetes.",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3.Identifying patients at increased risk for diabetes (predi",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "The ADA recommends measurement of HbAic (typically 3-4 times",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "well-controlled type 2 diabetic patients) to determine wheth",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1.eAG (Estimated average glucose) converts percentage HbAic ",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. eAG gives an evaluation of blood glucose levels for the l",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3. eAG is calculated as eAG (mg/dl) = 28.7 * HbAic - 46.7",
+      "value": 3.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "anemia) will falsely lower HbAic test results.Fructosamine i",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "b.Heterozygous state detected (D10 is corrected for HbS & Hb",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "c.HbF > 25% on alternate paltform (Boronate affinity chromat",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 6 Of 18",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ee CODE/NAME & ADDRESS :C000138482",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NO 0042WB003997 :42 Years Female",
+      "value": 42.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID FARKF24028142 DRAWN :24/02/2023 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ! !",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: { RECEIVED 11:15:24",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1 1",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "URIC ACID, SERUM-Causes of Increased levels:-Dietary(High Pr",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 7 Of 18",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS : (000138482 ‘ACCESSION NO 0042WB003997 ",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PATIENT 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REPORTED 15:24:24",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO :",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CHOLESTEROL, TOTAL 174 < 200 Desirable mg/dL",
+      "value": 174.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "200 239 Borderline High",
+      "value": 200.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">/= 240 High",
+      "value": 240.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TRIGLYCERIDES 177 High 150 Normal mg/dL",
+      "value": 177.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "150 199 Borderline High",
+      "value": 150.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "200 499 High",
+      "value": 200.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">/=500 Very High",
+      "value": 500.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HDL CHOLESTEROL 42 < 40 Low mg/dL",
+      "value": 42.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": ">/=60 High",
+      "value": 60.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LDL CHOLESTEROL, DIRECT 102 < 100 Optimal mg/dL",
+      "value": 102.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "100 129 Near or above",
+      "value": 100.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "130 159 Borderline High",
+      "value": 130.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "160 189 High",
+      "value": 160.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">/= 190 Very High",
+      "value": 190.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NON HDL CHOLESTEROL 132 High Desirable: Less than 130",
+      "value": 132.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Above Desirable: 130 159",
+      "value": 130.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Borderline High: 160 189",
+      "value": 160.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "High: 190 219",
+      "value": 190.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Very high: > or 220",
+      "value": 220.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VERY LOW DENSITY LIPOPROTEIN 35.4 High </= 30.0 mg/dL",
+      "value": 35.4,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "CHOL/HDL RATIO 4.1 3.3 4.4 Low Risk",
+      "value": 4.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4.5 7.0 Average Risk",
+      "value": 4.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7.1 11.0 Moderate Risk",
+      "value": 7.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "> 11.0 High Risk",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LDL/HDL RATIO 2.4 0.5 3.0 Desirable/Low Risk",
+      "value": 2.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3.1 6.0 Borderline/Moderate",
+      "value": 3.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">6.0 High Risk",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 8 Of 18",
+      "value": 8.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient 775000002431311 Ref. No.",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7TH",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 ' '",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 9 Of 18",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Patient 775000002431311 Ref. No.",
+      "value": 775000002431311.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 !ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PATIENT ID: 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY, :",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1) Cholesterol levels help assess the patient risk status an",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2) Serum Triglyceride (TG) are a type of fat and a major sou",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3)HDL-C plays a crucial role in the initial step of reverse ",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4) LDL -C plays a key role in causing and influencing the pr",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5)Non HDL cholesterol: Non-HDL-C measures the cholesterol co",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Extreme risk | A.CAD with > 1 feature of high risk",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "B. CAD with > 1 feature of Very high risk group or recurrent",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "< or = 50 mo/dl or polyvascular disease",
+      "value": 50.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Very High Risk 1. Established ASCVD 2. Diabetes with 2 major",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "High Risk 1. Three major ASCVD risk factors. 2. Diabetes wit",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "organ damage. 3. CKD stage 3B or 4. 4. LDL >190 mg/dl 5. Ext",
+      "value": 3.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "Coronary Artery Calctum CAC >300 AU. 7. Lipoprotein a >/= 50",
+      "value": 300.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Moderate Risk 2 major ASCVD risk factors",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "0-1 major ASCVD risk factors",
+      "value": 0.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1. Age > or = 45 years in males and > or = 55 years in femal",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. Family history of premature ASCVD 4. High blood pressure",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5. Low HDL",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Newer treatment goals and statin initiation thresholds based",
+      "value": 2020.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 10 Of 18",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Mc-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 NO 0042WB003997 :42 Years Fe",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Extreme Risk Group | <50 (Optional goal < 80 (Optional goal ",
+      "value": 50.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Category A <OR = 30) <OR = 60)",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Extreme Risk Group | <OR=30 <OR 60 > 30 >60",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Very High Risk >OR= 50 >OR= 80",
+      "value": 50.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "High Risk >OR= 70 >OR= 100",
+      "value": 70.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Moderate Risk >OR= 100 >OR= 130",
+      "value": 100.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">OR= 130* >OR= 160",
+      "value": 130.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "*After an adequate non-pharmacological intervention for at l",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "India. Current Vascular Pharmacology, 2022, 20, 134-155.",
+      "value": 2022.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 11 Of 18",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient 775000002431311 Ref. No.",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PATIENT ID: 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 i i",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PH 5.5",
+      "value": 5.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SPECIFIC GRAVITY 1.030 1.003 1.035",
+      "value": 1.03,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PUS CELL (WBC’S) 3-5 0-5 /HPF",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "EPITHELIAL CELLS 2-3 0-5 /HPF",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 12 Of 18",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5 ae ar ae r",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient 775000002431311 Ref, No.",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7TH",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ":24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222 i",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 13 Of 18",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "hd” £7",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID FARKF24028142 DRAWN :24/02/2023 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{REPORTED :24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 14 Of 18",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & iST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 NO 0042WB003997 :42 Years Fe",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ICLIENT PATIENT ID: 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{REPORTED :24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "T3",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "79.86 Low Non-Pregnant Women",
+      "value": 79.86,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "80.0 200.0",
+      "value": 80.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1st Trimester:105.0 230.0",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2nd Trimester:129.0 262.0",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3rd Trimester:135.0 262.0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "T4 5.89 Non-Pregnant Women Hg/dL",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5.10 14.10",
+      "value": 5.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1st Trimester: 7.33 14.80",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2nd Trimester: 7.93 16.10",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3rd Trimester: 6.95 15.70",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TSH (ULTRASENSITIVE) 2.400 Non Pregnant Women HIU/mL",
+      "value": 2.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "0.27 4.20",
+      "value": 0.27,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1st Trimester: 0.33 4.59",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2nd Trimester: 0.35 4.10",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3rd Trimester: 0.21 3.15",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 15 Of 18",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient 775000002431311 Ref. No.",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(35)",
+      "value": 35.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "£7",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "[REPORTED :24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Triiodothyronine T3 Thyroxine T4, and Thyroid Stimulating Ho",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Production of T3 and its prohormone thyroxine (T4) 1s activa",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "gland. Elevated concentrations of T3, and T4 in the blood in",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Below mentioned are the guidelines for Pregnancy related ref",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "is a more sensitive test for the diagnosis of hyperthyroidis",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "active. It is advisable to detect Free T3, FreeT4 along with",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1 High Low Low Low (1) Primary Hypothyroidism (2) Chronic au",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Post Thyroidectomy (4) Post Radio-Iodine treatment",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2 High Normal Normal | Normal (1)Subclinical Hypothyroidism ",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "hormone replacement therapy (3) In cases of Autoimmune/Hashi",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "thyroiditis (4). Isolated increase in TSH levels can be due ",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4 Low High High High (1) Primary Hyperthyroidism (Graves Dis",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(3)Toxic Nodular Goitre (4) Thyroiditis (5) Over treatment o",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "hormone (6) Drug effect e.g. Glucocorticoids, dopamine, T4",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "replacement therapy (7) First trimester of Pregnancy",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "16 ss] High ~—s | High = [ High _|",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(1) TSH secreting pituitary adenoma (2) TRH secreting tumor",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "7 Low Low Low Low (1) Central Hypothyroidism (2) Euthyroid s",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "| (1) TS thyrotoxicosis (2) Non-Thyroidal illness",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "19 High =~ [| High = [ Normal",
+      "value": 19.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(1) T4 Ingestion (2) Thyroiditis (3) Interfering Anti TPO an",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF: 1. TIETZ Fundamentals of Clinical chemistry 2.Guidlines",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NOTE: It is advisable to detect Free T3,FreeT4 along with TS",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "affected by variation in thyroid binding protein. TSH has a ",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 16 Of 18",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ID FARKF24028142 DRAWN :24/02/2023 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: { RECEIVED 11:15:24",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY,",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{REPORTED :24/02/2023 15:24:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HEALTH SCREEN 3",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VITAMIN B12(CYANOCOBALAMINE), SERUM",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VITAMIN B12 818.8 High 197 771 pg/mL",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "25 HYDROXYVITAMIN D(VITAMIN D TOTAL), SERUM",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "25 HYDROXYVITAMIN D 21.29 Low Deficiency: ng/mL",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "< 20.0",
+      "value": 20.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "20.0 < 30.0",
+      "value": 20.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "30.0 -100.0",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Toxicity > 100.0",
+      "value": 100.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VITAMIN B12(CYANOCOBALAMINE), SERUM-Test description",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1.Measures the amount of Vitamin B12/ Cyanocobalamin or Meth",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "folate deficiencies,3.Workup of neuropathies especially due ",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1.Part of water-soluble B complex of vitamins. 2. It is esse",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "meat, fortified cereals, bread. 4.Absorption depends on the ",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "feces(approx. 0.1% per day)",
+      "value": 0.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Inflammatory bowel disease, Pernicious anemia - genetic defi",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Recommendations-1.To prevent biotin interference the patient",
+      "value": -1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "in macrocytic anemias to avoid methyl folate trap. Carmel’s ",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MMA > 0.30umol/L, or tHcy > 13 nmol/L (females) and >15 nmol",
+      "value": 0.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Associated Test-Holo-TC: Marker of vitamin B12 status -speci",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "References-O'\"\"'Leary F, Samman S. Vitamin B12 in health and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "25 - HYDROXYVITAMIN D(VITAMIN D TOTAL), SERUM-Test descripti",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "helps to maintain normal calcium and phosphate levels.Vitami",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "which is synthesized in skin from 7-dehydrocholestero] in re",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Vit D25(OH)D deficiency is seen due to poor or inadequate su",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Elevated levels may be seen in patients taking supplements( ",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "sarcoidosis and malignancies containing non regulated 1-alph",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 17 Of 18",
+      "value": 17.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax :",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{7",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MC-3003",
+      "value": -3003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CODE/NAME & ADDRESS :C000138482 ‘ACCESSION NO 0042WB003997 :",
+      "value": 138482.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FARKF24028142 00:00:00",
+      "value": 24028142.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLOT 63/A, GROUND FLOOR, RAGHAVENDRA ' '",
+      "value": 63.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "{CLIENT PATIENT ID: RECEIVED 24/02/2023 11:15:24",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NILAYAM, 7TH PHASE,KPHB COLONY, {",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REPORTED 15:24:24",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HYDERABAD 500072 NO :",
+      "value": 500072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "08047109222",
+      "value": 8047109222.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1.To prevent biotin interference the patient should be atlea",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Vitamin D status as it is the major storage & active form of",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Note-Our Vitamin D assays is standardized to be in alignment",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and Standards, Centers for Disease Control and Ghent Univers",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Thterpretation of diagnostic test, 10th edition.",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 18 Of 18",
+      "value": 18.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LEGEND CRYSTAL,SHOP NO-6,GROUND & 1ST FLOOR,PLOT NO-1-7-79/A",
+      "value": -6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SECUNDERABAD, 500003 Patient Ref. No. 775000002431311",
+      "value": 500003.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Tel : 9111591115, Fax:",
+      "value": 9111591115.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CIN U74899PB1995PLC045956",
+      "value": 74899.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "name": 0.56,
+      "age": 0.36
+    }
+  },
+  "needs_review": [
+    "patient.name",
+    "patient.age"
+  ],
+  "metadata": {
+    "processed_images": 18,
+    "total_tokens": 6614,
+    "processing_timestamp": "2025-10-14T14:26:27.393892",
+    "original_filename": "tmpxecyeg0e_new1.pdf"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "original": {
+    "patient": {
+      "patient_id": "26",
+      "age": 70,
+      "gender": "Male"
+    },
+    "tests": [
+      {
+        "name": "BILIRUBIN TOTAL 0.44 mg/dl Serum",
+        "value": 0.44,
+        "unit": "mg/dl",
+        "confidence": 0.6
+      },
+      {
+        "name": "BILIRUBIN DIRECT 0.26 Serum",
+        "value": 0.26,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "BILIRUBIN INDIRECT 0.18 Serum",
+        "value": 0.18,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "TOTAL PROTEIN 7.1 Umbilical cord: 4.8-8.8 Serum",
+        "value": 7.1,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "ALBUMIN B9 glk Adults : 3.5-5.2 Serum",
+        "value": 9,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "SGOT(AST) UIL 10-35 Serum",
+        "value": 10,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "SGPT(ALT) 22 U/L 10-35 Serum",
+        "value": 22,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "GGT 15 <A0 Serum",
+        "value": 15,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "ALKALINE 67 U/L 35-104 Serum",
+        "value": 67,
+        "unit": null,
+        "confidence": 0.6
+      }
+    ]
+  },
+  "corrected": {
+    "patient": {
+      "name": "MRS. SATHYAVATHY",
+      "patient_id": "P0893801",
+      "age": 70,
+      "gender": "Female",
+      "date": "16-09-2025"
+    },
+    "tests": [
+      {
+        "name": "BILIRUBIN TOTAL",
+        "value": 0.44,
+        "unit": "mg/dL",
+        "confidence": 1
+      },
+      {
+        "name": "BILIRUBIN DIRECT",
+        "value": 0.26,
+        "unit": "mg/dL",
+        "confidence": 1
+      },
+      {
+        "name": "BILIRUBIN INDIRECT",
+        "value": 0.18,
+        "unit": "mg/dL",
+        "confidence": 1
+      },
+      {
+        "name": "TOTAL PROTEIN",
+        "value": 7.1,
+        "unit": "g/dL",
+        "confidence": 1
+      },
+      {
+        "name": "ALBUMIN",
+        "value": 3.9,
+        "unit": "g/dL",
+        "confidence": 1
+      },
+      {
+        "name": "SGOT (AST)",
+        "value": 27,
+        "unit": "U/L",
+        "confidence": 1
+      },
+      {
+        "name": "SGPT (ALT)",
+        "value": 22,
+        "unit": "U/L",
+        "confidence": 1
+      },
+      {
+        "name": "GGT",
+        "value": 15,
+        "unit": "U/L",
+        "confidence": 1
+      },
+      {
+        "name": "ALKALINE PHOSPHATASE",
+        "value": 67,
+        "unit": "U/L",
+        "confidence": 1
+      }
+    ]
+  }
+}

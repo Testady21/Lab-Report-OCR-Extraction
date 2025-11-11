@@ -1,0 +1,374 @@
+{
+  "patient": {
+    "patient_id": "26",
+    "age": 70,
+    "gender": "Male"
+  },
+  "tests": [
+    {
+      "name": "Mc-7046 ae",
+      "value": -7046.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Lab. Id P0893801 Hosp. UHID Reg. Date 16-Sep-2025 / 12:26 PM",
+      "value": 893801.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name : MRS. SATHYAVATHY Collection 16-Sep-2025 / 12:27 PM",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age/Gender 70Y / Female Received 16-Sep-2025 / 13:09 PM",
+      "value": 70.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Collected At Emami Frank Ross Limited Report 16-Sep-2025 / 1",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN TOTAL 0.44 mg/dl Serum",
+      "value": 0.44,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "5",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN DIRECT 0.26 Serum",
+      "value": 0.26,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN INDIRECT 0.18 Serum",
+      "value": 0.18,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL PROTEIN 7.1 Umbilical cord: 4.8-8.8 Serum",
+      "value": 7.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Method:Biuret Cf. Premature 3.6-6.0",
+      "value": 3.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "at New born: 4.6-7.0",
+      "value": 4.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1 week : 4.4-7.6",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "am 7months-1 year : 5.1-7.3",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1-2 year : 5.6-7.5",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "> 3 years : 6.0-8.0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Adults : 6.7-8.7",
+      "value": 6.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALBUMIN B9 glk Adults : 3.5-5.2 Serum",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Method:BCP eNO Newborn : 2.8-4.4",
+      "value": 2.8,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4 days -14 years : 3.8-5.4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "None? 14-18 years : 3.2-4.5",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "g/dL 2.3-3.5 Serum",
+      "value": 2.3,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "1.22",
+      "value": 1.22,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "AIG RATIO oN 1-2- Serum",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "9 <>?",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SGOT(AST) UIL 10-35 Serum",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Method:UV WITH P5P AY",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SGPT(ALT) 22 U/L 10-35 Serum",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "GGT 15 <A0 Serum",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALKALINE 67 U/L 35-104 Serum",
+      "value": 67.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "0-1 day 1.0-8.0 2.0-6.0",
+      "value": 0.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1-2 days 6.0-12.0 6.0-10.0",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3-5 days 10.0-14.0 4.0-8.0",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "*Teitz 5th ed",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "0-4 yr 450-350",
+      "value": 0.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Aster Clinical Reference Lab,24 Venkatappa",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560051",
+      "value": 560051.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 1 Of 2",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Lab. Id P0893801 Hosp. UHID Reg. Date 16-Sep-2025 / 12:26 PM",
+      "value": 893801.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name : MRS. SATHYAVATHY Collection : 16-Sep-2025 / 12:27 PM",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age/Gender 70Y / Female Received 16-Sep-2025 / 13:09 PM",
+      "value": 70.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Collected At Emami Frank Ross Limited Report 16-Sep-2025 / 1",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4-46 yr 30-300",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "10th ed an",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1. To check for damage from liver infections (Hepatitis B, C",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. To monitor the side effects of certain hepatotoxic drugs",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "3. To monitor effectiveness of treatment for liver diseases ",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "4. If symptoms of liver or gall bladder conditions are seen ",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5. For certain medical conditions like diabetes, high trigly",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Verified By:185944",
+      "value": 185944.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Verified Date 16-Sep-2025 /14:53 Dr. Ashwin Kumar A S$",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "‘Test results released pertain to specimen submitted. < 4, S",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "*Certain tests require further testing, at additional cost f",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "results are not valid for medico legal 4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "customer care 9680396803 for all queries related to test res",
+      "value": 9680396803.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Aster Clinical Reference Lab,24 Venkatappa Road, Tasker Town",
+      "value": 24.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560051",
+      "value": 560051.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page 2 Of 2",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "patient_id": 0.56,
+      "age": 0.36,
+      "gender": 0.76
+    }
+  },
+  "needs_review": [
+    "patient.patient_id",
+    "patient.age"
+  ],
+  "metadata": {
+    "processed_images": 2,
+    "total_tokens": 685,
+    "processing_timestamp": "2025-10-02T20:10:59.302663",
+    "original_filename": "tmpht6c62dw_32187653_MRS. SATHYAVATHY.pdf"
+  }
+}

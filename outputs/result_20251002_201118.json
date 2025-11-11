@@ -1,0 +1,149 @@
+{
+  "patient": {
+    "gender": "Male",
+    "age": 79,
+    "patient_id": "30-Jun-2025",
+    "name": "# For test performed on specimens received or collected from non-NARL locations, it is presumed that the specimen belongs to the patient named or identified as labeled"
+  },
+  "tests": [
+    {
+      "name": "MC-6072",
+      "value": -6072.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Name _ Ms. RATHNA GABRIAL Gender: Female 50635928369",
+      "value": 50635928369.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Age’: 79 Years Mob. No. :",
+      "value": 79.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Reg Date and Time =: 30-Jun-2025 16:13 Report Date and Time ",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Active B12 ( Holotrascobalamine)",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "H > 256.0 pmol/L 25.1 165.0",
+      "value": 256.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Active B12 -",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Serum Coll. Time:30-Jun-2025 16:14",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Active B12 test measures the amount of B12 bound to Holo Tra",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "as total Vit B12. It is more sensitive. If the serum vitamin",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "is/are useful in unmasking the deficiency state. Holo TC lev",
+      "value": 32.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Measurement of Active Vit B12 is found to be more sensitive ",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Holo Transcobalamin level of < 32 pmol/L has been suggested ",
+      "value": 32.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "High titres of Intrinsic factor blocking auto antibodies (IF",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Ref: Tietz Textbook of Clinical Chemistry and Molecular Diag",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal,HC- Hig",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Kme No.: 101322",
+      "value": 101322.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Printed On: 30-Jun-2025 19:57",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "‘Laboratory #54, Anand Tower Bowring Regd...Office: Rlot Est",
+      "value": 54.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Shivajinagar, @1800:425.1974 =\"600096; Tamil Nadu; Indias",
+      "value": 1800.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {
+      "gender": 0.76,
+      "age": 0.36,
+      "patient_id": 0.56,
+      "name": 0.56
+    }
+  },
+  "needs_review": [
+    "patient.age",
+    "patient.patient_id",
+    "patient.name"
+  ],
+  "metadata": {
+    "processed_images": 1,
+    "total_tokens": 382,
+    "processing_timestamp": "2025-10-02T20:11:18.670910",
+    "original_filename": "tmpmlzo8ggq_72829849_MultiLabIdReport.pdf"
+  }
+}

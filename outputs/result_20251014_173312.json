@@ -1,0 +1,2133 @@
+{
+  "patient": {},
+  "tests": [
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Corporate office Thyrocare Limited, 9 0-37/3, TTC MIDC, Turb",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000/6712 3400 (9870666333 wellness@thyracare.com",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ": BENGALURU, KARNATAKA 560025,",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HIGH SENSITIVITY C-REACTIVE PROTEIN (HS-CRP) IMMUNOTURBIDIME",
+      "value": 2.9,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Adult : <=3.0 mg/L",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Specifications: Precision: Within run %CV has been recorded ",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1. Chenillot O, Henny J, Steinmez J, et al. High sensitivity",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Med 2000;38:1003-11.",
+      "value": 2000.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2. Hind CRH, Pepys MB. The role of serum C-reactive protein ",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) i 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) Mar 2021 06:03",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode :P8767524 Page 1 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 Oooo",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office : Thyrocare Technologies Limited, 9 D-37/",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3050 0000 {6712 3400 {9870666333 wellness@thyracare.co",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "- 4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD,",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560025, INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "APOLIPOPROTEIN Ai (APO-A1) IMMUNOTURBIDIMETRY 158 mg/dL",
+      "value": 1.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "Male 86-152",
+      "value": 86.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Female : 94-162",
+      "value": 94.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "APOLIPOPROTEIN B (APO-B) IMMUNOTURBIDIMETRY 89 mg/dL",
+      "value": 89.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "Male 56-145",
+      "value": 56.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Female : 53-138",
+      "value": 53.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "APO B / APO Ail RATIO (APO B/A1) CALCULATED 0.6 Ratio",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Male 0.40 1.26",
+      "value": 0.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Female 0.38 1.14",
+      "value": 0.38,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Method ; FROM SERUM APO A1 AND APO",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received on (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) :05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode :0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Sen",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page : 2 of 15",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 Oooo",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office Thyrocare Technologies Limited, 9 D-37/3,",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3050 0000 {6712 3400 {9870666333 wellness@thyracare.co",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "- 4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD,",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560025, INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "25-OH VITAMIN D (TOTAL) 31.2 ng/ml",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "DEFICIENCY : <20 ng/ml",
+      "value": 20.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INSUFFICIENCY : 20-<30 ng/ml",
+      "value": 20.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "30-100 ng/ml",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOXICITY >100 ng/ml",
+      "value": 100.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Specifications: Intra assay (%CV):5.3%, Inter assay (%CV):11",
+      "value": 5.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VITAMIN B-12 > 2000 pg/ml",
+      "value": -12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Normal : 211 911 pg/ml",
+      "value": 211.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Vitamin B12 or cyanocobalamin, is a complex corrinoid compou",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Vitamin-B12 is used to find out neurological abnormalities a",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Specifications: Intra assay (Y%CV):5.0%, Inter assay (%CV):9",
+      "value": 5.0,
+      "unit": "%",
+      "confidence": 0.6
+    },
+    {
+      "name": "College of American pathologists: ligand assay (general) sur",
+      "value": 7193855.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Chen IW,Sperling MI,Heminger IA.Vitamin B12.In: Pesce LA,edi",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Mosby,1987.P.569-73.",
+      "value": 1987.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received on (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) :05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode :0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Sen",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page : 3 of 15",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Corporate office Thyrocare Limited, 9 0-37/3, TTC MIDC, Turb",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000/6712 3400 (9870666333 wellness@thyracare.com",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ": BENGALURU, KARNATAKA 560025,",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LIPOPROTEIN (A) [LP(A)] IMMUNOTURBIDIMETRY 17.3 mg/dl",
+      "value": 17.3,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "Adults : < 30.0 mg/dl",
+      "value": 30.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "Precision: Intra Assay (%CV): 3.4 %, Inter Assay (%CV): 2.0 ",
+      "value": 3.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "College of American Pathologists: General Chemistry and TDM;",
+      "value": 7193855.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Koschinsky ML, Marcovina SM. Lipoprotein A: Structural Impli",
+      "value": 1997.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) i 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) Mar 2021 06:03",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode Page : 4 of 15",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Corporate office Thyrocare Limited, 9 0-37/3, TTC MIDC, Turb",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000/6712 3400 (9870666333 wellness@thyracare.com",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ": BENGALURU, KARNATAKA 560025,",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TESTOSTERONE C.L.I.A 15.07 ng/dL",
+      "value": 15.07,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "164.94 753.38",
+      "value": 164.94,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "50 89 Yrs : 86.49 788.22",
+      "value": 50.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Pre-Menopause : 12.09 59.46",
+      "value": 12.09,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "< 7.00 48.93",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2-10 Years : < 25.91",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "11 Years : < 7.00 341.53",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "12 Years : < 7.00 562.59",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "13 Years : 9,34 562.93",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14 Years : 23.28 742.46",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "15 Years : 144.15 841.44",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "16-21 Years : 118.22 948.56",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "2-10 Years : < 7.00 108.30",
+      "value": 2.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "11-15 Years 48.40",
+      "value": 11.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "16-21 Years : 17.55- 50.41",
+      "value": 16.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Specifications: Precision: Intra assay (%CV): 8.5 %, Inter a",
+      "value": 8.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "College of American pathologists: Ligand assay (special) sur",
+      "value": 7193855.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) i 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) Mar 2021 06:03",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode :P8767524 Page 5 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 Oooo",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office Thyrocare Technologies Limited, 9 D-37/3,",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3050 0000 {6712 3400 {9870666333 wellness@thyracare.co",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "- 4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD,",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560025, INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "IRON PHOTOMETRY 45.1",
+      "value": 45.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Male : 65-175",
+      "value": 65.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Female : 50 170",
+      "value": 50.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL IRON BINDING CAPACITY (TIBC) PHOTOMETRY 463",
+      "value": 463.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Male: 225 535 ug/dl Female: 215 535 yg/dl",
+      "value": 225.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "%, TRANSFERRIN SATURATION CALCULATED 9.74 %",
+      "value": 9.74,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "13-45",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received on (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) :05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode :0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Sen",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page : 6 of 15",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 _",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office : Thyrocare Technologies Limited, 9 D-37/",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "022 3090 0000 / 6712 3400 9870666333 ma wellness@thyrocare.c",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES INDIA PVT",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "° LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TEST ASKED : AAROGYAM C TOWN,BENGALURU, KARNATAKA 560025, IN",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL CHOLESTEROL PHOTOMETRY 199 mg/dl 125-200",
+      "value": 199.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "HDL CHOLESTEROL DIRECT PHOTOMETRY 62 mg/dl 35-80",
+      "value": 62.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "LDL CHOLESTEROL DIRECT PHOTOMETRY 115 mg/dl 85-130",
+      "value": 115.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "TRIGLYCERIDES PHOTOMETRY 116 mg/dl 25-200",
+      "value": 116.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "TC/ HDL CHOLESTEROL RATIO CALCULATED 3.2 Ratio 3-5",
+      "value": 3.2,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LDL / HDL RATIO CALCULATED 1.9 Ratio 1.5-3.5",
+      "value": 1.9,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VLDL CHOLESTEROL CALCULATED 23.28 mg/dl 5-40",
+      "value": 23.28,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "NON-HDL CHOLESTEROL CALCULATED 136.8 mg/dl < 160",
+      "value": 136.8,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "DESIRABLE <200 LOW <40 OPTIMAL <100 NORMAL <150",
+      "value": 200.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BORDERLINE HIGH 200-239 HIGH >60 NEAR OPTIMAL 100-129 BORDER",
+      "value": 200.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HIGH >240 BORDERLINE HIGH 130-159 HIGH 200-499",
+      "value": 240.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HIGH 160-189 VERY HIGH >500",
+      "value": 160.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "VERY HIGH >190",
+      "value": 190.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Alert !!! 10-12 hours fasting is mandatory for lipid paramet",
+      "value": 10.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) : 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) 05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Seng",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode P8767524 Page: 7 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 _",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office : Thyrocare Technologies Limited, 9 D-37/",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "022 3090 0000 / 6712 3400 9870666333 ma wellness@thyrocare.c",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES INDIA PVT",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ". LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TEST ASKED : AAROGYAM C TOWN,BENGALURU, KARNATAKA 560025, IN",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALKALINE PHOSPHATASE PHOTOMETRY 91.6 U/L 45-129",
+      "value": 91.6,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN TOTAL PHOTOMETRY 0.36 mg/dl 0.3-1.2",
+      "value": 0.36,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN -DIRECT PHOTOMETRY 0.11 mg/dl < 0.3",
+      "value": 0.11,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "BILIRUBIN (INDIRECT) CALCULATED 0.25 mg/dl 0-0.9",
+      "value": 0.25,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "GAMMA GLUTAMYL TRANSFERASE (GGT) PHOTOMETRY 14.4 U/I < 38",
+      "value": 14.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ASPARTATE AMINOTRANSFERASE (SGOT ) PHOTOMETRY 26.5 U/I < 31",
+      "value": 26.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALANINE TRANSAMINASE (SGPT) PHOTOMETRY 17.2 U/I < 34",
+      "value": 17.2,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PROTEIN TOTAL PHOTOMETRY 7.33 gm/dl 5.7-8.2",
+      "value": 7.33,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "ALBUMIN SERUM PHOTOMETRY 4.16 gm/dl 3.2-4.8",
+      "value": 4.16,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SERUM ALB/GLOBULIN RATIO CALCULATED 1.31 Ratio 0.9-2",
+      "value": 1.31,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SERUM GLOBULIN PHOTOMETRY 3.17 gm/dL 2.5-3.4",
+      "value": 3.17,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "SALB ALBUMIN BCG1METHOD (COLORIMETRIC ASSAY ENDPOINT)",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) : 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) 05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Seng",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode P8767524 Page 8 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore—560095",
+      "value": 560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office: Thyrotare Technologies Limited, 9 D-37/3",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000 / 6712 3400 wellness@thyrocare.com GD",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES INDIA PVT",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY 7S SELF",
+      "value": 7.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TEST ASKED : AAROGYAM C TOWN,BENGALURU, KARNATAKA 560025, IN",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL TRIIODOTHYRONINE (T3) C.L.ILA 145 ng/dl 60-200",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL THYROXINE (T4) C.L.LA 11 ug/dl 4.5-12",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "THYROID STIMULATING HORMONE (TSH) C.L.LA 3.65 0.3-5.5",
+      "value": 3.65,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "T3 COMPETITIVE CHEMI LUMINESCENT IMMUNO ASSAY",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "T4 COMPETITIVE CHEMI LUMINESCENT IMMUNO ASSAY",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received on (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) O5 Mar 2021 06:03 q",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode * 0403042289/PU190 — Dr Arjun CP",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode P8767524 Page : 9 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 _",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office : Thyrocare Technologies Limited, 9 D-37/",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "022 3090 0000 / 6712 3400 9870666333 ma wellness@thyrocare.c",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES INDIA PVT",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ". LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TEST ASKED : AAROGYAM C TOWN,BENGALURU, KARNATAKA 560025, IN",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BLOOD UREA NITROGEN (BUN) PHOTOMETRY 10.5 mg/dl 7-25",
+      "value": 10.5,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "CREATININE SERUM PHOTOMETRY 0.64 mg/dl 0.5-0.8",
+      "value": 0.64,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "BUN / SR.CREATININE RATIO CALCULATED 16.41 Ratio 9:1-23:1",
+      "value": 16.41,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "CALCIUM PHOTOMETRY 9.45 mg/dl 8.8-10.6",
+      "value": 9.45,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "URIC ACID PHOTOMETRY 4.01 mg/dl 3.2 6.1",
+      "value": 4.01,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) : 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) 05 Mar 2021 06:03",
+      "value": 5.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190 Dr Arjun CP MD(Path) Dr.Caesar Seng",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode P8767524 Page 10 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14, The Trust. The Truth.",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Corporate office Thyrocare Limited, 9 0-37/3, TTC MIDC, Turb",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000/6712 3400 (9870666333 wellness@thyracare.com",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ": BENGALURU, KARNATAKA 560025,",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "EST. GLOMERULAR FILTRATION RATE (eGFR) CALCULATED 96 mL/min/",
+      "value": 96.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "> = 90 : Normal",
+      "value": 90.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "60-89 : Mild Decrease",
+      "value": 60.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "45 59 : Mild to Moderate Decrease",
+      "value": 45.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "30 44 : Moderate to Severe Decrease",
+      "value": 30.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "15-29 : Severe Decrease",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "creatinine is measured for patients 18 and older, when appro",
+      "value": 18.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, 3rd, F",
+      "value": 3.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Ann Intern Med. 2009;150(9):604-12.",
+      "value": 2009.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) i 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) Mar 2021 06:03",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042289/PU190",
+      "value": 403042289.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode P8767524 Page 11 of 15",
+      "value": 8767524.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 and",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Corporate office Thyrocare Limited, 9 0-37/3, TTC MIDC, Turb",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000/6712 3400 (9870666333 wellness@thyracare.com",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD, RICHMOND",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ": BENGALURU, KARNATAKA 560025,",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "FASTING BLOOD SUGAR PHOTOMETRY 138 mg/dL",
+      "value": 138.0,
+      "unit": "mg/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "70-99",
+      "value": 70.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) i 04 Mar 2021 16:12",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) Mar 2021 05:15",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042301/pU190",
+      "value": 403042301.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode R8230788 Page 12 of 15",
+      "value": 8230788.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13 Oooo",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14,",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office : Thyrocare Technologies Limited, 9 D-37/",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3050 0000 {6712 3400 {9870666333 wellness@thyracare.co",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "- 4",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT:",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "(5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD,",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560025, INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "H.P.L.C 7.7 %",
+      "value": 7.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Below 5.7% _ Normal Below 6.5% Good Control",
+      "value": 5.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "5.7% 6.4% : Prediabetic 6.5% 7% : Fair Control",
+      "value": 5.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">=6.5% : Diabetic 7.0% 8% : Unsatisfactory Control",
+      "value": 6.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": ">8% : Poor Control",
+      "value": 8.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "AVERAGE BLOOD GLUCOSE (ABG) CALCULATED 174 mg/dl",
+      "value": 174.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "90-120 mg/dl : Good Control",
+      "value": 90.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "121 150 mg/dl : Fair Control",
+      "value": 121.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "151 180 mg/dl : Unsatisfactory Control",
+      "value": 151.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "> 180 mg/dl : Poor Control",
+      "value": 180.0,
+      "unit": "mg/dl",
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received on (SRT) 04 Mar 2021 16:11",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released on (RRT) :04 Mar 2021 19:24",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode :0403042285/PU190 Dr Arjun CP MD(Path) Dr.Caesar Sen",
+      "value": 403042285.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Page : 13 of 15",
+      "value": 13.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Samanvitha Complex, No.12,13",
+      "value": 12.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "and 14, The Trust. The Truth.",
+      "value": 14.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Hebbal, Bangalore-560095",
+      "value": -560095.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "\\ Corporate office: Thyrotare Technologies Limited, 9 D-37/3",
+      "value": 9.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "© 022 3090 0000 / 6712 3400 wellness@thyrocare.com GD",
+      "value": 22.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NAME : NAYANA SURTI (61Y/F) SAMPLE COLLECTED AT :",
+      "value": 61.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "REF. BY : SELF (5600250846),RELAX HEALTHCARE SERVICES",
+      "value": 5600250846.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "INDIA PVT LTD,NO 25/2,NORRIS ROAD,",
+      "value": 25.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "560025, INDIA,560025",
+      "value": 560025.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL LEUCOCYTES COUNT 7.34",
+      "value": 7.34,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NEUTROPHILS 64.1 % 40-80",
+      "value": 64.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LYMPHOCYTE PERCENTAGE 27 % 20.0-40.0",
+      "value": 27.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MONOCYTES 3.5 % 0.0-10.0",
+      "value": 3.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "EOSINOPHILS 4.1 % 0.0-6.0",
+      "value": 4.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BASOPHILS 1 % <2",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "IMMATURE GRANULOCYTE PERCENTAGE(IG%) 0.3 % 0.0-0.4",
+      "value": 0.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NEUTROPHILS ABSOLUTE COUNT 4.7",
+      "value": 4.7,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "LYMPHOCYTES ABSOLUTE COUNT 1.98 X103/pL 1.0-3.0",
+      "value": 1.98,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MONOCYTES ABSOLUTE COUNT 0.26 X 103 / uL 0.2-1.0",
+      "value": 0.26,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "BASOPHILS ABSOLUTE COUNT 0.07 X 103 / uL 0.02-0.1",
+      "value": 0.07,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "EOSINOPHILS ABSOLUTE COUNT 0.3 X 103 / uL 0.02-0.5",
+      "value": 0.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "IMMATURE GRANULOCYTES(IG) 0.02 X 103 / uL 0.0-0.3",
+      "value": 0.02,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "TOTAL RBC 4.55 X10%6/uL",
+      "value": 4.55,
+      "unit": "%",
+      "confidence": 0.6
+    },
+    {
+      "name": "NUCLEATED RED BLOOD CELLS Nil X 103 / uL <0.01",
+      "value": 103.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "NUCLEATED RED BLOOD CELLS % Nil % <0.01",
+      "value": 0.01,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "HEMOGLOBIN 12 g/dL 12.0-15.0",
+      "value": 12.0,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "HEMATOCRIT(PCV) 37.1 % 36.0-46.0",
+      "value": 37.1,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORPUSCULAR VOLUME(MCV) 81.5 fL 83.0-101.0",
+      "value": 81.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORPUSCULAR HEMOGLOBIN(MCH) 26.4 27.0-32.0",
+      "value": 26.4,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN CORP.HEMO.CONC(MCHC) 32.3 g/dL 31.5-34.5",
+      "value": 32.3,
+      "unit": "g/dL",
+      "confidence": 0.6
+    },
+    {
+      "name": "RED CELL DISTRIBUTION WIDTH SD(RDW-SD) 44.5 fL 39.0-46.0",
+      "value": 44.5,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "RED CELL DISTRIBUTION WIDTH (RDW-CV) 14.9 % 11.6-14.0",
+      "value": 14.9,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLATELET DISTRIBUTION WIDTH(PDW) 10.9 fL 9.6-15.2",
+      "value": 10.9,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "MEAN PLATELET VOLUME(MPV) 10.3 fL 6.5-12",
+      "value": 10.3,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLATELET COUNT 378 X 103 / uL 150-400",
+      "value": 378.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLATELET TO LARGE CELL RATIO(PLCR) 26.9 % 19.7-42.4",
+      "value": 26.9,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "PLATELETCRIT(PCT) 0.39 % 0.19-0.39",
+      "value": 0.39,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Method : Fully automated bidirectional analyser (6 Part Diff",
+      "value": 6.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Collected on (SCT) 04 Mar 2021 13:25",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Sample Received (SRT) Mar 2021 16:11",
+      "value": 2021.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "1",
+      "value": 1.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Report Released (RRT) ,04 Mar 2021 19:24",
+      "value": 4.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Labcode 0403042285/PU190 Dr Arjun CP MD(Path) Dr.Caesar Seng",
+      "value": 403042285.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "iT of 15",
+      "value": 15.0,
+      "unit": null,
+      "confidence": 0.6
+    },
+    {
+      "name": "Barcode R8230789 Page 14",
+      "value": 8230789.0,
+      "unit": null,
+      "confidence": 0.6
+    }
+  ],
+  "confidence_scores": {
+    "patient": {}
+  },
+  "needs_review": [],
+  "metadata": {
+    "processed_images": 14,
+    "total_tokens": 3779,
+    "processing_timestamp": "2025-10-14T17:33:12.575771",
+    "original_filename": "tmpma_sdqak_new5.pdf"
+  }
+}

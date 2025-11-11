@@ -1,0 +1,58 @@
+{
+  "original": {
+    "patient": {
+      "patient_id": "30",
+      "age": 72,
+      "gender": "Male"
+    },
+    "tests": [
+      {
+        "name": "SODIUM 121 mmol/L 136-145... Serum",
+        "value": 121,
+        "unit": "mmol/L",
+        "confidence": 0.6
+      },
+      {
+        "name": "POTASSIUM 44 mmol/L 07 Serum",
+        "value": 44,
+        "unit": "mmol/L",
+        "confidence": 0.6
+      },
+      {
+        "name": "CHLORIDE 84 mmol/L. 98-107 Serum",
+        "value": 84,
+        "unit": "mmol/L",
+        "confidence": 0.6
+      }
+    ]
+  },
+  "corrected": {
+    "patient": {
+      "name": "MR. PRABHAKARAN NAIR",
+      "patient_id": "P1238545",
+      "age": 72,
+      "gender": "Male",
+      "date": "17-09-2025"
+    },
+    "tests": [
+      {
+        "name": "Sodium",
+        "value": 121,
+        "unit": "mmol/L",
+        "confidence": 1
+      },
+      {
+        "name": "Potassium",
+        "value": 4.4,
+        "unit": "mmol/L",
+        "confidence": 1
+      },
+      {
+        "name": "Chloride",
+        "value": 84,
+        "unit": "mmol/L",
+        "confidence": 1
+      }
+    ]
+  }
+}

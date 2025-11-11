@@ -1,0 +1,1996 @@
+{
+  "image_path": "C:\\Users\\tvijo\\Desktop\\coding\\NLP\\File Extraction Project\\data\\processed\\page_06.png",
+  "tokens": [
+    {
+      "text": "Thyro",
+      "left": 1903,
+      "top": 87,
+      "width": 265,
+      "height": 101,
+      "right": 2168,
+      "bottom": 188,
+      "confidence": 90
+    },
+    {
+      "text": "PROCESSED",
+      "left": 275,
+      "top": 89,
+      "width": 226,
+      "height": 27,
+      "right": 501,
+      "bottom": 116,
+      "confidence": 95
+    },
+    {
+      "text": "AT:",
+      "left": 514,
+      "top": 90,
+      "width": 72,
+      "height": 25,
+      "right": 586,
+      "bottom": 115,
+      "confidence": 95
+    },
+    {
+      "text": "®",
+      "left": 2345,
+      "top": 109,
+      "width": 22,
+      "height": 23,
+      "right": 2367,
+      "bottom": 132,
+      "confidence": 71
+    },
+    {
+      "text": "Care",
+      "left": 2179,
+      "top": 113,
+      "width": 167,
+      "height": 53,
+      "right": 2346,
+      "bottom": 166,
+      "confidence": 96
+    },
+    {
+      "text": "Thyrocare",
+      "left": 274,
+      "top": 136,
+      "width": 193,
+      "height": 33,
+      "right": 467,
+      "bottom": 169,
+      "confidence": 91
+    },
+    {
+      "text": "Samanvitha",
+      "left": 276,
+      "top": 186,
+      "width": 201,
+      "height": 27,
+      "right": 477,
+      "bottom": 213,
+      "confidence": 90
+    },
+    {
+      "text": "Complex,",
+      "left": 493,
+      "top": 186,
+      "width": 158,
+      "height": 33,
+      "right": 651,
+      "bottom": 219,
+      "confidence": 93
+    },
+    {
+      "text": "No.12,13",
+      "left": 669,
+      "top": 186,
+      "width": 154,
+      "height": 32,
+      "right": 823,
+      "bottom": 218,
+      "confidence": 90
+    },
+    {
+      "text": "Oooo",
+      "left": 1907,
+      "top": 193,
+      "width": 456,
+      "height": 4,
+      "right": 2363,
+      "bottom": 197,
+      "confidence": 46
+    },
+    {
+      "text": "The",
+      "left": 1907,
+      "top": 220,
+      "width": 79,
+      "height": 41,
+      "right": 1986,
+      "bottom": 261,
+      "confidence": 96
+    },
+    {
+      "text": "The",
+      "left": 2141,
+      "top": 220,
+      "width": 79,
+      "height": 40,
+      "right": 2220,
+      "bottom": 260,
+      "confidence": 95
+    },
+    {
+      "text": "Truth.",
+      "left": 2234,
+      "top": 220,
+      "width": 127,
+      "height": 40,
+      "right": 2361,
+      "bottom": 260,
+      "confidence": 96
+    },
+    {
+      "text": "Trust.",
+      "left": 2001,
+      "top": 222,
+      "width": 124,
+      "height": 37,
+      "right": 2125,
+      "bottom": 259,
+      "confidence": 95
+    },
+    {
+      "text": "and",
+      "left": 275,
+      "top": 236,
+      "width": 60,
+      "height": 27,
+      "right": 335,
+      "bottom": 263,
+      "confidence": 95
+    },
+    {
+      "text": "14,",
+      "left": 354,
+      "top": 237,
+      "width": 49,
+      "height": 32,
+      "right": 403,
+      "bottom": 269,
+      "confidence": 95
+    },
+    {
+      "text": "Street,Outer",
+      "left": 414,
+      "top": 286,
+      "width": 214,
+      "height": 32,
+      "right": 628,
+      "bottom": 318,
+      "confidence": 91
+    },
+    {
+      "text": "Road,",
+      "left": 732,
+      "top": 286,
+      "width": 92,
+      "height": 33,
+      "right": 824,
+      "bottom": 319,
+      "confidence": 96
+    },
+    {
+      "text": "Mayura",
+      "left": 277,
+      "top": 287,
+      "width": 120,
+      "height": 32,
+      "right": 397,
+      "bottom": 319,
+      "confidence": 91
+    },
+    {
+      "text": "Ring",
+      "left": 643,
+      "top": 287,
+      "width": 70,
+      "height": 32,
+      "right": 713,
+      "bottom": 319,
+      "confidence": 96
+    },
+    {
+      "text": "Hebbal,",
+      "left": 277,
+      "top": 336,
+      "width": 126,
+      "height": 32,
+      "right": 403,
+      "bottom": 368,
+      "confidence": 93
+    },
+    {
+      "text": "Bangalore-560095",
+      "left": 421,
+      "top": 336,
+      "width": 321,
+      "height": 33,
+      "right": 742,
+      "bottom": 369,
+      "confidence": 56
+    },
+    {
+      "text": "i",
+      "left": 2312,
+      "top": 372,
+      "width": 10,
+      "height": 27,
+      "right": 2322,
+      "bottom": 399,
+      "confidence": 56
+    },
+    {
+      "text": "9",
+      "left": 1275,
+      "top": 398,
+      "width": 24,
+      "height": 36,
+      "right": 1299,
+      "bottom": 434,
+      "confidence": 84
+    },
+    {
+      "text": "\\",
+      "left": 408,
+      "top": 401,
+      "width": 16,
+      "height": 34,
+      "right": 424,
+      "bottom": 435,
+      "confidence": 56
+    },
+    {
+      "text": "D-37/3,",
+      "left": 1311,
+      "top": 401,
+      "width": 104,
+      "height": 35,
+      "right": 1415,
+      "bottom": 436,
+      "confidence": 82
+    },
+    {
+      "text": "Technologies",
+      "left": 949,
+      "top": 403,
+      "width": 188,
+      "height": 33,
+      "right": 1137,
+      "bottom": 436,
+      "confidence": 62
+    },
+    {
+      "text": "Limited,",
+      "left": 1146,
+      "top": 403,
+      "width": 114,
+      "height": 34,
+      "right": 1260,
+      "bottom": 437,
+      "confidence": 94
+    },
+    {
+      "text": "Mumbal",
+      "left": 1767,
+      "top": 403,
+      "width": 114,
+      "height": 28,
+      "right": 1881,
+      "bottom": 431,
+      "confidence": 90
+    },
+    {
+      "text": "Corporate",
+      "left": 536,
+      "top": 404,
+      "width": 145,
+      "height": 33,
+      "right": 681,
+      "bottom": 437,
+      "confidence": 89
+    },
+    {
+      "text": "office",
+      "left": 689,
+      "top": 404,
+      "width": 76,
+      "height": 33,
+      "right": 765,
+      "bottom": 437,
+      "confidence": 86
+    },
+    {
+      "text": "Thyrocare",
+      "left": 798,
+      "top": 404,
+      "width": 145,
+      "height": 33,
+      "right": 943,
+      "bottom": 437,
+      "confidence": 92
+    },
+    {
+      "text": "TTC",
+      "left": 1423,
+      "top": 404,
+      "width": 52,
+      "height": 26,
+      "right": 1475,
+      "bottom": 430,
+      "confidence": 93
+    },
+    {
+      "text": "MIDC,",
+      "left": 1486,
+      "top": 404,
+      "width": 83,
+      "height": 33,
+      "right": 1569,
+      "bottom": 437,
+      "confidence": 91
+    },
+    {
+      "text": "Turbhe,",
+      "left": 1577,
+      "top": 404,
+      "width": 107,
+      "height": 33,
+      "right": 1684,
+      "bottom": 437,
+      "confidence": 92
+    },
+    {
+      "text": "Navi",
+      "left": 1695,
+      "top": 404,
+      "width": 61,
+      "height": 26,
+      "right": 1756,
+      "bottom": 430,
+      "confidence": 93
+    },
+    {
+      "text": "400",
+      "left": 1908,
+      "top": 404,
+      "width": 54,
+      "height": 26,
+      "right": 1962,
+      "bottom": 430,
+      "confidence": 82
+    },
+    {
+      "text": "703",
+      "left": 1971,
+      "top": 404,
+      "width": 51,
+      "height": 26,
+      "right": 2022,
+      "bottom": 430,
+      "confidence": 93
+    },
+    {
+      "text": ":",
+      "left": 780,
+      "top": 410,
+      "width": 2,
+      "height": 21,
+      "right": 782,
+      "bottom": 431,
+      "confidence": 77
+    },
+    {
+      "text": "-",
+      "left": 1892,
+      "top": 417,
+      "width": 10,
+      "height": 7,
+      "right": 1902,
+      "bottom": 424,
+      "confidence": 82
+    },
+    {
+      "text": "GP",
+      "left": 1730,
+      "top": 444,
+      "width": 40,
+      "height": 47,
+      "right": 1770,
+      "bottom": 491,
+      "confidence": 80
+    },
+    {
+      "text": "{9870666333",
+      "left": 1036,
+      "top": 448,
+      "width": 217,
+      "height": 35,
+      "right": 1253,
+      "bottom": 483,
+      "confidence": 79
+    },
+    {
+      "text": "©",
+      "left": 544,
+      "top": 451,
+      "width": 36,
+      "height": 36,
+      "right": 580,
+      "bottom": 487,
+      "confidence": 79
+    },
+    {
+      "text": "{6712",
+      "left": 827,
+      "top": 451,
+      "width": 92,
+      "height": 36,
+      "right": 919,
+      "bottom": 487,
+      "confidence": 39
+    },
+    {
+      "text": "022",
+      "left": 592,
+      "top": 454,
+      "width": 52,
+      "height": 27,
+      "right": 644,
+      "bottom": 481,
+      "confidence": 91
+    },
+    {
+      "text": "3050",
+      "left": 670,
+      "top": 454,
+      "width": 70,
+      "height": 27,
+      "right": 740,
+      "bottom": 481,
+      "confidence": 89
+    },
+    {
+      "text": "0000",
+      "left": 749,
+      "top": 454,
+      "width": 72,
+      "height": 26,
+      "right": 821,
+      "bottom": 480,
+      "confidence": 90
+    },
+    {
+      "text": "3400",
+      "left": 929,
+      "top": 454,
+      "width": 70,
+      "height": 27,
+      "right": 999,
+      "bottom": 481,
+      "confidence": 80
+    },
+    {
+      "text": "wellness@thyracare.com",
+      "left": 1349,
+      "top": 454,
+      "width": 357,
+      "height": 33,
+      "right": 1706,
+      "bottom": 487,
+      "confidence": 80
+    },
+    {
+      "text": "4",
+      "left": 1302,
+      "top": 457,
+      "width": 36,
+      "height": 24,
+      "right": 1338,
+      "bottom": 481,
+      "confidence": 58
+    },
+    {
+      "text": "-",
+      "left": 652,
+      "top": 467,
+      "width": 10,
+      "height": 7,
+      "right": 662,
+      "bottom": 474,
+      "confidence": 91
+    },
+    {
+      "text": "RERORG",
+      "left": 1280,
+      "top": 517,
+      "width": 164,
+      "height": 36,
+      "right": 1444,
+      "bottom": 553,
+      "confidence": 50
+    },
+    {
+      "text": "(61Y/F)",
+      "left": 856,
+      "top": 591,
+      "width": 114,
+      "height": 31,
+      "right": 970,
+      "bottom": 622,
+      "confidence": 89
+    },
+    {
+      "text": "NAYANA",
+      "left": 601,
+      "top": 592,
+      "width": 123,
+      "height": 23,
+      "right": 724,
+      "bottom": 615,
+      "confidence": 91
+    },
+    {
+      "text": "SURTI",
+      "left": 737,
+      "top": 592,
+      "width": 93,
+      "height": 24,
+      "right": 830,
+      "bottom": 616,
+      "confidence": 89
+    },
+    {
+      "text": "NAME",
+      "left": 270,
+      "top": 593,
+      "width": 97,
+      "height": 23,
+      "right": 367,
+      "bottom": 616,
+      "confidence": 96
+    },
+    {
+      "text": "SAMPLE",
+      "left": 1528,
+      "top": 594,
+      "width": 133,
+      "height": 24,
+      "right": 1661,
+      "bottom": 618,
+      "confidence": 96
+    },
+    {
+      "text": "COLLECTED",
+      "left": 1673,
+      "top": 594,
+      "width": 195,
+      "height": 24,
+      "right": 1868,
+      "bottom": 618,
+      "confidence": 93
+    },
+    {
+      "text": "AT:",
+      "left": 1878,
+      "top": 595,
+      "width": 58,
+      "height": 23,
+      "right": 1936,
+      "bottom": 618,
+      "confidence": 73
+    },
+    {
+      "text": ":",
+      "left": 566,
+      "top": 601,
+      "width": 6,
+      "height": 17,
+      "right": 572,
+      "bottom": 618,
+      "confidence": 90
+    },
+    {
+      "text": "(5600250846),RELAX",
+      "left": 1528,
+      "top": 638,
+      "width": 334,
+      "height": 31,
+      "right": 1862,
+      "bottom": 669,
+      "confidence": 90
+    },
+    {
+      "text": "HEALTHCARE",
+      "left": 1877,
+      "top": 639,
+      "width": 201,
+      "height": 24,
+      "right": 2078,
+      "bottom": 663,
+      "confidence": 95
+    },
+    {
+      "text": "SERVICES",
+      "left": 2092,
+      "top": 639,
+      "width": 156,
+      "height": 24,
+      "right": 2248,
+      "bottom": 663,
+      "confidence": 96
+    },
+    {
+      "text": "REF.",
+      "left": 270,
+      "top": 653,
+      "width": 72,
+      "height": 23,
+      "right": 342,
+      "bottom": 676,
+      "confidence": 95
+    },
+    {
+      "text": "BY",
+      "left": 358,
+      "top": 653,
+      "width": 44,
+      "height": 23,
+      "right": 402,
+      "bottom": 676,
+      "confidence": 96
+    },
+    {
+      "text": "SELF",
+      "left": 599,
+      "top": 653,
+      "width": 75,
+      "height": 23,
+      "right": 674,
+      "bottom": 676,
+      "confidence": 92
+    },
+    {
+      "text": ".",
+      "left": 566,
+      "top": 661,
+      "width": 6,
+      "height": 6,
+      "right": 572,
+      "bottom": 667,
+      "confidence": 81
+    },
+    {
+      "text": "25/2,NORRIS",
+      "left": 1830,
+      "top": 675,
+      "width": 206,
+      "height": 30,
+      "right": 2036,
+      "bottom": 705,
+      "confidence": 89
+    },
+    {
+      "text": "INDIA",
+      "left": 1527,
+      "top": 676,
+      "width": 92,
+      "height": 23,
+      "right": 1619,
+      "bottom": 699,
+      "confidence": 95
+    },
+    {
+      "text": "PVT",
+      "left": 1633,
+      "top": 676,
+      "width": 57,
+      "height": 23,
+      "right": 1690,
+      "bottom": 699,
+      "confidence": 93
+    },
+    {
+      "text": "LTD,NO",
+      "left": 1703,
+      "top": 676,
+      "width": 113,
+      "height": 29,
+      "right": 1816,
+      "bottom": 705,
+      "confidence": 91
+    },
+    {
+      "text": "ROAD,",
+      "left": 2052,
+      "top": 676,
+      "width": 97,
+      "height": 29,
+      "right": 2149,
+      "bottom": 705,
+      "confidence": 96
+    },
+    {
+      "text": "TEST",
+      "left": 268,
+      "top": 710,
+      "width": 85,
+      "height": 23,
+      "right": 353,
+      "bottom": 733,
+      "confidence": 96
+    },
+    {
+      "text": "ASKED",
+      "left": 364,
+      "top": 710,
+      "width": 115,
+      "height": 23,
+      "right": 479,
+      "bottom": 733,
+      "confidence": 96
+    },
+    {
+      "text": "AAROGYAM",
+      "left": 599,
+      "top": 710,
+      "width": 174,
+      "height": 24,
+      "right": 773,
+      "bottom": 734,
+      "confidence": 88
+    },
+    {
+      "text": "C",
+      "left": 789,
+      "top": 710,
+      "width": 19,
+      "height": 24,
+      "right": 808,
+      "bottom": 734,
+      "confidence": 90
+    },
+    {
+      "text": "RICHMOND",
+      "left": 1528,
+      "top": 714,
+      "width": 172,
+      "height": 24,
+      "right": 1700,
+      "bottom": 738,
+      "confidence": 92
+    },
+    {
+      "text": "TOWN,BENGALURU,",
+      "left": 1713,
+      "top": 714,
+      "width": 310,
+      "height": 29,
+      "right": 2023,
+      "bottom": 743,
+      "confidence": 91
+    },
+    {
+      "text": "KARNATAKA",
+      "left": 2039,
+      "top": 714,
+      "width": 185,
+      "height": 23,
+      "right": 2224,
+      "bottom": 737,
+      "confidence": 95
+    },
+    {
+      "text": ":",
+      "left": 566,
+      "top": 718,
+      "width": 6,
+      "height": 17,
+      "right": 572,
+      "bottom": 735,
+      "confidence": 88
+    },
+    {
+      "text": "560025,",
+      "left": 1528,
+      "top": 751,
+      "width": 124,
+      "height": 29,
+      "right": 1652,
+      "bottom": 780,
+      "confidence": 93
+    },
+    {
+      "text": "INDIA,560025",
+      "left": 1667,
+      "top": 751,
+      "width": 221,
+      "height": 29,
+      "right": 1888,
+      "bottom": 780,
+      "confidence": 89
+    },
+    {
+      "text": "VALUE",
+      "left": 1635,
+      "top": 856,
+      "width": 123,
+      "height": 26,
+      "right": 1758,
+      "bottom": 882,
+      "confidence": 96
+    },
+    {
+      "text": "TECHNOLOGY",
+      "left": 1149,
+      "top": 860,
+      "width": 262,
+      "height": 27,
+      "right": 1411,
+      "bottom": 887,
+      "confidence": 95
+    },
+    {
+      "text": "TEST",
+      "left": 268,
+      "top": 861,
+      "width": 93,
+      "height": 25,
+      "right": 361,
+      "bottom": 886,
+      "confidence": 96
+    },
+    {
+      "text": "NAME",
+      "left": 377,
+      "top": 861,
+      "width": 106,
+      "height": 25,
+      "right": 483,
+      "bottom": 886,
+      "confidence": 95
+    },
+    {
+      "text": "UNITS",
+      "left": 1892,
+      "top": 861,
+      "width": 120,
+      "height": 26,
+      "right": 2012,
+      "bottom": 887,
+      "confidence": 95
+    },
+    {
+      "text": "IRON",
+      "left": 283,
+      "top": 973,
+      "width": 99,
+      "height": 27,
+      "right": 382,
+      "bottom": 1000,
+      "confidence": 96
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1153,
+      "top": 973,
+      "width": 264,
+      "height": 27,
+      "right": 1417,
+      "bottom": 1000,
+      "confidence": 96
+    },
+    {
+      "text": "45.1",
+      "left": 1646,
+      "top": 974,
+      "width": 82,
+      "height": 26,
+      "right": 1728,
+      "bottom": 1000,
+      "confidence": 92
+    },
+    {
+      "text": "Reference",
+      "left": 276,
+      "top": 1024,
+      "width": 172,
+      "height": 24,
+      "right": 448,
+      "bottom": 1048,
+      "confidence": 96
+    },
+    {
+      "text": "Range",
+      "left": 463,
+      "top": 1025,
+      "width": 105,
+      "height": 29,
+      "right": 568,
+      "bottom": 1054,
+      "confidence": 82
+    },
+    {
+      "text": ":",
+      "left": 583,
+      "top": 1031,
+      "width": 6,
+      "height": 17,
+      "right": 589,
+      "bottom": 1048,
+      "confidence": 82
+    },
+    {
+      "text": "Male",
+      "left": 277,
+      "top": 1062,
+      "width": 67,
+      "height": 25,
+      "right": 344,
+      "bottom": 1087,
+      "confidence": 90
+    },
+    {
+      "text": "65-175",
+      "left": 384,
+      "top": 1063,
+      "width": 130,
+      "height": 24,
+      "right": 514,
+      "bottom": 1087,
+      "confidence": 93
+    },
+    {
+      "text": ":",
+      "left": 361,
+      "top": 1069,
+      "width": 5,
+      "height": 17,
+      "right": 366,
+      "bottom": 1086,
+      "confidence": 86
+    },
+    {
+      "text": "Female",
+      "left": 277,
+      "top": 1106,
+      "width": 107,
+      "height": 25,
+      "right": 384,
+      "bottom": 1131,
+      "confidence": 93
+    },
+    {
+      "text": "50",
+      "left": 424,
+      "top": 1107,
+      "width": 35,
+      "height": 24,
+      "right": 459,
+      "bottom": 1131,
+      "confidence": 88
+    },
+    {
+      "text": "170",
+      "left": 501,
+      "top": 1107,
+      "width": 53,
+      "height": 24,
+      "right": 554,
+      "bottom": 1131,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 401,
+      "top": 1113,
+      "width": 4,
+      "height": 17,
+      "right": 405,
+      "bottom": 1130,
+      "confidence": 92
+    },
+    {
+      "text": "-",
+      "left": 474,
+      "top": 1118,
+      "width": 10,
+      "height": 4,
+      "right": 484,
+      "bottom": 1122,
+      "confidence": 88
+    },
+    {
+      "text": "_FERROZINE",
+      "left": 449,
+      "top": 1149,
+      "width": 158,
+      "height": 22,
+      "right": 607,
+      "bottom": 1171,
+      "confidence": 50
+    },
+    {
+      "text": "METHOD",
+      "left": 620,
+      "top": 1149,
+      "width": 117,
+      "height": 22,
+      "right": 737,
+      "bottom": 1171,
+      "confidence": 95
+    },
+    {
+      "text": "WITHOUT",
+      "left": 749,
+      "top": 1149,
+      "width": 135,
+      "height": 22,
+      "right": 884,
+      "bottom": 1171,
+      "confidence": 92
+    },
+    {
+      "text": "DEPROTEINIZATION",
+      "left": 895,
+      "top": 1149,
+      "width": 276,
+      "height": 22,
+      "right": 1171,
+      "bottom": 1171,
+      "confidence": 90
+    },
+    {
+      "text": "Method",
+      "left": 276,
+      "top": 1150,
+      "width": 110,
+      "height": 21,
+      "right": 386,
+      "bottom": 1171,
+      "confidence": 85
+    },
+    {
+      "text": ":",
+      "left": 401,
+      "top": 1156,
+      "width": 5,
+      "height": 15,
+      "right": 406,
+      "bottom": 1171,
+      "confidence": 50
+    },
+    {
+      "text": "TOTAL",
+      "left": 282,
+      "top": 1193,
+      "width": 123,
+      "height": 27,
+      "right": 405,
+      "bottom": 1220,
+      "confidence": 95
+    },
+    {
+      "text": "IRON",
+      "left": 419,
+      "top": 1193,
+      "width": 100,
+      "height": 27,
+      "right": 519,
+      "bottom": 1220,
+      "confidence": 95
+    },
+    {
+      "text": "CAPACITY",
+      "left": 725,
+      "top": 1193,
+      "width": 194,
+      "height": 26,
+      "right": 919,
+      "bottom": 1219,
+      "confidence": 93
+    },
+    {
+      "text": "(TIBC)",
+      "left": 934,
+      "top": 1193,
+      "width": 124,
+      "height": 33,
+      "right": 1058,
+      "bottom": 1226,
+      "confidence": 92
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1153,
+      "top": 1193,
+      "width": 234,
+      "height": 27,
+      "right": 1387,
+      "bottom": 1220,
+      "confidence": 96
+    },
+    {
+      "text": "463",
+      "left": 1646,
+      "top": 1193,
+      "width": 62,
+      "height": 27,
+      "right": 1708,
+      "bottom": 1220,
+      "confidence": 96
+    },
+    {
+      "text": "BINDING",
+      "left": 536,
+      "top": 1194,
+      "width": 173,
+      "height": 26,
+      "right": 709,
+      "bottom": 1220,
+      "confidence": 96
+    },
+    {
+      "text": "Reference",
+      "left": 276,
+      "top": 1244,
+      "width": 172,
+      "height": 24,
+      "right": 448,
+      "bottom": 1268,
+      "confidence": 96
+    },
+    {
+      "text": "Range",
+      "left": 463,
+      "top": 1245,
+      "width": 105,
+      "height": 29,
+      "right": 568,
+      "bottom": 1274,
+      "confidence": 82
+    },
+    {
+      "text": ":",
+      "left": 583,
+      "top": 1251,
+      "width": 6,
+      "height": 17,
+      "right": 589,
+      "bottom": 1268,
+      "confidence": 82
+    },
+    {
+      "text": "Male:",
+      "left": 277,
+      "top": 1282,
+      "width": 78,
+      "height": 25,
+      "right": 355,
+      "bottom": 1307,
+      "confidence": 96
+    },
+    {
+      "text": "ug/dl",
+      "left": 539,
+      "top": 1282,
+      "width": 76,
+      "height": 31,
+      "right": 615,
+      "bottom": 1313,
+      "confidence": 71
+    },
+    {
+      "text": "Female:",
+      "left": 642,
+      "top": 1282,
+      "width": 117,
+      "height": 25,
+      "right": 759,
+      "bottom": 1307,
+      "confidence": 96
+    },
+    {
+      "text": "yg/dl",
+      "left": 943,
+      "top": 1282,
+      "width": 76,
+      "height": 31,
+      "right": 1019,
+      "bottom": 1313,
+      "confidence": 73
+    },
+    {
+      "text": "225",
+      "left": 373,
+      "top": 1283,
+      "width": 55,
+      "height": 24,
+      "right": 428,
+      "bottom": 1307,
+      "confidence": 88
+    },
+    {
+      "text": "535",
+      "left": 468,
+      "top": 1283,
+      "width": 55,
+      "height": 24,
+      "right": 523,
+      "bottom": 1307,
+      "confidence": 93
+    },
+    {
+      "text": "215",
+      "left": 777,
+      "top": 1283,
+      "width": 55,
+      "height": 24,
+      "right": 832,
+      "bottom": 1307,
+      "confidence": 93
+    },
+    {
+      "text": "535",
+      "left": 873,
+      "top": 1283,
+      "width": 55,
+      "height": 24,
+      "right": 928,
+      "bottom": 1307,
+      "confidence": 93
+    },
+    {
+      "text": "-",
+      "left": 443,
+      "top": 1294,
+      "width": 10,
+      "height": 4,
+      "right": 453,
+      "bottom": 1298,
+      "confidence": 88
+    },
+    {
+      "text": "-",
+      "left": 848,
+      "top": 1294,
+      "width": 10,
+      "height": 4,
+      "right": 858,
+      "bottom": 1298,
+      "confidence": 91
+    },
+    {
+      "text": "_SPECTROPHOTOMETRIC",
+      "left": 448,
+      "top": 1324,
+      "width": 331,
+      "height": 22,
+      "right": 779,
+      "bottom": 1346,
+      "confidence": 63
+    },
+    {
+      "text": "Method",
+      "left": 276,
+      "top": 1325,
+      "width": 110,
+      "height": 21,
+      "right": 386,
+      "bottom": 1346,
+      "confidence": 87
+    },
+    {
+      "text": "ASSAY",
+      "left": 790,
+      "top": 1325,
+      "width": 90,
+      "height": 20,
+      "right": 880,
+      "bottom": 1345,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 401,
+      "top": 1331,
+      "width": 5,
+      "height": 15,
+      "right": 406,
+      "bottom": 1346,
+      "confidence": 63
+    },
+    {
+      "text": "%,",
+      "left": 284,
+      "top": 1368,
+      "width": 39,
+      "height": 27,
+      "right": 323,
+      "bottom": 1395,
+      "confidence": 51
+    },
+    {
+      "text": "SATURATION",
+      "left": 628,
+      "top": 1368,
+      "width": 252,
+      "height": 27,
+      "right": 880,
+      "bottom": 1395,
+      "confidence": 96
+    },
+    {
+      "text": "9.74",
+      "left": 1647,
+      "top": 1368,
+      "width": 83,
+      "height": 27,
+      "right": 1730,
+      "bottom": 1395,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1916,
+      "top": 1368,
+      "width": 39,
+      "height": 27,
+      "right": 1955,
+      "bottom": 1395,
+      "confidence": 74
+    },
+    {
+      "text": "TRANSFERRIN",
+      "left": 337,
+      "top": 1369,
+      "width": 275,
+      "height": 25,
+      "right": 612,
+      "bottom": 1394,
+      "confidence": 96
+    },
+    {
+      "text": "CALCULATED",
+      "left": 1152,
+      "top": 1369,
+      "width": 247,
+      "height": 26,
+      "right": 1399,
+      "bottom": 1395,
+      "confidence": 96
+    },
+    {
+      "text": "Reference",
+      "left": 276,
+      "top": 1419,
+      "width": 172,
+      "height": 24,
+      "right": 448,
+      "bottom": 1443,
+      "confidence": 96
+    },
+    {
+      "text": "Range",
+      "left": 463,
+      "top": 1420,
+      "width": 105,
+      "height": 29,
+      "right": 568,
+      "bottom": 1449,
+      "confidence": 82
+    },
+    {
+      "text": ":",
+      "left": 583,
+      "top": 1426,
+      "width": 6,
+      "height": 17,
+      "right": 589,
+      "bottom": 1443,
+      "confidence": 82
+    },
+    {
+      "text": "13-45",
+      "left": 278,
+      "top": 1459,
+      "width": 109,
+      "height": 24,
+      "right": 387,
+      "bottom": 1483,
+      "confidence": 52
+    },
+    {
+      "text": "Method",
+      "left": 272,
+      "top": 1496,
+      "width": 113,
+      "height": 45,
+      "right": 385,
+      "bottom": 1541,
+      "confidence": 84
+    },
+    {
+      "text": "DERIVED",
+      "left": 437,
+      "top": 1496,
+      "width": 135,
+      "height": 45,
+      "right": 572,
+      "bottom": 1541,
+      "confidence": 37
+    },
+    {
+      "text": "FROM",
+      "left": 587,
+      "top": 1496,
+      "width": 68,
+      "height": 45,
+      "right": 655,
+      "bottom": 1541,
+      "confidence": 94
+    },
+    {
+      "text": "IRON",
+      "left": 673,
+      "top": 1496,
+      "width": 68,
+      "height": 45,
+      "right": 741,
+      "bottom": 1541,
+      "confidence": 94
+    },
+    {
+      "text": "AND",
+      "left": 759,
+      "top": 1496,
+      "width": 53,
+      "height": 45,
+      "right": 812,
+      "bottom": 1541,
+      "confidence": 89
+    },
+    {
+      "text": "TIBC",
+      "left": 827,
+      "top": 1496,
+      "width": 68,
+      "height": 45,
+      "right": 895,
+      "bottom": 1541,
+      "confidence": 89
+    },
+    {
+      "text": "VALUES",
+      "left": 909,
+      "top": 1496,
+      "width": 102,
+      "height": 45,
+      "right": 1011,
+      "bottom": 1541,
+      "confidence": 64
+    },
+    {
+      "text": "Please",
+      "left": 276,
+      "top": 1546,
+      "width": 111,
+      "height": 24,
+      "right": 387,
+      "bottom": 1570,
+      "confidence": 94
+    },
+    {
+      "text": "correlate",
+      "left": 400,
+      "top": 1546,
+      "width": 154,
+      "height": 25,
+      "right": 554,
+      "bottom": 1571,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 567,
+      "top": 1546,
+      "width": 74,
+      "height": 24,
+      "right": 641,
+      "bottom": 1570,
+      "confidence": 96
+    },
+    {
+      "text": "clinical",
+      "left": 655,
+      "top": 1546,
+      "width": 118,
+      "height": 24,
+      "right": 773,
+      "bottom": 1570,
+      "confidence": 95
+    },
+    {
+      "text": "conditions.",
+      "left": 788,
+      "top": 1546,
+      "width": 188,
+      "height": 25,
+      "right": 976,
+      "bottom": 1571,
+      "confidence": 96
+    },
+    {
+      "text": "Sample",
+      "left": 282,
+      "top": 2750,
+      "width": 139,
+      "height": 33,
+      "right": 421,
+      "bottom": 2783,
+      "confidence": 96
+    },
+    {
+      "text": "Collected",
+      "left": 436,
+      "top": 2750,
+      "width": 173,
+      "height": 27,
+      "right": 609,
+      "bottom": 2777,
+      "confidence": 96
+    },
+    {
+      "text": "(SCT)",
+      "left": 686,
+      "top": 2750,
+      "width": 104,
+      "height": 33,
+      "right": 790,
+      "bottom": 2783,
+      "confidence": 95
+    },
+    {
+      "text": "04",
+      "left": 899,
+      "top": 2753,
+      "width": 54,
+      "height": 27,
+      "right": 953,
+      "bottom": 2780,
+      "confidence": 55
+    },
+    {
+      "text": "2021",
+      "left": 1046,
+      "top": 2753,
+      "width": 81,
+      "height": 27,
+      "right": 1127,
+      "bottom": 2780,
+      "confidence": 96
+    },
+    {
+      "text": "13:25",
+      "left": 1147,
+      "top": 2753,
+      "width": 97,
+      "height": 27,
+      "right": 1244,
+      "bottom": 2780,
+      "confidence": 95
+    },
+    {
+      "text": "Mar",
+      "left": 970,
+      "top": 2754,
+      "width": 62,
+      "height": 26,
+      "right": 1032,
+      "bottom": 2780,
+      "confidence": 95
+    },
+    {
+      "text": "on",
+      "left": 625,
+      "top": 2757,
+      "width": 44,
+      "height": 20,
+      "right": 669,
+      "bottom": 2777,
+      "confidence": 96
+    },
+    {
+      "text": "Sample",
+      "left": 280,
+      "top": 2817,
+      "width": 139,
+      "height": 33,
+      "right": 419,
+      "bottom": 2850,
+      "confidence": 95
+    },
+    {
+      "text": "Received",
+      "left": 435,
+      "top": 2817,
+      "width": 168,
+      "height": 27,
+      "right": 603,
+      "bottom": 2844,
+      "confidence": 95
+    },
+    {
+      "text": "(SRT)",
+      "left": 681,
+      "top": 2817,
+      "width": 105,
+      "height": 33,
+      "right": 786,
+      "bottom": 2850,
+      "confidence": 96
+    },
+    {
+      "text": "04",
+      "left": 923,
+      "top": 2823,
+      "width": 40,
+      "height": 27,
+      "right": 963,
+      "bottom": 2850,
+      "confidence": 95
+    },
+    {
+      "text": "2021",
+      "left": 1055,
+      "top": 2823,
+      "width": 82,
+      "height": 27,
+      "right": 1137,
+      "bottom": 2850,
+      "confidence": 95
+    },
+    {
+      "text": "16:11",
+      "left": 1157,
+      "top": 2823,
+      "width": 95,
+      "height": 27,
+      "right": 1252,
+      "bottom": 2850,
+      "confidence": 95
+    },
+    {
+      "text": "on",
+      "left": 619,
+      "top": 2824,
+      "width": 44,
+      "height": 20,
+      "right": 663,
+      "bottom": 2844,
+      "confidence": 96
+    },
+    {
+      "text": "Mar",
+      "left": 980,
+      "top": 2824,
+      "width": 61,
+      "height": 26,
+      "right": 1041,
+      "bottom": 2850,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 898,
+      "top": 2830,
+      "width": 7,
+      "height": 19,
+      "right": 905,
+      "bottom": 2849,
+      "confidence": 85
+    },
+    {
+      "text": "Released",
+      "left": 433,
+      "top": 2875,
+      "width": 169,
+      "height": 27,
+      "right": 602,
+      "bottom": 2902,
+      "confidence": 96
+    },
+    {
+      "text": "(RRT)",
+      "left": 680,
+      "top": 2875,
+      "width": 108,
+      "height": 33,
+      "right": 788,
+      "bottom": 2908,
+      "confidence": 92
+    },
+    {
+      "text": "Report",
+      "left": 280,
+      "top": 2876,
+      "width": 127,
+      "height": 32,
+      "right": 407,
+      "bottom": 2908,
+      "confidence": 96
+    },
+    {
+      "text": "on",
+      "left": 618,
+      "top": 2882,
+      "width": 45,
+      "height": 20,
+      "right": 663,
+      "bottom": 2902,
+      "confidence": 93
+    },
+    {
+      "text": ":05",
+      "left": 897,
+      "top": 2882,
+      "width": 54,
+      "height": 27,
+      "right": 951,
+      "bottom": 2909,
+      "confidence": 91
+    },
+    {
+      "text": "2021",
+      "left": 1044,
+      "top": 2882,
+      "width": 82,
+      "height": 27,
+      "right": 1126,
+      "bottom": 2909,
+      "confidence": 96
+    },
+    {
+      "text": "06:03",
+      "left": 1143,
+      "top": 2882,
+      "width": 99,
+      "height": 27,
+      "right": 1242,
+      "bottom": 2909,
+      "confidence": 96
+    },
+    {
+      "text": "Mar",
+      "left": 968,
+      "top": 2883,
+      "width": 62,
+      "height": 26,
+      "right": 1030,
+      "bottom": 2909,
+      "confidence": 96
+    },
+    {
+      "text": "=",
+      "left": 2173,
+      "top": 2938,
+      "width": 29,
+      "height": 23,
+      "right": 2202,
+      "bottom": 2961,
+      "confidence": 47
+    },
+    {
+      "text": "Sample",
+      "left": 277,
+      "top": 2942,
+      "width": 139,
+      "height": 33,
+      "right": 416,
+      "bottom": 2975,
+      "confidence": 96
+    },
+    {
+      "text": "Type",
+      "left": 429,
+      "top": 2943,
+      "width": 91,
+      "height": 32,
+      "right": 520,
+      "bottom": 2975,
+      "confidence": 96
+    },
+    {
+      "text": "SERUM",
+      "left": 918,
+      "top": 2944,
+      "width": 118,
+      "height": 27,
+      "right": 1036,
+      "bottom": 2971,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 900,
+      "top": 2953,
+      "width": 6,
+      "height": 19,
+      "right": 906,
+      "bottom": 2972,
+      "confidence": 90
+    },
+    {
+      "text": "Dr",
+      "left": 1324,
+      "top": 3000,
+      "width": 37,
+      "height": 27,
+      "right": 1361,
+      "bottom": 3027,
+      "confidence": 58
+    },
+    {
+      "text": "Arjun",
+      "left": 1369,
+      "top": 3000,
+      "width": 84,
+      "height": 35,
+      "right": 1453,
+      "bottom": 3035,
+      "confidence": 95
+    },
+    {
+      "text": "CP",
+      "left": 1468,
+      "top": 3000,
+      "width": 48,
+      "height": 28,
+      "right": 1516,
+      "bottom": 3028,
+      "confidence": 92
+    },
+    {
+      "text": "MD(Path)",
+      "left": 1531,
+      "top": 3000,
+      "width": 155,
+      "height": 35,
+      "right": 1686,
+      "bottom": 3035,
+      "confidence": 89
+    },
+    {
+      "text": "Dr.Caesar",
+      "left": 1953,
+      "top": 3003,
+      "width": 167,
+      "height": 28,
+      "right": 2120,
+      "bottom": 3031,
+      "confidence": 92
+    },
+    {
+      "text": "Sengupta",
+      "left": 2132,
+      "top": 3003,
+      "width": 156,
+      "height": 35,
+      "right": 2288,
+      "bottom": 3038,
+      "confidence": 93
+    },
+    {
+      "text": "MD(Micro)",
+      "left": 2303,
+      "top": 3003,
+      "width": 169,
+      "height": 35,
+      "right": 2472,
+      "bottom": 3038,
+      "confidence": 92
+    },
+    {
+      "text": "Labcode",
+      "left": 276,
+      "top": 3007,
+      "width": 156,
+      "height": 27,
+      "right": 432,
+      "bottom": 3034,
+      "confidence": 92
+    },
+    {
+      "text": ":0403042289/PU190",
+      "left": 899,
+      "top": 3008,
+      "width": 360,
+      "height": 31,
+      "right": 1259,
+      "bottom": 3039,
+      "confidence": 82
+    },
+    {
+      "text": "ae",
+      "left": 823,
+      "top": 3048,
+      "width": 82,
+      "height": 35,
+      "right": 905,
+      "bottom": 3083,
+      "confidence": 32
+    },
+    {
+      "text": "Barcode",
+      "left": 272,
+      "top": 3071,
+      "width": 152,
+      "height": 27,
+      "right": 424,
+      "bottom": 3098,
+      "confidence": 96
+    },
+    {
+      "text": "Page",
+      "left": 1943,
+      "top": 3090,
+      "width": 82,
+      "height": 35,
+      "right": 2025,
+      "bottom": 3125,
+      "confidence": 93
+    },
+    {
+      "text": "6",
+      "left": 2059,
+      "top": 3090,
+      "width": 18,
+      "height": 28,
+      "right": 2077,
+      "bottom": 3118,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 2090,
+      "top": 3090,
+      "width": 32,
+      "height": 28,
+      "right": 2122,
+      "bottom": 3118,
+      "confidence": 96
+    },
+    {
+      "text": "15",
+      "left": 2135,
+      "top": 3090,
+      "width": 36,
+      "height": 28,
+      "right": 2171,
+      "bottom": 3118,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 2041,
+      "top": 3097,
+      "width": 4,
+      "height": 20,
+      "right": 2045,
+      "bottom": 3117,
+      "confidence": 91
+    }
+  ],
+  "total_tokens": 199
+}

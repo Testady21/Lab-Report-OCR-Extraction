@@ -1,0 +1,5326 @@
+{
+  "image_path": "C:\\Users\\tvijo\\Desktop\\coding\\NLP\\File Extraction Project\\data\\processed\\page_16.png",
+  "tokens": [
+    {
+      "text": "(35)",
+      "left": 1569,
+      "top": 104,
+      "width": 123,
+      "height": 100,
+      "right": 1692,
+      "bottom": 204,
+      "confidence": 46
+    },
+    {
+      "text": "axe",
+      "left": 1412,
+      "top": 135,
+      "width": 136,
+      "height": 56,
+      "right": 1548,
+      "bottom": 191,
+      "confidence": 33
+    },
+    {
+      "text": "£7",
+      "left": 1585,
+      "top": 207,
+      "width": 27,
+      "height": 22,
+      "right": 1612,
+      "bottom": 229,
+      "confidence": 65
+    },
+    {
+      "text": "MC-3003",
+      "left": 1561,
+      "top": 248,
+      "width": 109,
+      "height": 20,
+      "right": 1670,
+      "bottom": 268,
+      "confidence": 91
+    },
+    {
+      "text": "FARKHUNDA",
+      "left": 500,
+      "top": 327,
+      "width": 233,
+      "height": 26,
+      "right": 733,
+      "bottom": 353,
+      "confidence": 91
+    },
+    {
+      "text": "DOCTOR:",
+      "left": 1538,
+      "top": 327,
+      "width": 175,
+      "height": 26,
+      "right": 1713,
+      "bottom": 353,
+      "confidence": 87
+    },
+    {
+      "text": "PATIENT",
+      "left": 168,
+      "top": 328,
+      "width": 162,
+      "height": 24,
+      "right": 330,
+      "bottom": 352,
+      "confidence": 95
+    },
+    {
+      "text": "NAME",
+      "left": 344,
+      "top": 328,
+      "width": 104,
+      "height": 24,
+      "right": 448,
+      "bottom": 352,
+      "confidence": 84
+    },
+    {
+      "text": "JABEEN",
+      "left": 745,
+      "top": 328,
+      "width": 141,
+      "height": 24,
+      "right": 886,
+      "bottom": 352,
+      "confidence": 93
+    },
+    {
+      "text": "REF.",
+      "left": 1444,
+      "top": 328,
+      "width": 77,
+      "height": 24,
+      "right": 1521,
+      "bottom": 352,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 465,
+      "top": 333,
+      "width": 6,
+      "height": 19,
+      "right": 471,
+      "bottom": 352,
+      "confidence": 84
+    },
+    {
+      "text": "CODE/NAME",
+      "left": 166,
+      "top": 380,
+      "width": 202,
+      "height": 27,
+      "right": 368,
+      "bottom": 407,
+      "confidence": 92
+    },
+    {
+      "text": "&",
+      "left": 382,
+      "top": 380,
+      "width": 20,
+      "height": 22,
+      "right": 402,
+      "bottom": 402,
+      "confidence": 93
+    },
+    {
+      "text": "ADDRESS",
+      "left": 415,
+      "top": 380,
+      "width": 154,
+      "height": 22,
+      "right": 569,
+      "bottom": 402,
+      "confidence": 93
+    },
+    {
+      "text": ":C000138482",
+      "left": 593,
+      "top": 381,
+      "width": 227,
+      "height": 26,
+      "right": 820,
+      "bottom": 407,
+      "confidence": 64
+    },
+    {
+      "text": "Female",
+      "left": 2188,
+      "top": 382,
+      "width": 114,
+      "height": 27,
+      "right": 2302,
+      "bottom": 409,
+      "confidence": 95
+    },
+    {
+      "text": ":42",
+      "left": 1938,
+      "top": 383,
+      "width": 51,
+      "height": 25,
+      "right": 1989,
+      "bottom": 408,
+      "confidence": 73
+    },
+    {
+      "text": "Years",
+      "left": 2003,
+      "top": 383,
+      "width": 91,
+      "height": 26,
+      "right": 2094,
+      "bottom": 409,
+      "confidence": 96
+    },
+    {
+      "text": "‘ACCESSION",
+      "left": 1073,
+      "top": 384,
+      "width": 181,
+      "height": 34,
+      "right": 1254,
+      "bottom": 418,
+      "confidence": 52
+    },
+    {
+      "text": "0042WB003997",
+      "left": 1345,
+      "top": 384,
+      "width": 296,
+      "height": 26,
+      "right": 1641,
+      "bottom": 410,
+      "confidence": 90
+    },
+    {
+      "text": "NO",
+      "left": 1269,
+      "top": 388,
+      "width": 41,
+      "height": 23,
+      "right": 1310,
+      "bottom": 411,
+      "confidence": 92
+    },
+    {
+      "text": ":",
+      "left": 1326,
+      "top": 394,
+      "width": 4,
+      "height": 16,
+      "right": 1330,
+      "bottom": 410,
+      "confidence": 91
+    },
+    {
+      "text": "iPATIENTID",
+      "left": 1073,
+      "top": 421,
+      "width": 170,
+      "height": 59,
+      "right": 1243,
+      "bottom": 480,
+      "confidence": 45
+    },
+    {
+      "text": "RELEX",
+      "left": 168,
+      "top": 428,
+      "width": 102,
+      "height": 25,
+      "right": 270,
+      "bottom": 453,
+      "confidence": 92
+    },
+    {
+      "text": "HEALTHCARE",
+      "left": 286,
+      "top": 428,
+      "width": 215,
+      "height": 26,
+      "right": 501,
+      "bottom": 454,
+      "confidence": 96
+    },
+    {
+      "text": "SERVICES",
+      "left": 516,
+      "top": 428,
+      "width": 167,
+      "height": 26,
+      "right": 683,
+      "bottom": 454,
+      "confidence": 96
+    },
+    {
+      "text": "INDIA",
+      "left": 699,
+      "top": 428,
+      "width": 99,
+      "height": 25,
+      "right": 798,
+      "bottom": 453,
+      "confidence": 96
+    },
+    {
+      "text": "PVT",
+      "left": 813,
+      "top": 428,
+      "width": 61,
+      "height": 25,
+      "right": 874,
+      "bottom": 453,
+      "confidence": 77
+    },
+    {
+      "text": "LTD",
+      "left": 885,
+      "top": 429,
+      "width": 56,
+      "height": 24,
+      "right": 941,
+      "bottom": 453,
+      "confidence": 77
+    },
+    {
+      "text": "00:00:00",
+      "left": 2163,
+      "top": 440,
+      "width": 153,
+      "height": 26,
+      "right": 2316,
+      "bottom": 466,
+      "confidence": 96
+    },
+    {
+      "text": "FARKF24028142",
+      "left": 1346,
+      "top": 446,
+      "width": 269,
+      "height": 26,
+      "right": 1615,
+      "bottom": 472,
+      "confidence": 89
+    },
+    {
+      "text": "PHASE",
+      "left": 427,
+      "top": 475,
+      "width": 102,
+      "height": 67,
+      "right": 529,
+      "bottom": 542,
+      "confidence": 86
+    },
+    {
+      "text": "KPH",
+      "left": 548,
+      "top": 475,
+      "width": 68,
+      "height": 72,
+      "right": 616,
+      "bottom": 547,
+      "confidence": 81
+    },
+    {
+      "text": "COLONY,",
+      "left": 643,
+      "top": 475,
+      "width": 156,
+      "height": 72,
+      "right": 799,
+      "bottom": 547,
+      "confidence": 61
+    },
+    {
+      "text": "DRA",
+      "left": 859,
+      "top": 476,
+      "width": 68,
+      "height": 24,
+      "right": 927,
+      "bottom": 500,
+      "confidence": 95
+    },
+    {
+      "text": "{CLIENT",
+      "left": 1073,
+      "top": 484,
+      "width": 114,
+      "height": 59,
+      "right": 1187,
+      "bottom": 543,
+      "confidence": 33
+    },
+    {
+      "text": "24/02/2023",
+      "left": 1951,
+      "top": 498,
+      "width": 195,
+      "height": 31,
+      "right": 2146,
+      "bottom": 529,
+      "confidence": 96
+    },
+    {
+      "text": "11:15:24",
+      "left": 2165,
+      "top": 499,
+      "width": 152,
+      "height": 26,
+      "right": 2317,
+      "bottom": 525,
+      "confidence": 96
+    },
+    {
+      "text": "RECEIVED",
+      "left": 1762,
+      "top": 503,
+      "width": 146,
+      "height": 22,
+      "right": 1908,
+      "bottom": 525,
+      "confidence": 90
+    },
+    {
+      "text": "PATIENT",
+      "left": 1197,
+      "top": 504,
+      "width": 120,
+      "height": 21,
+      "right": 1317,
+      "bottom": 525,
+      "confidence": 96
+    },
+    {
+      "text": "ID:",
+      "left": 1326,
+      "top": 504,
+      "width": 41,
+      "height": 21,
+      "right": 1367,
+      "bottom": 525,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 1935,
+      "top": 509,
+      "width": 4,
+      "height": 16,
+      "right": 1939,
+      "bottom": 525,
+      "confidence": 91
+    },
+    {
+      "text": "[REPORTED",
+      "left": 1747,
+      "top": 546,
+      "width": 166,
+      "height": 47,
+      "right": 1913,
+      "bottom": 593,
+      "confidence": 43
+    },
+    {
+      "text": ":24/02/2023",
+      "left": 1940,
+      "top": 551,
+      "width": 206,
+      "height": 31,
+      "right": 2146,
+      "bottom": 582,
+      "confidence": 92
+    },
+    {
+      "text": "15:24:24",
+      "left": 2165,
+      "top": 552,
+      "width": 152,
+      "height": 26,
+      "right": 2317,
+      "bottom": 578,
+      "confidence": 96
+    },
+    {
+      "text": "HYDERABAD",
+      "left": 168,
+      "top": 564,
+      "width": 205,
+      "height": 25,
+      "right": 373,
+      "bottom": 589,
+      "confidence": 96
+    },
+    {
+      "text": "500072",
+      "left": 389,
+      "top": 564,
+      "width": 123,
+      "height": 26,
+      "right": 512,
+      "bottom": 590,
+      "confidence": 96
+    },
+    {
+      "text": "NO",
+      "left": 1175,
+      "top": 564,
+      "width": 41,
+      "height": 23,
+      "right": 1216,
+      "bottom": 587,
+      "confidence": 96
+    },
+    {
+      "text": "08047109222",
+      "left": 167,
+      "top": 611,
+      "width": 229,
+      "height": 26,
+      "right": 396,
+      "bottom": 637,
+      "confidence": 96
+    },
+    {
+      "text": "Interpretation(s)",
+      "left": 175,
+      "top": 845,
+      "width": 319,
+      "height": 33,
+      "right": 494,
+      "bottom": 878,
+      "confidence": 91
+    },
+    {
+      "text": "and",
+      "left": 765,
+      "top": 943,
+      "width": 54,
+      "height": 28,
+      "right": 819,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "thyroid",
+      "left": 1462,
+      "top": 943,
+      "width": 109,
+      "height": 35,
+      "right": 1571,
+      "bottom": 978,
+      "confidence": 96
+    },
+    {
+      "text": "hormones",
+      "left": 1580,
+      "top": 943,
+      "width": 147,
+      "height": 28,
+      "right": 1727,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "which",
+      "left": 1738,
+      "top": 943,
+      "width": 91,
+      "height": 28,
+      "right": 1829,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "affect",
+      "left": 1840,
+      "top": 943,
+      "width": 83,
+      "height": 28,
+      "right": 1923,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "almost",
+      "left": 1934,
+      "top": 943,
+      "width": 98,
+      "height": 28,
+      "right": 2032,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "physiological",
+      "left": 2132,
+      "top": 943,
+      "width": 201,
+      "height": 35,
+      "right": 2333,
+      "bottom": 978,
+      "confidence": 96
+    },
+    {
+      "text": "Triiodothyronine",
+      "left": 168,
+      "top": 944,
+      "width": 275,
+      "height": 34,
+      "right": 443,
+      "bottom": 978,
+      "confidence": 89
+    },
+    {
+      "text": "Thyroxine",
+      "left": 525,
+      "top": 944,
+      "width": 166,
+      "height": 34,
+      "right": 691,
+      "bottom": 978,
+      "confidence": 93
+    },
+    {
+      "text": "Thyroid",
+      "left": 829,
+      "top": 944,
+      "width": 129,
+      "height": 34,
+      "right": 958,
+      "bottom": 978,
+      "confidence": 95
+    },
+    {
+      "text": "Stimulating",
+      "left": 969,
+      "top": 944,
+      "width": 185,
+      "height": 34,
+      "right": 1154,
+      "bottom": 978,
+      "confidence": 95
+    },
+    {
+      "text": "TSH",
+      "left": 1323,
+      "top": 944,
+      "width": 74,
+      "height": 27,
+      "right": 1397,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "T3",
+      "left": 453,
+      "top": 945,
+      "width": 41,
+      "height": 25,
+      "right": 494,
+      "bottom": 970,
+      "confidence": 91
+    },
+    {
+      "text": "T4,",
+      "left": 701,
+      "top": 945,
+      "width": 51,
+      "height": 31,
+      "right": 752,
+      "bottom": 976,
+      "confidence": 92
+    },
+    {
+      "text": "Hormone",
+      "left": 1163,
+      "top": 945,
+      "width": 150,
+      "height": 26,
+      "right": 1313,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "are",
+      "left": 1409,
+      "top": 953,
+      "width": 43,
+      "height": 18,
+      "right": 1452,
+      "bottom": 971,
+      "confidence": 96
+    },
+    {
+      "text": "every",
+      "left": 2042,
+      "top": 953,
+      "width": 81,
+      "height": 25,
+      "right": 2123,
+      "bottom": 978,
+      "confidence": 96
+    },
+    {
+      "text": ",",
+      "left": 508,
+      "top": 968,
+      "width": 6,
+      "height": 8,
+      "right": 514,
+      "bottom": 976,
+      "confidence": 92
+    },
+    {
+      "text": "in",
+      "left": 289,
+      "top": 986,
+      "width": 30,
+      "height": 26,
+      "right": 319,
+      "bottom": 1012,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 329,
+      "top": 986,
+      "width": 45,
+      "height": 27,
+      "right": 374,
+      "bottom": 1013,
+      "confidence": 96
+    },
+    {
+      "text": "body,",
+      "left": 384,
+      "top": 986,
+      "width": 83,
+      "height": 34,
+      "right": 467,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "including",
+      "left": 478,
+      "top": 986,
+      "width": 142,
+      "height": 34,
+      "right": 620,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "growth,",
+      "left": 631,
+      "top": 986,
+      "width": 114,
+      "height": 34,
+      "right": 745,
+      "bottom": 1020,
+      "confidence": 95
+    },
+    {
+      "text": "development,",
+      "left": 757,
+      "top": 986,
+      "width": 200,
+      "height": 34,
+      "right": 957,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "metabolism,",
+      "left": 968,
+      "top": 986,
+      "width": 182,
+      "height": 33,
+      "right": 1150,
+      "bottom": 1019,
+      "confidence": 96
+    },
+    {
+      "text": "body",
+      "left": 1161,
+      "top": 986,
+      "width": 74,
+      "height": 34,
+      "right": 1235,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 1445,
+      "top": 986,
+      "width": 52,
+      "height": 27,
+      "right": 1497,
+      "bottom": 1013,
+      "confidence": 96
+    },
+    {
+      "text": "heart",
+      "left": 1507,
+      "top": 986,
+      "width": 75,
+      "height": 27,
+      "right": 1582,
+      "bottom": 1013,
+      "confidence": 96
+    },
+    {
+      "text": "temperature,",
+      "left": 1245,
+      "top": 990,
+      "width": 187,
+      "height": 30,
+      "right": 1432,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "rate.",
+      "left": 1592,
+      "top": 990,
+      "width": 62,
+      "height": 23,
+      "right": 1654,
+      "bottom": 1013,
+      "confidence": 96
+    },
+    {
+      "text": "process",
+      "left": 168,
+      "top": 995,
+      "width": 111,
+      "height": 25,
+      "right": 279,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "Production",
+      "left": 168,
+      "top": 1029,
+      "width": 166,
+      "height": 27,
+      "right": 334,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 345,
+      "top": 1029,
+      "width": 35,
+      "height": 27,
+      "right": 380,
+      "bottom": 1056,
+      "confidence": 93
+    },
+    {
+      "text": "and",
+      "left": 436,
+      "top": 1029,
+      "width": 55,
+      "height": 27,
+      "right": 491,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "its",
+      "left": 499,
+      "top": 1029,
+      "width": 35,
+      "height": 27,
+      "right": 534,
+      "bottom": 1056,
+      "confidence": 92
+    },
+    {
+      "text": "prohormone",
+      "left": 543,
+      "top": 1029,
+      "width": 184,
+      "height": 34,
+      "right": 727,
+      "bottom": 1063,
+      "confidence": 92
+    },
+    {
+      "text": "thyroxine",
+      "left": 737,
+      "top": 1029,
+      "width": 144,
+      "height": 34,
+      "right": 881,
+      "bottom": 1063,
+      "confidence": 93
+    },
+    {
+      "text": "(T4)",
+      "left": 892,
+      "top": 1029,
+      "width": 64,
+      "height": 35,
+      "right": 956,
+      "bottom": 1064,
+      "confidence": 81
+    },
+    {
+      "text": "1s",
+      "left": 967,
+      "top": 1029,
+      "width": 24,
+      "height": 27,
+      "right": 991,
+      "bottom": 1056,
+      "confidence": 72
+    },
+    {
+      "text": "activated",
+      "left": 1003,
+      "top": 1029,
+      "width": 133,
+      "height": 27,
+      "right": 1136,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "by",
+      "left": 1146,
+      "top": 1029,
+      "width": 36,
+      "height": 34,
+      "right": 1182,
+      "bottom": 1063,
+      "confidence": 93
+    },
+    {
+      "text": "thyroid-stimulating",
+      "left": 1192,
+      "top": 1029,
+      "width": 290,
+      "height": 34,
+      "right": 1482,
+      "bottom": 1063,
+      "confidence": 91
+    },
+    {
+      "text": "hormone",
+      "left": 1491,
+      "top": 1029,
+      "width": 133,
+      "height": 27,
+      "right": 1624,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "(TSH),",
+      "left": 1636,
+      "top": 1029,
+      "width": 102,
+      "height": 35,
+      "right": 1738,
+      "bottom": 1064,
+      "confidence": 96
+    },
+    {
+      "text": "which",
+      "left": 1749,
+      "top": 1029,
+      "width": 91,
+      "height": 27,
+      "right": 1840,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 1850,
+      "top": 1029,
+      "width": 24,
+      "height": 27,
+      "right": 1874,
+      "bottom": 1056,
+      "confidence": 97
+    },
+    {
+      "text": "released",
+      "left": 1885,
+      "top": 1029,
+      "width": 123,
+      "height": 27,
+      "right": 2008,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "from",
+      "left": 2017,
+      "top": 1029,
+      "width": 73,
+      "height": 27,
+      "right": 2090,
+      "bottom": 1056,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 2098,
+      "top": 1029,
+      "width": 46,
+      "height": 27,
+      "right": 2144,
+      "bottom": 1056,
+      "confidence": 95
+    },
+    {
+      "text": "pituitary",
+      "left": 2153,
+      "top": 1029,
+      "width": 127,
+      "height": 34,
+      "right": 2280,
+      "bottom": 1063,
+      "confidence": 96
+    },
+    {
+      "text": "T3",
+      "left": 385,
+      "top": 1030,
+      "width": 38,
+      "height": 25,
+      "right": 423,
+      "bottom": 1055,
+      "confidence": 93
+    },
+    {
+      "text": "gland.",
+      "left": 168,
+      "top": 1071,
+      "width": 90,
+      "height": 34,
+      "right": 258,
+      "bottom": 1105,
+      "confidence": 96
+    },
+    {
+      "text": "Elevated",
+      "left": 270,
+      "top": 1071,
+      "width": 131,
+      "height": 27,
+      "right": 401,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "concentrations",
+      "left": 412,
+      "top": 1071,
+      "width": 217,
+      "height": 27,
+      "right": 629,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 641,
+      "top": 1071,
+      "width": 34,
+      "height": 27,
+      "right": 675,
+      "bottom": 1098,
+      "confidence": 93
+    },
+    {
+      "text": "and",
+      "left": 742,
+      "top": 1071,
+      "width": 53,
+      "height": 27,
+      "right": 795,
+      "bottom": 1098,
+      "confidence": 93
+    },
+    {
+      "text": "in",
+      "left": 855,
+      "top": 1071,
+      "width": 30,
+      "height": 27,
+      "right": 885,
+      "bottom": 1098,
+      "confidence": 95
+    },
+    {
+      "text": "the",
+      "left": 894,
+      "top": 1071,
+      "width": 46,
+      "height": 27,
+      "right": 940,
+      "bottom": 1098,
+      "confidence": 95
+    },
+    {
+      "text": "blood",
+      "left": 950,
+      "top": 1071,
+      "width": 88,
+      "height": 27,
+      "right": 1038,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "inhibit",
+      "left": 1046,
+      "top": 1071,
+      "width": 100,
+      "height": 27,
+      "right": 1146,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1155,
+      "top": 1071,
+      "width": 45,
+      "height": 27,
+      "right": 1200,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "production",
+      "left": 1209,
+      "top": 1071,
+      "width": 165,
+      "height": 34,
+      "right": 1374,
+      "bottom": 1105,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1385,
+      "top": 1071,
+      "width": 35,
+      "height": 27,
+      "right": 1420,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "T3,",
+      "left": 681,
+      "top": 1072,
+      "width": 49,
+      "height": 32,
+      "right": 730,
+      "bottom": 1104,
+      "confidence": 92
+    },
+    {
+      "text": "T4",
+      "left": 805,
+      "top": 1072,
+      "width": 40,
+      "height": 26,
+      "right": 845,
+      "bottom": 1098,
+      "confidence": 93
+    },
+    {
+      "text": "TSH.",
+      "left": 1425,
+      "top": 1072,
+      "width": 77,
+      "height": 26,
+      "right": 1502,
+      "bottom": 1098,
+      "confidence": 96
+    },
+    {
+      "text": "Excessive",
+      "left": 168,
+      "top": 1114,
+      "width": 148,
+      "height": 27,
+      "right": 316,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "secretion",
+      "left": 328,
+      "top": 1114,
+      "width": 134,
+      "height": 27,
+      "right": 462,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 472,
+      "top": 1114,
+      "width": 35,
+      "height": 27,
+      "right": 507,
+      "bottom": 1141,
+      "confidence": 97
+    },
+    {
+      "text": "thyroxine",
+      "left": 511,
+      "top": 1114,
+      "width": 144,
+      "height": 34,
+      "right": 655,
+      "bottom": 1148,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 665,
+      "top": 1114,
+      "width": 30,
+      "height": 27,
+      "right": 695,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 704,
+      "top": 1114,
+      "width": 45,
+      "height": 27,
+      "right": 749,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "body",
+      "left": 758,
+      "top": 1114,
+      "width": 76,
+      "height": 34,
+      "right": 834,
+      "bottom": 1148,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 844,
+      "top": 1114,
+      "width": 24,
+      "height": 27,
+      "right": 868,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "hyperthyroidism,",
+      "left": 878,
+      "top": 1114,
+      "width": 255,
+      "height": 34,
+      "right": 1133,
+      "bottom": 1148,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 1146,
+      "top": 1114,
+      "width": 53,
+      "height": 27,
+      "right": 1199,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "deficient",
+      "left": 1210,
+      "top": 1114,
+      "width": 130,
+      "height": 27,
+      "right": 1340,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "secretion",
+      "left": 1350,
+      "top": 1114,
+      "width": 134,
+      "height": 27,
+      "right": 1484,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 1494,
+      "top": 1114,
+      "width": 23,
+      "height": 27,
+      "right": 1517,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "called",
+      "left": 1529,
+      "top": 1114,
+      "width": 89,
+      "height": 27,
+      "right": 1618,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "hypothyroidism.",
+      "left": 1627,
+      "top": 1114,
+      "width": 245,
+      "height": 34,
+      "right": 1872,
+      "bottom": 1148,
+      "confidence": 95
+    },
+    {
+      "text": "primary",
+      "left": 208,
+      "top": 1156,
+      "width": 118,
+      "height": 35,
+      "right": 326,
+      "bottom": 1191,
+      "confidence": 95
+    },
+    {
+      "text": "hypothyroidism,",
+      "left": 336,
+      "top": 1156,
+      "width": 244,
+      "height": 35,
+      "right": 580,
+      "bottom": 1191,
+      "confidence": 96
+    },
+    {
+      "text": "levels",
+      "left": 672,
+      "top": 1156,
+      "width": 86,
+      "height": 28,
+      "right": 758,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "significantly",
+      "left": 825,
+      "top": 1156,
+      "width": 184,
+      "height": 35,
+      "right": 1009,
+      "bottom": 1191,
+      "confidence": 96
+    },
+    {
+      "text": "elevated,",
+      "left": 1021,
+      "top": 1156,
+      "width": 131,
+      "height": 33,
+      "right": 1152,
+      "bottom": 1189,
+      "confidence": 95
+    },
+    {
+      "text": "while",
+      "left": 1162,
+      "top": 1156,
+      "width": 83,
+      "height": 28,
+      "right": 1245,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 1255,
+      "top": 1156,
+      "width": 30,
+      "height": 27,
+      "right": 1285,
+      "bottom": 1183,
+      "confidence": 96
+    },
+    {
+      "text": "secondary",
+      "left": 1296,
+      "top": 1156,
+      "width": 150,
+      "height": 35,
+      "right": 1446,
+      "bottom": 1191,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 1457,
+      "top": 1156,
+      "width": 53,
+      "height": 28,
+      "right": 1510,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "tertiary",
+      "left": 1520,
+      "top": 1156,
+      "width": 106,
+      "height": 35,
+      "right": 1626,
+      "bottom": 1191,
+      "confidence": 96
+    },
+    {
+      "text": "hyperthyroidism,",
+      "left": 1636,
+      "top": 1156,
+      "width": 255,
+      "height": 35,
+      "right": 1891,
+      "bottom": 1191,
+      "confidence": 96
+    },
+    {
+      "text": "levels",
+      "left": 1982,
+      "top": 1156,
+      "width": 87,
+      "height": 28,
+      "right": 2069,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "low.",
+      "left": 2134,
+      "top": 1156,
+      "width": 63,
+      "height": 28,
+      "right": 2197,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 593,
+      "top": 1157,
+      "width": 69,
+      "height": 27,
+      "right": 662,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 1903,
+      "top": 1157,
+      "width": 70,
+      "height": 27,
+      "right": 1973,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "In",
+      "left": 168,
+      "top": 1158,
+      "width": 31,
+      "height": 25,
+      "right": 199,
+      "bottom": 1183,
+      "confidence": 95
+    },
+    {
+      "text": "are",
+      "left": 770,
+      "top": 1165,
+      "width": 43,
+      "height": 19,
+      "right": 813,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "are",
+      "left": 2081,
+      "top": 1165,
+      "width": 43,
+      "height": 19,
+      "right": 2124,
+      "bottom": 1184,
+      "confidence": 96
+    },
+    {
+      "text": "Below",
+      "left": 168,
+      "top": 1198,
+      "width": 98,
+      "height": 28,
+      "right": 266,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "mentioned",
+      "left": 275,
+      "top": 1198,
+      "width": 158,
+      "height": 28,
+      "right": 433,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 497,
+      "top": 1198,
+      "width": 46,
+      "height": 28,
+      "right": 543,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "guidelines",
+      "left": 554,
+      "top": 1198,
+      "width": 154,
+      "height": 35,
+      "right": 708,
+      "bottom": 1233,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 718,
+      "top": 1198,
+      "width": 44,
+      "height": 28,
+      "right": 762,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "related",
+      "left": 937,
+      "top": 1198,
+      "width": 104,
+      "height": 28,
+      "right": 1041,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "reference",
+      "left": 1049,
+      "top": 1198,
+      "width": 138,
+      "height": 28,
+      "right": 1187,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1305,
+      "top": 1198,
+      "width": 44,
+      "height": 28,
+      "right": 1349,
+      "bottom": 1226,
+      "confidence": 97
+    },
+    {
+      "text": "Total",
+      "left": 1358,
+      "top": 1198,
+      "width": 77,
+      "height": 28,
+      "right": 1435,
+      "bottom": 1226,
+      "confidence": 93
+    },
+    {
+      "text": "Total",
+      "left": 1626,
+      "top": 1198,
+      "width": 78,
+      "height": 28,
+      "right": 1704,
+      "bottom": 1226,
+      "confidence": 93
+    },
+    {
+      "text": "of",
+      "left": 1979,
+      "top": 1198,
+      "width": 34,
+      "height": 28,
+      "right": 2013,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 2018,
+      "top": 1198,
+      "width": 45,
+      "height": 28,
+      "right": 2063,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "level",
+      "left": 2247,
+      "top": 1198,
+      "width": 72,
+      "height": 28,
+      "right": 2319,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 1507,
+      "top": 1199,
+      "width": 71,
+      "height": 27,
+      "right": 1578,
+      "bottom": 1226,
+      "confidence": 92
+    },
+    {
+      "text": "&",
+      "left": 1588,
+      "top": 1199,
+      "width": 26,
+      "height": 27,
+      "right": 1614,
+      "bottom": 1226,
+      "confidence": 92
+    },
+    {
+      "text": "Pregnancy",
+      "left": 770,
+      "top": 1200,
+      "width": 158,
+      "height": 33,
+      "right": 928,
+      "bottom": 1233,
+      "confidence": 96
+    },
+    {
+      "text": "T4,",
+      "left": 1447,
+      "top": 1200,
+      "width": 49,
+      "height": 31,
+      "right": 1496,
+      "bottom": 1231,
+      "confidence": 92
+    },
+    {
+      "text": "T3.",
+      "left": 1714,
+      "top": 1200,
+      "width": 38,
+      "height": 25,
+      "right": 1752,
+      "bottom": 1225,
+      "confidence": 80
+    },
+    {
+      "text": "Measurement",
+      "left": 1757,
+      "top": 1200,
+      "width": 211,
+      "height": 26,
+      "right": 1968,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "TT3",
+      "left": 2175,
+      "top": 1200,
+      "width": 60,
+      "height": 25,
+      "right": 2235,
+      "bottom": 1225,
+      "confidence": 89
+    },
+    {
+      "text": "are",
+      "left": 444,
+      "top": 1208,
+      "width": 43,
+      "height": 18,
+      "right": 487,
+      "bottom": 1226,
+      "confidence": 96
+    },
+    {
+      "text": "ranges",
+      "left": 1198,
+      "top": 1208,
+      "width": 97,
+      "height": 25,
+      "right": 1295,
+      "bottom": 1233,
+      "confidence": 96
+    },
+    {
+      "text": "serum",
+      "left": 2075,
+      "top": 1208,
+      "width": 90,
+      "height": 18,
+      "right": 2165,
+      "bottom": 1226,
+      "confidence": 93
+    },
+    {
+      "text": "is",
+      "left": 168,
+      "top": 1241,
+      "width": 24,
+      "height": 28,
+      "right": 192,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "sensitive",
+      "left": 316,
+      "top": 1241,
+      "width": 128,
+      "height": 28,
+      "right": 444,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 517,
+      "top": 1241,
+      "width": 44,
+      "height": 28,
+      "right": 561,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 569,
+      "top": 1241,
+      "width": 46,
+      "height": 28,
+      "right": 615,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "diagnosis",
+      "left": 626,
+      "top": 1241,
+      "width": 140,
+      "height": 35,
+      "right": 766,
+      "bottom": 1276,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 777,
+      "top": 1241,
+      "width": 35,
+      "height": 28,
+      "right": 812,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "hyperthyroidism,",
+      "left": 817,
+      "top": 1241,
+      "width": 255,
+      "height": 35,
+      "right": 1072,
+      "bottom": 1276,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 1084,
+      "top": 1241,
+      "width": 54,
+      "height": 28,
+      "right": 1138,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1356,
+      "top": 1241,
+      "width": 34,
+      "height": 28,
+      "right": 1390,
+      "bottom": 1269,
+      "confidence": 92
+    },
+    {
+      "text": "is",
+      "left": 1470,
+      "top": 1241,
+      "width": 23,
+      "height": 28,
+      "right": 1493,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "useful",
+      "left": 1588,
+      "top": 1241,
+      "width": 92,
+      "height": 28,
+      "right": 1680,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 1691,
+      "top": 1241,
+      "width": 29,
+      "height": 27,
+      "right": 1720,
+      "bottom": 1268,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1729,
+      "top": 1241,
+      "width": 46,
+      "height": 28,
+      "right": 1775,
+      "bottom": 1269,
+      "confidence": 97
+    },
+    {
+      "text": "diagnosis",
+      "left": 1786,
+      "top": 1241,
+      "width": 141,
+      "height": 35,
+      "right": 1927,
+      "bottom": 1276,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1937,
+      "top": 1241,
+      "width": 35,
+      "height": 28,
+      "right": 1972,
+      "bottom": 1269,
+      "confidence": 93
+    },
+    {
+      "text": "hypothyroidism.Most",
+      "left": 1977,
+      "top": 1241,
+      "width": 324,
+      "height": 35,
+      "right": 2301,
+      "bottom": 1276,
+      "confidence": 91
+    },
+    {
+      "text": "TT4",
+      "left": 1396,
+      "top": 1243,
+      "width": 62,
+      "height": 25,
+      "right": 1458,
+      "bottom": 1268,
+      "confidence": 92
+    },
+    {
+      "text": "test",
+      "left": 454,
+      "top": 1246,
+      "width": 53,
+      "height": 23,
+      "right": 507,
+      "bottom": 1269,
+      "confidence": 97
+    },
+    {
+      "text": "measurement",
+      "left": 1147,
+      "top": 1246,
+      "width": 199,
+      "height": 23,
+      "right": 1346,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "a",
+      "left": 203,
+      "top": 1251,
+      "width": 16,
+      "height": 18,
+      "right": 219,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "more",
+      "left": 228,
+      "top": 1251,
+      "width": 76,
+      "height": 18,
+      "right": 304,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "more",
+      "left": 1503,
+      "top": 1251,
+      "width": 76,
+      "height": 18,
+      "right": 1579,
+      "bottom": 1269,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 169,
+      "top": 1283,
+      "width": 34,
+      "height": 28,
+      "right": 203,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 208,
+      "top": 1283,
+      "width": 46,
+      "height": 28,
+      "right": 254,
+      "bottom": 1311,
+      "confidence": 97
+    },
+    {
+      "text": "thyroid",
+      "left": 264,
+      "top": 1283,
+      "width": 109,
+      "height": 35,
+      "right": 373,
+      "bottom": 1318,
+      "confidence": 96
+    },
+    {
+      "text": "hormone",
+      "left": 382,
+      "top": 1283,
+      "width": 133,
+      "height": 28,
+      "right": 515,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 525,
+      "top": 1283,
+      "width": 29,
+      "height": 27,
+      "right": 554,
+      "bottom": 1310,
+      "confidence": 96
+    },
+    {
+      "text": "blood",
+      "left": 564,
+      "top": 1283,
+      "width": 87,
+      "height": 28,
+      "right": 651,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 661,
+      "top": 1283,
+      "width": 23,
+      "height": 28,
+      "right": 684,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "bound",
+      "left": 694,
+      "top": 1283,
+      "width": 96,
+      "height": 28,
+      "right": 790,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "proteins.",
+      "left": 980,
+      "top": 1283,
+      "width": 130,
+      "height": 35,
+      "right": 1110,
+      "bottom": 1318,
+      "confidence": 96
+    },
+    {
+      "text": "Only",
+      "left": 1123,
+      "top": 1283,
+      "width": 73,
+      "height": 35,
+      "right": 1196,
+      "bottom": 1318,
+      "confidence": 96
+    },
+    {
+      "text": "small",
+      "left": 1309,
+      "top": 1283,
+      "width": 77,
+      "height": 28,
+      "right": 1386,
+      "bottom": 1311,
+      "confidence": 67
+    },
+    {
+      "text": "fraction",
+      "left": 1398,
+      "top": 1283,
+      "width": 116,
+      "height": 28,
+      "right": 1514,
+      "bottom": 1311,
+      "confidence": 95
+    },
+    {
+      "text": "of",
+      "left": 1524,
+      "top": 1283,
+      "width": 34,
+      "height": 28,
+      "right": 1558,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1563,
+      "top": 1283,
+      "width": 46,
+      "height": 28,
+      "right": 1609,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "circulating",
+      "left": 1620,
+      "top": 1283,
+      "width": 160,
+      "height": 35,
+      "right": 1780,
+      "bottom": 1318,
+      "confidence": 95
+    },
+    {
+      "text": "hormone",
+      "left": 1788,
+      "top": 1283,
+      "width": 134,
+      "height": 28,
+      "right": 1922,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 1931,
+      "top": 1283,
+      "width": 25,
+      "height": 28,
+      "right": 1956,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "free",
+      "left": 1967,
+      "top": 1283,
+      "width": 56,
+      "height": 28,
+      "right": 2023,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 2035,
+      "top": 1283,
+      "width": 54,
+      "height": 28,
+      "right": 2089,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "biologically",
+      "left": 2096,
+      "top": 1283,
+      "width": 180,
+      "height": 35,
+      "right": 2276,
+      "bottom": 1318,
+      "confidence": 96
+    },
+    {
+      "text": "to",
+      "left": 799,
+      "top": 1288,
+      "width": 27,
+      "height": 23,
+      "right": 826,
+      "bottom": 1311,
+      "confidence": 96
+    },
+    {
+      "text": "transport",
+      "left": 837,
+      "top": 1288,
+      "width": 136,
+      "height": 30,
+      "right": 973,
+      "bottom": 1318,
+      "confidence": 96
+    },
+    {
+      "text": "a",
+      "left": 1207,
+      "top": 1293,
+      "width": 16,
+      "height": 18,
+      "right": 1223,
+      "bottom": 1311,
+      "confidence": 92
+    },
+    {
+      "text": "very",
+      "left": 1231,
+      "top": 1293,
+      "width": 66,
+      "height": 25,
+      "right": 1297,
+      "bottom": 1318,
+      "confidence": 92
+    },
+    {
+      "text": "active.",
+      "left": 169,
+      "top": 1327,
+      "width": 95,
+      "height": 28,
+      "right": 264,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 309,
+      "top": 1327,
+      "width": 23,
+      "height": 28,
+      "right": 332,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "advisable",
+      "left": 344,
+      "top": 1327,
+      "width": 139,
+      "height": 28,
+      "right": 483,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "detect",
+      "left": 534,
+      "top": 1327,
+      "width": 89,
+      "height": 28,
+      "right": 623,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "along",
+      "left": 887,
+      "top": 1327,
+      "width": 83,
+      "height": 35,
+      "right": 970,
+      "bottom": 1362,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 979,
+      "top": 1327,
+      "width": 66,
+      "height": 28,
+      "right": 1045,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "instead",
+      "left": 1144,
+      "top": 1327,
+      "width": 108,
+      "height": 28,
+      "right": 1252,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1262,
+      "top": 1327,
+      "width": 34,
+      "height": 28,
+      "right": 1296,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "testing",
+      "left": 1301,
+      "top": 1327,
+      "width": 99,
+      "height": 35,
+      "right": 1400,
+      "bottom": 1362,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1411,
+      "top": 1327,
+      "width": 44,
+      "height": 28,
+      "right": 1455,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "albumin",
+      "left": 1465,
+      "top": 1327,
+      "width": 121,
+      "height": 28,
+      "right": 1586,
+      "bottom": 1355,
+      "confidence": 95
+    },
+    {
+      "text": "bound",
+      "left": 1595,
+      "top": 1327,
+      "width": 97,
+      "height": 28,
+      "right": 1692,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "Total",
+      "left": 1701,
+      "top": 1327,
+      "width": 78,
+      "height": 28,
+      "right": 1779,
+      "bottom": 1355,
+      "confidence": 93
+    },
+    {
+      "text": "Total",
+      "left": 1850,
+      "top": 1327,
+      "width": 79,
+      "height": 28,
+      "right": 1929,
+      "bottom": 1355,
+      "confidence": 93
+    },
+    {
+      "text": "TSH,",
+      "left": 1055,
+      "top": 1328,
+      "width": 78,
+      "height": 32,
+      "right": 1133,
+      "bottom": 1360,
+      "confidence": 94
+    },
+    {
+      "text": "It",
+      "left": 275,
+      "top": 1329,
+      "width": 24,
+      "height": 26,
+      "right": 299,
+      "bottom": 1355,
+      "confidence": 96
+    },
+    {
+      "text": "Free",
+      "left": 632,
+      "top": 1329,
+      "width": 66,
+      "height": 26,
+      "right": 698,
+      "bottom": 1355,
+      "confidence": 93
+    },
+    {
+      "text": "T3,",
+      "left": 708,
+      "top": 1329,
+      "width": 49,
+      "height": 31,
+      "right": 757,
+      "bottom": 1360,
+      "confidence": 92
+    },
+    {
+      "text": "FreeT4",
+      "left": 769,
+      "top": 1329,
+      "width": 106,
+      "height": 26,
+      "right": 875,
+      "bottom": 1355,
+      "confidence": 92
+    },
+    {
+      "text": "T3,",
+      "left": 1789,
+      "top": 1329,
+      "width": 50,
+      "height": 31,
+      "right": 1839,
+      "bottom": 1360,
+      "confidence": 92
+    },
+    {
+      "text": "T4.",
+      "left": 1939,
+      "top": 1329,
+      "width": 48,
+      "height": 25,
+      "right": 1987,
+      "bottom": 1354,
+      "confidence": 92
+    },
+    {
+      "text": "to",
+      "left": 493,
+      "top": 1332,
+      "width": 29,
+      "height": 23,
+      "right": 522,
+      "bottom": 1355,
+      "confidence": 97
+    },
+    {
+      "text": "High",
+      "left": 350,
+      "top": 1458,
+      "width": 80,
+      "height": 44,
+      "right": 430,
+      "bottom": 1502,
+      "confidence": 96
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 1462,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 1497,
+      "confidence": 96
+    },
+    {
+      "text": "Primary",
+      "left": 1244,
+      "top": 1462,
+      "width": 120,
+      "height": 34,
+      "right": 1364,
+      "bottom": 1496,
+      "confidence": 96
+    },
+    {
+      "text": "Hypothyroidism",
+      "left": 1373,
+      "top": 1462,
+      "width": 247,
+      "height": 34,
+      "right": 1620,
+      "bottom": 1496,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1629,
+      "top": 1462,
+      "width": 42,
+      "height": 35,
+      "right": 1671,
+      "bottom": 1497,
+      "confidence": 95
+    },
+    {
+      "text": "Chronic",
+      "left": 1683,
+      "top": 1462,
+      "width": 119,
+      "height": 27,
+      "right": 1802,
+      "bottom": 1489,
+      "confidence": 96
+    },
+    {
+      "text": "autoimmune",
+      "left": 1814,
+      "top": 1462,
+      "width": 185,
+      "height": 27,
+      "right": 1999,
+      "bottom": 1489,
+      "confidence": 95
+    },
+    {
+      "text": "Thyroiditis",
+      "left": 2010,
+      "top": 1462,
+      "width": 165,
+      "height": 34,
+      "right": 2175,
+      "bottom": 1496,
+      "confidence": 96
+    },
+    {
+      "text": "(3)",
+      "left": 2186,
+      "top": 1462,
+      "width": 42,
+      "height": 35,
+      "right": 2228,
+      "bottom": 1497,
+      "confidence": 96
+    },
+    {
+      "text": "1",
+      "left": 195,
+      "top": 1463,
+      "width": 11,
+      "height": 25,
+      "right": 206,
+      "bottom": 1488,
+      "confidence": 92
+    },
+    {
+      "text": "Low",
+      "left": 618,
+      "top": 1463,
+      "width": 69,
+      "height": 26,
+      "right": 687,
+      "bottom": 1489,
+      "confidence": 95
+    },
+    {
+      "text": "Low",
+      "left": 807,
+      "top": 1463,
+      "width": 69,
+      "height": 26,
+      "right": 876,
+      "bottom": 1489,
+      "confidence": 95
+    },
+    {
+      "text": "Low",
+      "left": 976,
+      "top": 1463,
+      "width": 69,
+      "height": 26,
+      "right": 1045,
+      "bottom": 1489,
+      "confidence": 95
+    },
+    {
+      "text": "Thyroidectomy",
+      "left": 1266,
+      "top": 1506,
+      "width": 229,
+      "height": 35,
+      "right": 1495,
+      "bottom": 1541,
+      "confidence": 90
+    },
+    {
+      "text": "(4)",
+      "left": 1506,
+      "top": 1506,
+      "width": 41,
+      "height": 36,
+      "right": 1547,
+      "bottom": 1542,
+      "confidence": 96
+    },
+    {
+      "text": "Radio-Iodine",
+      "left": 1633,
+      "top": 1506,
+      "width": 198,
+      "height": 28,
+      "right": 1831,
+      "bottom": 1534,
+      "confidence": 86
+    },
+    {
+      "text": "Post",
+      "left": 1191,
+      "top": 1508,
+      "width": 65,
+      "height": 26,
+      "right": 1256,
+      "bottom": 1534,
+      "confidence": 93
+    },
+    {
+      "text": "Post",
+      "left": 1558,
+      "top": 1508,
+      "width": 66,
+      "height": 26,
+      "right": 1624,
+      "bottom": 1534,
+      "confidence": 93
+    },
+    {
+      "text": "treatment",
+      "left": 1842,
+      "top": 1511,
+      "width": 141,
+      "height": 23,
+      "right": 1983,
+      "bottom": 1534,
+      "confidence": 96
+    },
+    {
+      "text": "Normal",
+      "left": 618,
+      "top": 1550,
+      "width": 114,
+      "height": 43,
+      "right": 732,
+      "bottom": 1593,
+      "confidence": 96
+    },
+    {
+      "text": "|",
+      "left": 941,
+      "top": 1550,
+      "width": 23,
+      "height": 43,
+      "right": 964,
+      "bottom": 1593,
+      "confidence": 95
+    },
+    {
+      "text": "High",
+      "left": 354,
+      "top": 1554,
+      "width": 76,
+      "height": 35,
+      "right": 430,
+      "bottom": 1589,
+      "confidence": 96
+    },
+    {
+      "text": "Normal",
+      "left": 806,
+      "top": 1554,
+      "width": 114,
+      "height": 28,
+      "right": 920,
+      "bottom": 1582,
+      "confidence": 96
+    },
+    {
+      "text": "Normal",
+      "left": 975,
+      "top": 1554,
+      "width": 114,
+      "height": 28,
+      "right": 1089,
+      "bottom": 1582,
+      "confidence": 96
+    },
+    {
+      "text": "(1)Subclinical",
+      "left": 1192,
+      "top": 1554,
+      "width": 211,
+      "height": 35,
+      "right": 1403,
+      "bottom": 1589,
+      "confidence": 88
+    },
+    {
+      "text": "Hypothyroidism",
+      "left": 1413,
+      "top": 1554,
+      "width": 246,
+      "height": 35,
+      "right": 1659,
+      "bottom": 1589,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1670,
+      "top": 1554,
+      "width": 41,
+      "height": 35,
+      "right": 1711,
+      "bottom": 1589,
+      "confidence": 96
+    },
+    {
+      "text": "Patient",
+      "left": 1721,
+      "top": 1554,
+      "width": 106,
+      "height": 28,
+      "right": 1827,
+      "bottom": 1582,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 1836,
+      "top": 1554,
+      "width": 65,
+      "height": 28,
+      "right": 1901,
+      "bottom": 1582,
+      "confidence": 96
+    },
+    {
+      "text": "insufficient",
+      "left": 1912,
+      "top": 1554,
+      "width": 171,
+      "height": 28,
+      "right": 2083,
+      "bottom": 1582,
+      "confidence": 96
+    },
+    {
+      "text": "thyroid",
+      "left": 2092,
+      "top": 1554,
+      "width": 109,
+      "height": 35,
+      "right": 2201,
+      "bottom": 1589,
+      "confidence": 96
+    },
+    {
+      "text": "2",
+      "left": 192,
+      "top": 1556,
+      "width": 16,
+      "height": 25,
+      "right": 208,
+      "bottom": 1581,
+      "confidence": 97
+    },
+    {
+      "text": "hormone",
+      "left": 1191,
+      "top": 1599,
+      "width": 132,
+      "height": 27,
+      "right": 1323,
+      "bottom": 1626,
+      "confidence": 96
+    },
+    {
+      "text": "replacement",
+      "left": 1334,
+      "top": 1599,
+      "width": 183,
+      "height": 34,
+      "right": 1517,
+      "bottom": 1633,
+      "confidence": 96
+    },
+    {
+      "text": "therapy",
+      "left": 1525,
+      "top": 1599,
+      "width": 113,
+      "height": 34,
+      "right": 1638,
+      "bottom": 1633,
+      "confidence": 96
+    },
+    {
+      "text": "(3)",
+      "left": 1649,
+      "top": 1599,
+      "width": 40,
+      "height": 35,
+      "right": 1689,
+      "bottom": 1634,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1831,
+      "top": 1599,
+      "width": 34,
+      "height": 27,
+      "right": 1865,
+      "bottom": 1626,
+      "confidence": 93
+    },
+    {
+      "text": "Autoimmune/Hashimoto",
+      "left": 1870,
+      "top": 1599,
+      "width": 370,
+      "height": 27,
+      "right": 2240,
+      "bottom": 1626,
+      "confidence": 91
+    },
+    {
+      "text": "In",
+      "left": 1700,
+      "top": 1600,
+      "width": 32,
+      "height": 25,
+      "right": 1732,
+      "bottom": 1625,
+      "confidence": 96
+    },
+    {
+      "text": "cases",
+      "left": 1743,
+      "top": 1608,
+      "width": 76,
+      "height": 18,
+      "right": 1819,
+      "bottom": 1626,
+      "confidence": 96
+    },
+    {
+      "text": "thyroiditis",
+      "left": 1191,
+      "top": 1643,
+      "width": 154,
+      "height": 35,
+      "right": 1345,
+      "bottom": 1678,
+      "confidence": 96
+    },
+    {
+      "text": "(4).",
+      "left": 1355,
+      "top": 1643,
+      "width": 51,
+      "height": 35,
+      "right": 1406,
+      "bottom": 1678,
+      "confidence": 96
+    },
+    {
+      "text": "Isolated",
+      "left": 1417,
+      "top": 1643,
+      "width": 120,
+      "height": 28,
+      "right": 1537,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "increase",
+      "left": 1547,
+      "top": 1643,
+      "width": 121,
+      "height": 28,
+      "right": 1668,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 1677,
+      "top": 1643,
+      "width": 30,
+      "height": 27,
+      "right": 1707,
+      "bottom": 1670,
+      "confidence": 96
+    },
+    {
+      "text": "levels",
+      "left": 1797,
+      "top": 1643,
+      "width": 87,
+      "height": 28,
+      "right": 1884,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "be",
+      "left": 1954,
+      "top": 1643,
+      "width": 36,
+      "height": 28,
+      "right": 1990,
+      "bottom": 1671,
+      "confidence": 97
+    },
+    {
+      "text": "due",
+      "left": 2002,
+      "top": 1643,
+      "width": 52,
+      "height": 28,
+      "right": 2054,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "Subclinical",
+      "left": 2105,
+      "top": 1643,
+      "width": 167,
+      "height": 28,
+      "right": 2272,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 1717,
+      "top": 1644,
+      "width": 71,
+      "height": 27,
+      "right": 1788,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "to",
+      "left": 2064,
+      "top": 1648,
+      "width": 28,
+      "height": 23,
+      "right": 2092,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "can",
+      "left": 1894,
+      "top": 1652,
+      "width": 51,
+      "height": 19,
+      "right": 1945,
+      "bottom": 1671,
+      "confidence": 96
+    },
+    {
+      "text": "inflammation,",
+      "left": 1191,
+      "top": 1687,
+      "width": 208,
+      "height": 33,
+      "right": 1399,
+      "bottom": 1720,
+      "confidence": 96
+    },
+    {
+      "text": "drugs",
+      "left": 1412,
+      "top": 1687,
+      "width": 81,
+      "height": 34,
+      "right": 1493,
+      "bottom": 1721,
+      "confidence": 96
+    },
+    {
+      "text": "like",
+      "left": 1504,
+      "top": 1687,
+      "width": 55,
+      "height": 27,
+      "right": 1559,
+      "bottom": 1714,
+      "confidence": 96
+    },
+    {
+      "text": "amphetamines,",
+      "left": 1570,
+      "top": 1687,
+      "width": 223,
+      "height": 34,
+      "right": 1793,
+      "bottom": 1721,
+      "confidence": 96
+    },
+    {
+      "text": "Iodine",
+      "left": 1803,
+      "top": 1687,
+      "width": 96,
+      "height": 27,
+      "right": 1899,
+      "bottom": 1714,
+      "confidence": 95
+    },
+    {
+      "text": "containing",
+      "left": 1911,
+      "top": 1687,
+      "width": 158,
+      "height": 34,
+      "right": 2069,
+      "bottom": 1721,
+      "confidence": 96
+    },
+    {
+      "text": "drug",
+      "left": 2079,
+      "top": 1687,
+      "width": 68,
+      "height": 34,
+      "right": 2147,
+      "bottom": 1721,
+      "confidence": 95
+    },
+    {
+      "text": "and",
+      "left": 2158,
+      "top": 1687,
+      "width": 54,
+      "height": 27,
+      "right": 2212,
+      "bottom": 1714,
+      "confidence": 96
+    },
+    {
+      "text": "dopamine",
+      "left": 1192,
+      "top": 1731,
+      "width": 146,
+      "height": 35,
+      "right": 1338,
+      "bottom": 1766,
+      "confidence": 96
+    },
+    {
+      "text": "antagonist",
+      "left": 1349,
+      "top": 1731,
+      "width": 154,
+      "height": 35,
+      "right": 1503,
+      "bottom": 1766,
+      "confidence": 96
+    },
+    {
+      "text": "domperidone",
+      "left": 1577,
+      "top": 1731,
+      "width": 196,
+      "height": 35,
+      "right": 1773,
+      "bottom": 1766,
+      "confidence": 92
+    },
+    {
+      "text": "and",
+      "left": 1785,
+      "top": 1731,
+      "width": 54,
+      "height": 28,
+      "right": 1839,
+      "bottom": 1759,
+      "confidence": 96
+    },
+    {
+      "text": "other",
+      "left": 1849,
+      "top": 1731,
+      "width": 76,
+      "height": 28,
+      "right": 1925,
+      "bottom": 1759,
+      "confidence": 96
+    },
+    {
+      "text": "physiological",
+      "left": 1935,
+      "top": 1731,
+      "width": 201,
+      "height": 35,
+      "right": 2136,
+      "bottom": 1766,
+      "confidence": 96
+    },
+    {
+      "text": "e.g.",
+      "left": 1513,
+      "top": 1741,
+      "width": 51,
+      "height": 25,
+      "right": 1564,
+      "bottom": 1766,
+      "confidence": 93
+    },
+    {
+      "text": "reasons.",
+      "left": 2146,
+      "top": 1741,
+      "width": 119,
+      "height": 18,
+      "right": 2265,
+      "bottom": 1759,
+      "confidence": 96
+    },
+    {
+      "text": "High",
+      "left": 803,
+      "top": 1823,
+      "width": 78,
+      "height": 43,
+      "right": 881,
+      "bottom": 1866,
+      "confidence": 96
+    },
+    {
+      "text": "High",
+      "left": 618,
+      "top": 1827,
+      "width": 76,
+      "height": 34,
+      "right": 694,
+      "bottom": 1861,
+      "confidence": 96
+    },
+    {
+      "text": "High",
+      "left": 976,
+      "top": 1827,
+      "width": 75,
+      "height": 34,
+      "right": 1051,
+      "bottom": 1861,
+      "confidence": 96
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 1827,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 1862,
+      "confidence": 96
+    },
+    {
+      "text": "Primary",
+      "left": 1244,
+      "top": 1827,
+      "width": 120,
+      "height": 34,
+      "right": 1364,
+      "bottom": 1861,
+      "confidence": 96
+    },
+    {
+      "text": "Hyperthyroidism",
+      "left": 1373,
+      "top": 1827,
+      "width": 257,
+      "height": 34,
+      "right": 1630,
+      "bottom": 1861,
+      "confidence": 96
+    },
+    {
+      "text": "(Graves",
+      "left": 1639,
+      "top": 1827,
+      "width": 115,
+      "height": 35,
+      "right": 1754,
+      "bottom": 1862,
+      "confidence": 96
+    },
+    {
+      "text": "Disease)",
+      "left": 1765,
+      "top": 1827,
+      "width": 127,
+      "height": 35,
+      "right": 1892,
+      "bottom": 1862,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1904,
+      "top": 1827,
+      "width": 42,
+      "height": 35,
+      "right": 1946,
+      "bottom": 1862,
+      "confidence": 93
+    },
+    {
+      "text": "Multinodular",
+      "left": 1957,
+      "top": 1827,
+      "width": 200,
+      "height": 27,
+      "right": 2157,
+      "bottom": 1854,
+      "confidence": 91
+    },
+    {
+      "text": "Goitre",
+      "left": 2167,
+      "top": 1827,
+      "width": 93,
+      "height": 27,
+      "right": 2260,
+      "bottom": 1854,
+      "confidence": 92
+    },
+    {
+      "text": "4",
+      "left": 191,
+      "top": 1828,
+      "width": 18,
+      "height": 26,
+      "right": 209,
+      "bottom": 1854,
+      "confidence": 96
+    },
+    {
+      "text": "Low",
+      "left": 354,
+      "top": 1828,
+      "width": 69,
+      "height": 26,
+      "right": 423,
+      "bottom": 1854,
+      "confidence": 96
+    },
+    {
+      "text": "(3)Toxic",
+      "left": 1192,
+      "top": 1871,
+      "width": 129,
+      "height": 36,
+      "right": 1321,
+      "bottom": 1907,
+      "confidence": 92
+    },
+    {
+      "text": "Nodular",
+      "left": 1330,
+      "top": 1871,
+      "width": 125,
+      "height": 28,
+      "right": 1455,
+      "bottom": 1899,
+      "confidence": 93
+    },
+    {
+      "text": "Goitre",
+      "left": 1466,
+      "top": 1871,
+      "width": 93,
+      "height": 28,
+      "right": 1559,
+      "bottom": 1899,
+      "confidence": 91
+    },
+    {
+      "text": "(4)",
+      "left": 1570,
+      "top": 1871,
+      "width": 41,
+      "height": 36,
+      "right": 1611,
+      "bottom": 1907,
+      "confidence": 96
+    },
+    {
+      "text": "Thyroiditis",
+      "left": 1623,
+      "top": 1871,
+      "width": 165,
+      "height": 35,
+      "right": 1788,
+      "bottom": 1906,
+      "confidence": 96
+    },
+    {
+      "text": "(5)",
+      "left": 1800,
+      "top": 1871,
+      "width": 41,
+      "height": 36,
+      "right": 1841,
+      "bottom": 1907,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 2088,
+      "top": 1871,
+      "width": 34,
+      "height": 28,
+      "right": 2122,
+      "bottom": 1899,
+      "confidence": 96
+    },
+    {
+      "text": "thyroid",
+      "left": 2127,
+      "top": 1871,
+      "width": 110,
+      "height": 35,
+      "right": 2237,
+      "bottom": 1906,
+      "confidence": 90
+    },
+    {
+      "text": "Over",
+      "left": 1853,
+      "top": 1872,
+      "width": 74,
+      "height": 27,
+      "right": 1927,
+      "bottom": 1899,
+      "confidence": 96
+    },
+    {
+      "text": "treatment",
+      "left": 1936,
+      "top": 1876,
+      "width": 142,
+      "height": 23,
+      "right": 2078,
+      "bottom": 1899,
+      "confidence": 96
+    },
+    {
+      "text": "hormone",
+      "left": 1191,
+      "top": 1916,
+      "width": 132,
+      "height": 27,
+      "right": 1323,
+      "bottom": 1943,
+      "confidence": 96
+    },
+    {
+      "text": "(6)",
+      "left": 1335,
+      "top": 1916,
+      "width": 41,
+      "height": 35,
+      "right": 1376,
+      "bottom": 1951,
+      "confidence": 96
+    },
+    {
+      "text": "effect",
+      "left": 1475,
+      "top": 1916,
+      "width": 83,
+      "height": 27,
+      "right": 1558,
+      "bottom": 1943,
+      "confidence": 96
+    },
+    {
+      "text": "Glucocorticoids,",
+      "left": 1632,
+      "top": 1916,
+      "width": 247,
+      "height": 33,
+      "right": 1879,
+      "bottom": 1949,
+      "confidence": 96
+    },
+    {
+      "text": "dopamine,",
+      "left": 1891,
+      "top": 1916,
+      "width": 155,
+      "height": 35,
+      "right": 2046,
+      "bottom": 1951,
+      "confidence": 93
+    },
+    {
+      "text": "Drug",
+      "left": 1387,
+      "top": 1917,
+      "width": 77,
+      "height": 34,
+      "right": 1464,
+      "bottom": 1951,
+      "confidence": 96
+    },
+    {
+      "text": "T4",
+      "left": 2057,
+      "top": 1917,
+      "width": 40,
+      "height": 26,
+      "right": 2097,
+      "bottom": 1943,
+      "confidence": 93
+    },
+    {
+      "text": "e.g.",
+      "left": 1568,
+      "top": 1925,
+      "width": 50,
+      "height": 26,
+      "right": 1618,
+      "bottom": 1951,
+      "confidence": 96
+    },
+    {
+      "text": "replacement",
+      "left": 1191,
+      "top": 1960,
+      "width": 183,
+      "height": 35,
+      "right": 1374,
+      "bottom": 1995,
+      "confidence": 96
+    },
+    {
+      "text": "therapy",
+      "left": 1382,
+      "top": 1960,
+      "width": 113,
+      "height": 35,
+      "right": 1495,
+      "bottom": 1995,
+      "confidence": 96
+    },
+    {
+      "text": "(7)",
+      "left": 1506,
+      "top": 1960,
+      "width": 40,
+      "height": 36,
+      "right": 1546,
+      "bottom": 1996,
+      "confidence": 96
+    },
+    {
+      "text": "First",
+      "left": 1557,
+      "top": 1960,
+      "width": 70,
+      "height": 28,
+      "right": 1627,
+      "bottom": 1988,
+      "confidence": 96
+    },
+    {
+      "text": "trimester",
+      "left": 1636,
+      "top": 1960,
+      "width": 132,
+      "height": 28,
+      "right": 1768,
+      "bottom": 1988,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1779,
+      "top": 1960,
+      "width": 35,
+      "height": 28,
+      "right": 1814,
+      "bottom": 1988,
+      "confidence": 97
+    },
+    {
+      "text": "Pregnancy",
+      "left": 1818,
+      "top": 1962,
+      "width": 158,
+      "height": 33,
+      "right": 1976,
+      "bottom": 1995,
+      "confidence": 96
+    },
+    {
+      "text": "16",
+      "left": 166,
+      "top": 2044,
+      "width": 54,
+      "height": 54,
+      "right": 220,
+      "bottom": 2098,
+      "confidence": 33
+    },
+    {
+      "text": "ss]",
+      "left": 521,
+      "top": 2044,
+      "width": 82,
+      "height": 54,
+      "right": 603,
+      "bottom": 2098,
+      "confidence": 37
+    },
+    {
+      "text": "High",
+      "left": 620,
+      "top": 2044,
+      "width": 91,
+      "height": 54,
+      "right": 711,
+      "bottom": 2098,
+      "confidence": 51
+    },
+    {
+      "text": "~—s",
+      "left": 724,
+      "top": 2044,
+      "width": 45,
+      "height": 54,
+      "right": 769,
+      "bottom": 2098,
+      "confidence": 34
+    },
+    {
+      "text": "|",
+      "left": 778,
+      "top": 2044,
+      "width": 14,
+      "height": 54,
+      "right": 792,
+      "bottom": 2098,
+      "confidence": 73
+    },
+    {
+      "text": "High",
+      "left": 809,
+      "top": 2044,
+      "width": 82,
+      "height": 54,
+      "right": 891,
+      "bottom": 2098,
+      "confidence": 56
+    },
+    {
+      "text": "=",
+      "left": 913,
+      "top": 2044,
+      "width": 23,
+      "height": 54,
+      "right": 936,
+      "bottom": 2098,
+      "confidence": 56
+    },
+    {
+      "text": "[",
+      "left": 949,
+      "top": 2044,
+      "width": 18,
+      "height": 54,
+      "right": 967,
+      "bottom": 2098,
+      "confidence": 68
+    },
+    {
+      "text": "High",
+      "left": 980,
+      "top": 2044,
+      "width": 82,
+      "height": 54,
+      "right": 1062,
+      "bottom": 2098,
+      "confidence": 74
+    },
+    {
+      "text": "_|",
+      "left": 1088,
+      "top": 2044,
+      "width": 86,
+      "height": 54,
+      "right": 1174,
+      "bottom": 2098,
+      "confidence": 49
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 2055,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 2090,
+      "confidence": 95
+    },
+    {
+      "text": "secreting",
+      "left": 1325,
+      "top": 2055,
+      "width": 135,
+      "height": 35,
+      "right": 1460,
+      "bottom": 2090,
+      "confidence": 94
+    },
+    {
+      "text": "pituitary",
+      "left": 1467,
+      "top": 2055,
+      "width": 129,
+      "height": 35,
+      "right": 1596,
+      "bottom": 2090,
+      "confidence": 96
+    },
+    {
+      "text": "adenoma",
+      "left": 1606,
+      "top": 2055,
+      "width": 135,
+      "height": 28,
+      "right": 1741,
+      "bottom": 2083,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1751,
+      "top": 2055,
+      "width": 41,
+      "height": 35,
+      "right": 1792,
+      "bottom": 2090,
+      "confidence": 96
+    },
+    {
+      "text": "secreting",
+      "left": 1889,
+      "top": 2055,
+      "width": 133,
+      "height": 35,
+      "right": 2022,
+      "bottom": 2090,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 1245,
+      "top": 2056,
+      "width": 70,
+      "height": 27,
+      "right": 1315,
+      "bottom": 2083,
+      "confidence": 96
+    },
+    {
+      "text": "TRH",
+      "left": 1803,
+      "top": 2057,
+      "width": 75,
+      "height": 25,
+      "right": 1878,
+      "bottom": 2082,
+      "confidence": 96
+    },
+    {
+      "text": "tumor",
+      "left": 2032,
+      "top": 2060,
+      "width": 90,
+      "height": 23,
+      "right": 2122,
+      "bottom": 2083,
+      "confidence": 96
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 2103,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 2138,
+      "confidence": 96
+    },
+    {
+      "text": "Central",
+      "left": 1245,
+      "top": 2103,
+      "width": 109,
+      "height": 27,
+      "right": 1354,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "Hypothyroidism",
+      "left": 1364,
+      "top": 2103,
+      "width": 246,
+      "height": 34,
+      "right": 1610,
+      "bottom": 2137,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1620,
+      "top": 2103,
+      "width": 41,
+      "height": 35,
+      "right": 1661,
+      "bottom": 2138,
+      "confidence": 93
+    },
+    {
+      "text": "Euthyroid",
+      "left": 1672,
+      "top": 2103,
+      "width": 150,
+      "height": 34,
+      "right": 1822,
+      "bottom": 2137,
+      "confidence": 92
+    },
+    {
+      "text": "sick",
+      "left": 1834,
+      "top": 2103,
+      "width": 59,
+      "height": 27,
+      "right": 1893,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "syndrome",
+      "left": 1903,
+      "top": 2103,
+      "width": 144,
+      "height": 34,
+      "right": 2047,
+      "bottom": 2137,
+      "confidence": 96
+    },
+    {
+      "text": "(3)",
+      "left": 2060,
+      "top": 2103,
+      "width": 41,
+      "height": 35,
+      "right": 2101,
+      "bottom": 2138,
+      "confidence": 96
+    },
+    {
+      "text": "7",
+      "left": 193,
+      "top": 2104,
+      "width": 16,
+      "height": 26,
+      "right": 209,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "Low",
+      "left": 354,
+      "top": 2104,
+      "width": 69,
+      "height": 26,
+      "right": 423,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "Low",
+      "left": 618,
+      "top": 2104,
+      "width": 69,
+      "height": 26,
+      "right": 687,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "Low",
+      "left": 807,
+      "top": 2104,
+      "width": 69,
+      "height": 26,
+      "right": 876,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "Low",
+      "left": 976,
+      "top": 2104,
+      "width": 69,
+      "height": 26,
+      "right": 1045,
+      "bottom": 2130,
+      "confidence": 95
+    },
+    {
+      "text": "Recent",
+      "left": 2111,
+      "top": 2104,
+      "width": 105,
+      "height": 26,
+      "right": 2216,
+      "bottom": 2130,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1341,
+      "top": 2147,
+      "width": 44,
+      "height": 28,
+      "right": 1385,
+      "bottom": 2175,
+      "confidence": 96
+    },
+    {
+      "text": "Hyperthyroidism",
+      "left": 1394,
+      "top": 2147,
+      "width": 256,
+      "height": 35,
+      "right": 1650,
+      "bottom": 2182,
+      "confidence": 96
+    },
+    {
+      "text": "treatment",
+      "left": 1191,
+      "top": 2152,
+      "width": 141,
+      "height": 23,
+      "right": 1332,
+      "bottom": 2175,
+      "confidence": 96
+    },
+    {
+      "text": "rs",
+      "left": 166,
+      "top": 2167,
+      "width": 100,
+      "height": 70,
+      "right": 266,
+      "bottom": 2237,
+      "confidence": 40
+    },
+    {
+      "text": "|",
+      "left": 329,
+      "top": 2167,
+      "width": 18,
+      "height": 70,
+      "right": 347,
+      "bottom": 2237,
+      "confidence": 40
+    },
+    {
+      "text": "Nommal/Low",
+      "left": 358,
+      "top": 2167,
+      "width": 193,
+      "height": 70,
+      "right": 551,
+      "bottom": 2237,
+      "confidence": 60
+    },
+    {
+      "text": "|",
+      "left": 580,
+      "top": 2167,
+      "width": 30,
+      "height": 70,
+      "right": 610,
+      "bottom": 2237,
+      "confidence": 86
+    },
+    {
+      "text": "Normal",
+      "left": 626,
+      "top": 2167,
+      "width": 118,
+      "height": 70,
+      "right": 744,
+      "bottom": 2237,
+      "confidence": 87
+    },
+    {
+      "text": "|",
+      "left": 766,
+      "top": 2167,
+      "width": 30,
+      "height": 70,
+      "right": 796,
+      "bottom": 2237,
+      "confidence": 86
+    },
+    {
+      "text": "Normal",
+      "left": 813,
+      "top": 2167,
+      "width": 112,
+      "height": 70,
+      "right": 925,
+      "bottom": 2237,
+      "confidence": 91
+    },
+    {
+      "text": "|",
+      "left": 947,
+      "top": 2167,
+      "width": 19,
+      "height": 70,
+      "right": 966,
+      "bottom": 2237,
+      "confidence": 89
+    },
+    {
+      "text": "High",
+      "left": 982,
+      "top": 2167,
+      "width": 77,
+      "height": 70,
+      "right": 1059,
+      "bottom": 2237,
+      "confidence": 87
+    },
+    {
+      "text": "|",
+      "left": 1116,
+      "top": 2188,
+      "width": 51,
+      "height": 45,
+      "right": 1167,
+      "bottom": 2233,
+      "confidence": 63
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 2195,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 2230,
+      "confidence": 86
+    },
+    {
+      "text": "thyrotoxicosis",
+      "left": 1295,
+      "top": 2195,
+      "width": 212,
+      "height": 35,
+      "right": 1507,
+      "bottom": 2230,
+      "confidence": 96
+    },
+    {
+      "text": "(2)",
+      "left": 1528,
+      "top": 2195,
+      "width": 41,
+      "height": 35,
+      "right": 1569,
+      "bottom": 2230,
+      "confidence": 93
+    },
+    {
+      "text": "Non-Thyroidal",
+      "left": 1579,
+      "top": 2195,
+      "width": 225,
+      "height": 35,
+      "right": 1804,
+      "bottom": 2230,
+      "confidence": 83
+    },
+    {
+      "text": "illness",
+      "left": 1814,
+      "top": 2195,
+      "width": 96,
+      "height": 28,
+      "right": 1910,
+      "bottom": 2223,
+      "confidence": 73
+    },
+    {
+      "text": "TS",
+      "left": 1245,
+      "top": 2197,
+      "width": 37,
+      "height": 25,
+      "right": 1282,
+      "bottom": 2222,
+      "confidence": 72
+    },
+    {
+      "text": "19",
+      "left": 166,
+      "top": 2232,
+      "width": 67,
+      "height": 53,
+      "right": 233,
+      "bottom": 2285,
+      "confidence": 41
+    },
+    {
+      "text": "High",
+      "left": 620,
+      "top": 2232,
+      "width": 81,
+      "height": 53,
+      "right": 701,
+      "bottom": 2285,
+      "confidence": 74
+    },
+    {
+      "text": "=~",
+      "left": 718,
+      "top": 2232,
+      "width": 36,
+      "height": 53,
+      "right": 754,
+      "bottom": 2285,
+      "confidence": 33
+    },
+    {
+      "text": "[|",
+      "left": 775,
+      "top": 2232,
+      "width": 23,
+      "height": 53,
+      "right": 798,
+      "bottom": 2285,
+      "confidence": 33
+    },
+    {
+      "text": "High",
+      "left": 810,
+      "top": 2232,
+      "width": 81,
+      "height": 53,
+      "right": 891,
+      "bottom": 2285,
+      "confidence": 80
+    },
+    {
+      "text": "=",
+      "left": 912,
+      "top": 2232,
+      "width": 19,
+      "height": 53,
+      "right": 931,
+      "bottom": 2285,
+      "confidence": 33
+    },
+    {
+      "text": "[",
+      "left": 947,
+      "top": 2232,
+      "width": 14,
+      "height": 53,
+      "right": 961,
+      "bottom": 2285,
+      "confidence": 50
+    },
+    {
+      "text": "Normal",
+      "left": 978,
+      "top": 2232,
+      "width": 120,
+      "height": 53,
+      "right": 1098,
+      "bottom": 2285,
+      "confidence": 73
+    },
+    {
+      "text": "(1)",
+      "left": 1192,
+      "top": 2243,
+      "width": 41,
+      "height": 35,
+      "right": 1233,
+      "bottom": 2278,
+      "confidence": 92
+    },
+    {
+      "text": "Ingestion",
+      "left": 1295,
+      "top": 2243,
+      "width": 140,
+      "height": 34,
+      "right": 1435,
+      "bottom": 2277,
+      "confidence": 95
+    },
+    {
+      "text": "(2)",
+      "left": 1446,
+      "top": 2243,
+      "width": 41,
+      "height": 35,
+      "right": 1487,
+      "bottom": 2278,
+      "confidence": 96
+    },
+    {
+      "text": "Thyroiditis",
+      "left": 1499,
+      "top": 2243,
+      "width": 165,
+      "height": 34,
+      "right": 1664,
+      "bottom": 2277,
+      "confidence": 96
+    },
+    {
+      "text": "(3)",
+      "left": 1675,
+      "top": 2243,
+      "width": 42,
+      "height": 35,
+      "right": 1717,
+      "bottom": 2278,
+      "confidence": 96
+    },
+    {
+      "text": "Interfering",
+      "left": 1728,
+      "top": 2243,
+      "width": 159,
+      "height": 34,
+      "right": 1887,
+      "bottom": 2277,
+      "confidence": 96
+    },
+    {
+      "text": "Anti",
+      "left": 1897,
+      "top": 2243,
+      "width": 65,
+      "height": 27,
+      "right": 1962,
+      "bottom": 2270,
+      "confidence": 96
+    },
+    {
+      "text": "TPO",
+      "left": 1974,
+      "top": 2243,
+      "width": 69,
+      "height": 27,
+      "right": 2043,
+      "bottom": 2270,
+      "confidence": 96
+    },
+    {
+      "text": "antibodies",
+      "left": 2055,
+      "top": 2243,
+      "width": 153,
+      "height": 27,
+      "right": 2208,
+      "bottom": 2270,
+      "confidence": 96
+    },
+    {
+      "text": "T4",
+      "left": 1245,
+      "top": 2244,
+      "width": 40,
+      "height": 25,
+      "right": 1285,
+      "bottom": 2269,
+      "confidence": 92
+    },
+    {
+      "text": "Fundamentals",
+      "left": 407,
+      "top": 2290,
+      "width": 211,
+      "height": 28,
+      "right": 618,
+      "bottom": 2318,
+      "confidence": 95
+    },
+    {
+      "text": "of",
+      "left": 629,
+      "top": 2290,
+      "width": 34,
+      "height": 28,
+      "right": 663,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "Clinical",
+      "left": 670,
+      "top": 2290,
+      "width": 116,
+      "height": 28,
+      "right": 786,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "chemistry",
+      "left": 798,
+      "top": 2290,
+      "width": 145,
+      "height": 35,
+      "right": 943,
+      "bottom": 2325,
+      "confidence": 93
+    },
+    {
+      "text": "2.Guidlines",
+      "left": 954,
+      "top": 2290,
+      "width": 172,
+      "height": 28,
+      "right": 1126,
+      "bottom": 2318,
+      "confidence": 92
+    },
+    {
+      "text": "of",
+      "left": 1138,
+      "top": 2290,
+      "width": 34,
+      "height": 28,
+      "right": 1172,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1177,
+      "top": 2290,
+      "width": 46,
+      "height": 28,
+      "right": 1223,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "American",
+      "left": 1233,
+      "top": 2290,
+      "width": 146,
+      "height": 28,
+      "right": 1379,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "Thyroid",
+      "left": 1390,
+      "top": 2290,
+      "width": 120,
+      "height": 35,
+      "right": 1510,
+      "bottom": 2325,
+      "confidence": 96
+    },
+    {
+      "text": "association",
+      "left": 1520,
+      "top": 2290,
+      "width": 166,
+      "height": 28,
+      "right": 1686,
+      "bottom": 2318,
+      "confidence": 93
+    },
+    {
+      "text": "duriing",
+      "left": 1697,
+      "top": 2290,
+      "width": 108,
+      "height": 35,
+      "right": 1805,
+      "bottom": 2325,
+      "confidence": 91
+    },
+    {
+      "text": "and",
+      "left": 1981,
+      "top": 2290,
+      "width": 53,
+      "height": 28,
+      "right": 2034,
+      "bottom": 2318,
+      "confidence": 96
+    },
+    {
+      "text": "REF:",
+      "left": 168,
+      "top": 2292,
+      "width": 76,
+      "height": 26,
+      "right": 244,
+      "bottom": 2318,
+      "confidence": 95
+    },
+    {
+      "text": "1.",
+      "left": 261,
+      "top": 2292,
+      "width": 22,
+      "height": 26,
+      "right": 283,
+      "bottom": 2318,
+      "confidence": 93
+    },
+    {
+      "text": "TIETZ",
+      "left": 296,
+      "top": 2292,
+      "width": 102,
+      "height": 25,
+      "right": 398,
+      "bottom": 2317,
+      "confidence": 92
+    },
+    {
+      "text": "Postpartum,",
+      "left": 2043,
+      "top": 2292,
+      "width": 179,
+      "height": 33,
+      "right": 2222,
+      "bottom": 2325,
+      "confidence": 95
+    },
+    {
+      "text": "2011.",
+      "left": 2234,
+      "top": 2292,
+      "width": 83,
+      "height": 26,
+      "right": 2317,
+      "bottom": 2318,
+      "confidence": 95
+    },
+    {
+      "text": "pregnancy",
+      "left": 1813,
+      "top": 2300,
+      "width": 156,
+      "height": 25,
+      "right": 1969,
+      "bottom": 2325,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 2175,
+      "top": 2333,
+      "width": 24,
+      "height": 28,
+      "right": 2199,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "NOTE:",
+      "left": 168,
+      "top": 2334,
+      "width": 115,
+      "height": 27,
+      "right": 283,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "is",
+      "left": 332,
+      "top": 2334,
+      "width": 24,
+      "height": 27,
+      "right": 356,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "advisable",
+      "left": 368,
+      "top": 2334,
+      "width": 148,
+      "height": 27,
+      "right": 516,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 1027,
+      "top": 2334,
+      "width": 72,
+      "height": 27,
+      "right": 1099,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "TSH,",
+      "left": 1109,
+      "top": 2334,
+      "width": 83,
+      "height": 32,
+      "right": 1192,
+      "bottom": 2366,
+      "confidence": 96
+    },
+    {
+      "text": "instead",
+      "left": 1203,
+      "top": 2334,
+      "width": 114,
+      "height": 27,
+      "right": 1317,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1327,
+      "top": 2334,
+      "width": 33,
+      "height": 27,
+      "right": 1360,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "testing",
+      "left": 1366,
+      "top": 2334,
+      "width": 106,
+      "height": 34,
+      "right": 1472,
+      "bottom": 2368,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1483,
+      "top": 2334,
+      "width": 46,
+      "height": 27,
+      "right": 1529,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "albumin",
+      "left": 1541,
+      "top": 2334,
+      "width": 128,
+      "height": 27,
+      "right": 1669,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "T4.TSH",
+      "left": 2042,
+      "top": 2334,
+      "width": 123,
+      "height": 27,
+      "right": 2165,
+      "bottom": 2361,
+      "confidence": 89
+    },
+    {
+      "text": "It",
+      "left": 296,
+      "top": 2335,
+      "width": 26,
+      "height": 26,
+      "right": 322,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "detect",
+      "left": 567,
+      "top": 2335,
+      "width": 93,
+      "height": 26,
+      "right": 660,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "Free",
+      "left": 669,
+      "top": 2335,
+      "width": 73,
+      "height": 26,
+      "right": 742,
+      "bottom": 2361,
+      "confidence": 93
+    },
+    {
+      "text": "T3,FreeT4",
+      "left": 752,
+      "top": 2335,
+      "width": 169,
+      "height": 31,
+      "right": 921,
+      "bottom": 2366,
+      "confidence": 91
+    },
+    {
+      "text": "along",
+      "left": 933,
+      "top": 2335,
+      "width": 85,
+      "height": 33,
+      "right": 1018,
+      "bottom": 2368,
+      "confidence": 96
+    },
+    {
+      "text": "bound",
+      "left": 1680,
+      "top": 2335,
+      "width": 100,
+      "height": 26,
+      "right": 1780,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "Total",
+      "left": 1790,
+      "top": 2335,
+      "width": 84,
+      "height": 26,
+      "right": 1874,
+      "bottom": 2361,
+      "confidence": 92
+    },
+    {
+      "text": "T3,",
+      "left": 1885,
+      "top": 2335,
+      "width": 51,
+      "height": 31,
+      "right": 1936,
+      "bottom": 2366,
+      "confidence": 92
+    },
+    {
+      "text": "Total",
+      "left": 1948,
+      "top": 2335,
+      "width": 84,
+      "height": 26,
+      "right": 2032,
+      "bottom": 2361,
+      "confidence": 89
+    },
+    {
+      "text": "to",
+      "left": 525,
+      "top": 2337,
+      "width": 30,
+      "height": 24,
+      "right": 555,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "not",
+      "left": 2210,
+      "top": 2338,
+      "width": 48,
+      "height": 23,
+      "right": 2258,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "affected",
+      "left": 169,
+      "top": 2376,
+      "width": 119,
+      "height": 28,
+      "right": 288,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "by",
+      "left": 296,
+      "top": 2376,
+      "width": 37,
+      "height": 35,
+      "right": 333,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "variation",
+      "left": 343,
+      "top": 2376,
+      "width": 133,
+      "height": 28,
+      "right": 476,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 486,
+      "top": 2376,
+      "width": 30,
+      "height": 27,
+      "right": 516,
+      "bottom": 2403,
+      "confidence": 96
+    },
+    {
+      "text": "thyroid",
+      "left": 525,
+      "top": 2376,
+      "width": 109,
+      "height": 35,
+      "right": 634,
+      "bottom": 2411,
+      "confidence": 93
+    },
+    {
+      "text": "binding",
+      "left": 665,
+      "top": 2376,
+      "width": 115,
+      "height": 35,
+      "right": 780,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "protein.",
+      "left": 790,
+      "top": 2376,
+      "width": 115,
+      "height": 35,
+      "right": 905,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "has",
+      "left": 996,
+      "top": 2376,
+      "width": 50,
+      "height": 28,
+      "right": 1046,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "diurnal",
+      "left": 1084,
+      "top": 2376,
+      "width": 104,
+      "height": 28,
+      "right": 1188,
+      "bottom": 2404,
+      "confidence": 94
+    },
+    {
+      "text": "rhythm,",
+      "left": 1198,
+      "top": 2376,
+      "width": 116,
+      "height": 35,
+      "right": 1314,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 1325,
+      "top": 2376,
+      "width": 65,
+      "height": 28,
+      "right": 1390,
+      "bottom": 2404,
+      "confidence": 97
+    },
+    {
+      "text": "peaks",
+      "left": 1400,
+      "top": 2376,
+      "width": 85,
+      "height": 35,
+      "right": 1485,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "And",
+      "left": 1781,
+      "top": 2376,
+      "width": 66,
+      "height": 28,
+      "right": 1847,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "troughs",
+      "left": 1856,
+      "top": 2376,
+      "width": 112,
+      "height": 35,
+      "right": 1968,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "TSH",
+      "left": 917,
+      "top": 2377,
+      "width": 71,
+      "height": 27,
+      "right": 988,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "2:00",
+      "left": 1533,
+      "top": 2378,
+      "width": 65,
+      "height": 26,
+      "right": 1598,
+      "bottom": 2404,
+      "confidence": 93
+    },
+    {
+      "text": "4:00",
+      "left": 1631,
+      "top": 2378,
+      "width": 65,
+      "height": 26,
+      "right": 1696,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "5:00",
+      "left": 2016,
+      "top": 2378,
+      "width": 64,
+      "height": 26,
+      "right": 2080,
+      "bottom": 2404,
+      "confidence": 93
+    },
+    {
+      "text": "6:00",
+      "left": 2115,
+      "top": 2378,
+      "width": 64,
+      "height": 26,
+      "right": 2179,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "at",
+      "left": 1497,
+      "top": 2381,
+      "width": 26,
+      "height": 23,
+      "right": 1523,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "at",
+      "left": 1979,
+      "top": 2381,
+      "width": 26,
+      "height": 23,
+      "right": 2005,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "a",
+      "left": 1057,
+      "top": 2386,
+      "width": 16,
+      "height": 18,
+      "right": 1073,
+      "bottom": 2404,
+      "confidence": 96
+    },
+    {
+      "text": "a.m.",
+      "left": 1710,
+      "top": 2386,
+      "width": 60,
+      "height": 18,
+      "right": 1770,
+      "bottom": 2404,
+      "confidence": 95
+    },
+    {
+      "text": "p.m.",
+      "left": 2189,
+      "top": 2386,
+      "width": 65,
+      "height": 25,
+      "right": 2254,
+      "bottom": 2411,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 645,
+      "top": 2393,
+      "width": 10,
+      "height": 3,
+      "right": 655,
+      "bottom": 2396,
+      "confidence": 93
+    },
+    {
+      "text": "-",
+      "left": 1609,
+      "top": 2393,
+      "width": 12,
+      "height": 3,
+      "right": 1621,
+      "bottom": 2396,
+      "confidence": 93
+    },
+    {
+      "text": "-",
+      "left": 2092,
+      "top": 2393,
+      "width": 12,
+      "height": 3,
+      "right": 2104,
+      "bottom": 2396,
+      "confidence": 92
+    },
+    {
+      "text": "With",
+      "left": 168,
+      "top": 2419,
+      "width": 75,
+      "height": 27,
+      "right": 243,
+      "bottom": 2446,
+      "confidence": 93
+    },
+    {
+      "text": "ultradian",
+      "left": 251,
+      "top": 2419,
+      "width": 135,
+      "height": 27,
+      "right": 386,
+      "bottom": 2446,
+      "confidence": 92
+    },
+    {
+      "text": "variations.",
+      "left": 395,
+      "top": 2419,
+      "width": 156,
+      "height": 27,
+      "right": 551,
+      "bottom": 2446,
+      "confidence": 95
+    },
+    {
+      "text": "16",
+      "left": 2262,
+      "top": 2896,
+      "width": 32,
+      "height": 23,
+      "right": 2294,
+      "bottom": 2919,
+      "confidence": 96
+    },
+    {
+      "text": "Of",
+      "left": 2307,
+      "top": 2896,
+      "width": 33,
+      "height": 23,
+      "right": 2340,
+      "bottom": 2919,
+      "confidence": 96
+    },
+    {
+      "text": "18",
+      "left": 2353,
+      "top": 2896,
+      "width": 31,
+      "height": 23,
+      "right": 2384,
+      "bottom": 2919,
+      "confidence": 96
+    },
+    {
+      "text": "Page",
+      "left": 2180,
+      "top": 2897,
+      "width": 67,
+      "height": 27,
+      "right": 2247,
+      "bottom": 2924,
+      "confidence": 96
+    },
+    {
+      "text": "Ravi",
+      "left": 226,
+      "top": 2990,
+      "width": 67,
+      "height": 22,
+      "right": 293,
+      "bottom": 3012,
+      "confidence": 95
+    },
+    {
+      "text": "Teja",
+      "left": 305,
+      "top": 2990,
+      "width": 68,
+      "height": 28,
+      "right": 373,
+      "bottom": 3018,
+      "confidence": 95
+    },
+    {
+      "text": "Dr.",
+      "left": 167,
+      "top": 2991,
+      "width": 44,
+      "height": 21,
+      "right": 211,
+      "bottom": 3012,
+      "confidence": 96
+    },
+    {
+      "text": "J",
+      "left": 386,
+      "top": 2991,
+      "width": 13,
+      "height": 21,
+      "right": 399,
+      "bottom": 3012,
+      "confidence": 95
+    },
+    {
+      "text": "Consultant",
+      "left": 166,
+      "top": 3032,
+      "width": 175,
+      "height": 23,
+      "right": 341,
+      "bottom": 3055,
+      "confidence": 96
+    },
+    {
+      "text": "Pathologist",
+      "left": 354,
+      "top": 3032,
+      "width": 183,
+      "height": 28,
+      "right": 537,
+      "bottom": 3060,
+      "confidence": 95
+    },
+    {
+      "text": "View",
+      "left": 1957,
+      "top": 3149,
+      "width": 68,
+      "height": 22,
+      "right": 2025,
+      "bottom": 3171,
+      "confidence": 96
+    },
+    {
+      "text": "Details",
+      "left": 2039,
+      "top": 3149,
+      "width": 96,
+      "height": 23,
+      "right": 2135,
+      "bottom": 3172,
+      "confidence": 96
+    },
+    {
+      "text": "View",
+      "left": 2231,
+      "top": 3149,
+      "width": 67,
+      "height": 22,
+      "right": 2298,
+      "bottom": 3171,
+      "confidence": 96
+    },
+    {
+      "text": "Report",
+      "left": 2312,
+      "top": 3150,
+      "width": 95,
+      "height": 29,
+      "right": 2407,
+      "bottom": 3179,
+      "confidence": 96
+    },
+    {
+      "text": "|",
+      "left": 2345,
+      "top": 3166,
+      "width": 25,
+      "height": 143,
+      "right": 2370,
+      "bottom": 3309,
+      "confidence": 53
+    },
+    {
+      "text": "PERFORMED",
+      "left": 168,
+      "top": 3186,
+      "width": 234,
+      "height": 27,
+      "right": 402,
+      "bottom": 3213,
+      "confidence": 96
+    },
+    {
+      "text": "AT:",
+      "left": 416,
+      "top": 3187,
+      "width": 72,
+      "height": 25,
+      "right": 488,
+      "bottom": 3212,
+      "confidence": 80
+    },
+    {
+      "text": "a",
+      "left": 166,
+      "top": 3226,
+      "width": 104,
+      "height": 23,
+      "right": 270,
+      "bottom": 3249,
+      "confidence": 41
+    },
+    {
+      "text": "LEGEND",
+      "left": 167,
+      "top": 3261,
+      "width": 116,
+      "height": 23,
+      "right": 283,
+      "bottom": 3284,
+      "confidence": 92
+    },
+    {
+      "text": "CRYSTAL,SHOP",
+      "left": 297,
+      "top": 3261,
+      "width": 220,
+      "height": 28,
+      "right": 517,
+      "bottom": 3289,
+      "confidence": 91
+    },
+    {
+      "text": "NO-6,GROUND",
+      "left": 534,
+      "top": 3261,
+      "width": 215,
+      "height": 28,
+      "right": 749,
+      "bottom": 3289,
+      "confidence": 90
+    },
+    {
+      "text": "&",
+      "left": 762,
+      "top": 3261,
+      "width": 21,
+      "height": 23,
+      "right": 783,
+      "bottom": 3284,
+      "confidence": 91
+    },
+    {
+      "text": "1ST",
+      "left": 796,
+      "top": 3261,
+      "width": 53,
+      "height": 22,
+      "right": 849,
+      "bottom": 3283,
+      "confidence": 93
+    },
+    {
+      "text": "FLOOR,PLOT",
+      "left": 862,
+      "top": 3261,
+      "width": 181,
+      "height": 28,
+      "right": 1043,
+      "bottom": 3289,
+      "confidence": 91
+    },
+    {
+      "text": "NO-1-7-79/A",
+      "left": 1057,
+      "top": 3261,
+      "width": 189,
+      "height": 27,
+      "right": 1246,
+      "bottom": 3288,
+      "confidence": 91
+    },
+    {
+      "text": "B:,PRENDERGHAST",
+      "left": 1260,
+      "top": 3261,
+      "width": 283,
+      "height": 28,
+      "right": 1543,
+      "bottom": 3289,
+      "confidence": 91
+    },
+    {
+      "text": "ROAD",
+      "left": 1556,
+      "top": 3261,
+      "width": 81,
+      "height": 23,
+      "right": 1637,
+      "bottom": 3284,
+      "confidence": 96
+    },
+    {
+      "text": "Patient",
+      "left": 1792,
+      "top": 3291,
+      "width": 114,
+      "height": 22,
+      "right": 1906,
+      "bottom": 3313,
+      "confidence": 95
+    },
+    {
+      "text": "Ref.",
+      "left": 1919,
+      "top": 3291,
+      "width": 60,
+      "height": 22,
+      "right": 1979,
+      "bottom": 3313,
+      "confidence": 92
+    },
+    {
+      "text": "775000002431311",
+      "left": 2059,
+      "top": 3291,
+      "width": 306,
+      "height": 22,
+      "right": 2365,
+      "bottom": 3313,
+      "confidence": 89
+    },
+    {
+      "text": "No.",
+      "left": 1994,
+      "top": 3292,
+      "width": 50,
+      "height": 21,
+      "right": 2044,
+      "bottom": 3313,
+      "confidence": 90
+    },
+    {
+      "text": "SECUNDERABAD,",
+      "left": 166,
+      "top": 3297,
+      "width": 252,
+      "height": 28,
+      "right": 418,
+      "bottom": 3325,
+      "confidence": 92
+    },
+    {
+      "text": "500003",
+      "left": 434,
+      "top": 3297,
+      "width": 106,
+      "height": 23,
+      "right": 540,
+      "bottom": 3320,
+      "confidence": 96
+    },
+    {
+      "text": "TELANGANA,",
+      "left": 164,
+      "top": 3332,
+      "width": 184,
+      "height": 28,
+      "right": 348,
+      "bottom": 3360,
+      "confidence": 91
+    },
+    {
+      "text": "INDIA",
+      "left": 366,
+      "top": 3333,
+      "width": 87,
+      "height": 21,
+      "right": 453,
+      "bottom": 3354,
+      "confidence": 96
+    },
+    {
+      "text": "Tel",
+      "left": 164,
+      "top": 3368,
+      "width": 39,
+      "height": 22,
+      "right": 203,
+      "bottom": 3390,
+      "confidence": 89
+    },
+    {
+      "text": "9111591115,",
+      "left": 244,
+      "top": 3368,
+      "width": 192,
+      "height": 28,
+      "right": 436,
+      "bottom": 3396,
+      "confidence": 96
+    },
+    {
+      "text": "Fax:",
+      "left": 452,
+      "top": 3369,
+      "width": 68,
+      "height": 22,
+      "right": 520,
+      "bottom": 3391,
+      "confidence": 75
+    },
+    {
+      "text": ":",
+      "left": 223,
+      "top": 3374,
+      "width": 4,
+      "height": 16,
+      "right": 227,
+      "bottom": 3390,
+      "confidence": 89
+    },
+    {
+      "text": "CIN",
+      "left": 166,
+      "top": 3403,
+      "width": 51,
+      "height": 22,
+      "right": 217,
+      "bottom": 3425,
+      "confidence": 93
+    },
+    {
+      "text": "U74899PB1995PLC045956",
+      "left": 256,
+      "top": 3403,
+      "width": 387,
+      "height": 23,
+      "right": 643,
+      "bottom": 3426,
+      "confidence": 72
+    },
+    {
+      "text": "-",
+      "left": 232,
+      "top": 3414,
+      "width": 9,
+      "height": 3,
+      "right": 241,
+      "bottom": 3417,
+      "confidence": 90
+    },
+    {
+      "text": "Email",
+      "left": 167,
+      "top": 3438,
+      "width": 76,
+      "height": 23,
+      "right": 243,
+      "bottom": 3461,
+      "confidence": 93
+    },
+    {
+      "text": "customercare.hyderabad@srl.in",
+      "left": 281,
+      "top": 3438,
+      "width": 462,
+      "height": 28,
+      "right": 743,
+      "bottom": 3466,
+      "confidence": 83
+    },
+    {
+      "text": ":",
+      "left": 260,
+      "top": 3444,
+      "width": 4,
+      "height": 16,
+      "right": 264,
+      "bottom": 3460,
+      "confidence": 90
+    }
+  ],
+  "total_tokens": 532
+}

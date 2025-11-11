@@ -1,0 +1,3306 @@
+{
+  "image_path": "C:\\Users\\tvijo\\Desktop\\coding\\NLP\\File Extraction Project\\data\\processed\\page_07.png",
+  "tokens": [
+    {
+      "text": "Th",
+      "left": 1897,
+      "top": 132,
+      "width": 112,
+      "height": 79,
+      "right": 2009,
+      "bottom": 211,
+      "confidence": 93
+    },
+    {
+      "text": "PROCESSED",
+      "left": 262,
+      "top": 147,
+      "width": 226,
+      "height": 27,
+      "right": 488,
+      "bottom": 174,
+      "confidence": 96
+    },
+    {
+      "text": "AT",
+      "left": 502,
+      "top": 148,
+      "width": 49,
+      "height": 25,
+      "right": 551,
+      "bottom": 173,
+      "confidence": 91
+    },
+    {
+      "text": ":",
+      "left": 567,
+      "top": 154,
+      "width": 7,
+      "height": 19,
+      "right": 574,
+      "bottom": 173,
+      "confidence": 89
+    },
+    {
+      "text": "®",
+      "left": 2339,
+      "top": 154,
+      "width": 22,
+      "height": 23,
+      "right": 2361,
+      "bottom": 177,
+      "confidence": 92
+    },
+    {
+      "text": "Care",
+      "left": 2173,
+      "top": 158,
+      "width": 167,
+      "height": 53,
+      "right": 2340,
+      "bottom": 211,
+      "confidence": 96
+    },
+    {
+      "text": "Thyrocare",
+      "left": 262,
+      "top": 187,
+      "width": 192,
+      "height": 33,
+      "right": 454,
+      "bottom": 220,
+      "confidence": 91
+    },
+    {
+      "text": "_",
+      "left": 1897,
+      "top": 230,
+      "width": 49,
+      "height": 42,
+      "right": 1946,
+      "bottom": 272,
+      "confidence": 49
+    },
+    {
+      "text": "Samanvitha",
+      "left": 263,
+      "top": 237,
+      "width": 201,
+      "height": 27,
+      "right": 464,
+      "bottom": 264,
+      "confidence": 91
+    },
+    {
+      "text": "Complex,",
+      "left": 481,
+      "top": 237,
+      "width": 157,
+      "height": 33,
+      "right": 638,
+      "bottom": 270,
+      "confidence": 93
+    },
+    {
+      "text": "No.12,13",
+      "left": 657,
+      "top": 237,
+      "width": 153,
+      "height": 33,
+      "right": 810,
+      "bottom": 270,
+      "confidence": 91
+    },
+    {
+      "text": "The",
+      "left": 1901,
+      "top": 265,
+      "width": 79,
+      "height": 41,
+      "right": 1980,
+      "bottom": 306,
+      "confidence": 96
+    },
+    {
+      "text": "The",
+      "left": 2135,
+      "top": 265,
+      "width": 79,
+      "height": 40,
+      "right": 2214,
+      "bottom": 305,
+      "confidence": 96
+    },
+    {
+      "text": "Truth.",
+      "left": 2228,
+      "top": 265,
+      "width": 127,
+      "height": 40,
+      "right": 2355,
+      "bottom": 305,
+      "confidence": 96
+    },
+    {
+      "text": "Trust.",
+      "left": 1995,
+      "top": 267,
+      "width": 124,
+      "height": 37,
+      "right": 2119,
+      "bottom": 304,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 263,
+      "top": 287,
+      "width": 59,
+      "height": 27,
+      "right": 322,
+      "bottom": 314,
+      "confidence": 96
+    },
+    {
+      "text": "14,",
+      "left": 342,
+      "top": 288,
+      "width": 49,
+      "height": 31,
+      "right": 391,
+      "bottom": 319,
+      "confidence": 96
+    },
+    {
+      "text": "Street,Outer",
+      "left": 402,
+      "top": 337,
+      "width": 214,
+      "height": 33,
+      "right": 616,
+      "bottom": 370,
+      "confidence": 91
+    },
+    {
+      "text": "Road,",
+      "left": 719,
+      "top": 337,
+      "width": 93,
+      "height": 32,
+      "right": 812,
+      "bottom": 369,
+      "confidence": 96
+    },
+    {
+      "text": "Mayura",
+      "left": 264,
+      "top": 338,
+      "width": 121,
+      "height": 32,
+      "right": 385,
+      "bottom": 370,
+      "confidence": 90
+    },
+    {
+      "text": "Ring",
+      "left": 631,
+      "top": 338,
+      "width": 70,
+      "height": 32,
+      "right": 701,
+      "bottom": 370,
+      "confidence": 96
+    },
+    {
+      "text": "Hebbal,",
+      "left": 264,
+      "top": 387,
+      "width": 126,
+      "height": 33,
+      "right": 390,
+      "bottom": 420,
+      "confidence": 93
+    },
+    {
+      "text": "Bangalore-560095",
+      "left": 408,
+      "top": 387,
+      "width": 321,
+      "height": 33,
+      "right": 729,
+      "bottom": 420,
+      "confidence": 61
+    },
+    {
+      "text": ":",
+      "left": 777,
+      "top": 443,
+      "width": 16,
+      "height": 48,
+      "right": 793,
+      "bottom": 491,
+      "confidence": 72
+    },
+    {
+      "text": "Thyrocare",
+      "left": 805,
+      "top": 443,
+      "width": 132,
+      "height": 48,
+      "right": 937,
+      "bottom": 491,
+      "confidence": 92
+    },
+    {
+      "text": "Technologies",
+      "left": 953,
+      "top": 443,
+      "width": 176,
+      "height": 48,
+      "right": 1129,
+      "bottom": 491,
+      "confidence": 95
+    },
+    {
+      "text": "7",
+      "left": 2333,
+      "top": 444,
+      "width": 18,
+      "height": 40,
+      "right": 2351,
+      "bottom": 484,
+      "confidence": 60
+    },
+    {
+      "text": "9",
+      "left": 1270,
+      "top": 447,
+      "width": 24,
+      "height": 35,
+      "right": 1294,
+      "bottom": 482,
+      "confidence": 48
+    },
+    {
+      "text": "D-37/3,",
+      "left": 1306,
+      "top": 449,
+      "width": 103,
+      "height": 36,
+      "right": 1409,
+      "bottom": 485,
+      "confidence": 91
+    },
+    {
+      "text": "/",
+      "left": 2275,
+      "top": 449,
+      "width": 17,
+      "height": 37,
+      "right": 2292,
+      "bottom": 486,
+      "confidence": 90
+    },
+    {
+      "text": "\\",
+      "left": 410,
+      "top": 450,
+      "width": 16,
+      "height": 34,
+      "right": 426,
+      "bottom": 484,
+      "confidence": 61
+    },
+    {
+      "text": "Limited,",
+      "left": 1142,
+      "top": 452,
+      "width": 113,
+      "height": 33,
+      "right": 1255,
+      "bottom": 485,
+      "confidence": 96
+    },
+    {
+      "text": "Turbhe,",
+      "left": 1570,
+      "top": 452,
+      "width": 106,
+      "height": 33,
+      "right": 1676,
+      "bottom": 485,
+      "confidence": 91
+    },
+    {
+      "text": "Mumbal",
+      "left": 1758,
+      "top": 452,
+      "width": 114,
+      "height": 27,
+      "right": 1872,
+      "bottom": 479,
+      "confidence": 89
+    },
+    {
+      "text": "Corporate",
+      "left": 537,
+      "top": 453,
+      "width": 143,
+      "height": 33,
+      "right": 680,
+      "bottom": 486,
+      "confidence": 96
+    },
+    {
+      "text": "office",
+      "left": 688,
+      "top": 453,
+      "width": 93,
+      "height": 32,
+      "right": 781,
+      "bottom": 485,
+      "confidence": 81
+    },
+    {
+      "text": "TTC",
+      "left": 1417,
+      "top": 453,
+      "width": 52,
+      "height": 26,
+      "right": 1469,
+      "bottom": 479,
+      "confidence": 93
+    },
+    {
+      "text": "MIDC,",
+      "left": 1479,
+      "top": 453,
+      "width": 83,
+      "height": 32,
+      "right": 1562,
+      "bottom": 485,
+      "confidence": 92
+    },
+    {
+      "text": "Navi",
+      "left": 1687,
+      "top": 453,
+      "width": 60,
+      "height": 26,
+      "right": 1747,
+      "bottom": 479,
+      "confidence": 93
+    },
+    {
+      "text": "400",
+      "left": 1898,
+      "top": 453,
+      "width": 54,
+      "height": 26,
+      "right": 1952,
+      "bottom": 479,
+      "confidence": 92
+    },
+    {
+      "text": "703",
+      "left": 1960,
+      "top": 453,
+      "width": 51,
+      "height": 26,
+      "right": 2011,
+      "bottom": 479,
+      "confidence": 92
+    },
+    {
+      "text": "-",
+      "left": 1882,
+      "top": 466,
+      "width": 11,
+      "height": 6,
+      "right": 1893,
+      "bottom": 472,
+      "confidence": 89
+    },
+    {
+      "text": "9870666333",
+      "left": 1033,
+      "top": 497,
+      "width": 215,
+      "height": 35,
+      "right": 1248,
+      "bottom": 532,
+      "confidence": 76
+    },
+    {
+      "text": "/",
+      "left": 825,
+      "top": 500,
+      "width": 17,
+      "height": 35,
+      "right": 842,
+      "bottom": 535,
+      "confidence": 86
+    },
+    {
+      "text": "wellness@thyrocare.com",
+      "left": 1343,
+      "top": 502,
+      "width": 355,
+      "height": 34,
+      "right": 1698,
+      "bottom": 536,
+      "confidence": 39
+    },
+    {
+      "text": "022",
+      "left": 593,
+      "top": 503,
+      "width": 51,
+      "height": 26,
+      "right": 644,
+      "bottom": 529,
+      "confidence": 84
+    },
+    {
+      "text": "3090",
+      "left": 670,
+      "top": 503,
+      "width": 70,
+      "height": 26,
+      "right": 740,
+      "bottom": 529,
+      "confidence": 75
+    },
+    {
+      "text": "0000",
+      "left": 749,
+      "top": 503,
+      "width": 70,
+      "height": 26,
+      "right": 819,
+      "bottom": 529,
+      "confidence": 91
+    },
+    {
+      "text": "6712",
+      "left": 850,
+      "top": 503,
+      "width": 67,
+      "height": 26,
+      "right": 917,
+      "bottom": 529,
+      "confidence": 76
+    },
+    {
+      "text": "3400",
+      "left": 927,
+      "top": 503,
+      "width": 69,
+      "height": 26,
+      "right": 996,
+      "bottom": 529,
+      "confidence": 76
+    },
+    {
+      "text": "ma",
+      "left": 1297,
+      "top": 506,
+      "width": 35,
+      "height": 23,
+      "right": 1332,
+      "bottom": 529,
+      "confidence": 68
+    },
+    {
+      "text": "-",
+      "left": 652,
+      "top": 516,
+      "width": 10,
+      "height": 7,
+      "right": 662,
+      "bottom": 523,
+      "confidence": 84
+    },
+    {
+      "text": "RERORT",
+      "left": 1275,
+      "top": 565,
+      "width": 163,
+      "height": 36,
+      "right": 1438,
+      "bottom": 601,
+      "confidence": 42
+    },
+    {
+      "text": "SAMPLE",
+      "left": 1526,
+      "top": 631,
+      "width": 136,
+      "height": 23,
+      "right": 1662,
+      "bottom": 654,
+      "confidence": 96
+    },
+    {
+      "text": "COLLECTED",
+      "left": 1676,
+      "top": 631,
+      "width": 197,
+      "height": 23,
+      "right": 1873,
+      "bottom": 654,
+      "confidence": 95
+    },
+    {
+      "text": "AT:",
+      "left": 1886,
+      "top": 631,
+      "width": 65,
+      "height": 23,
+      "right": 1951,
+      "bottom": 654,
+      "confidence": 93
+    },
+    {
+      "text": "(61Y/F)",
+      "left": 865,
+      "top": 635,
+      "width": 113,
+      "height": 31,
+      "right": 978,
+      "bottom": 666,
+      "confidence": 65
+    },
+    {
+      "text": "NAYANA",
+      "left": 609,
+      "top": 636,
+      "width": 124,
+      "height": 23,
+      "right": 733,
+      "bottom": 659,
+      "confidence": 91
+    },
+    {
+      "text": "SURTI",
+      "left": 745,
+      "top": 636,
+      "width": 94,
+      "height": 24,
+      "right": 839,
+      "bottom": 660,
+      "confidence": 65
+    },
+    {
+      "text": "NAME",
+      "left": 274,
+      "top": 637,
+      "width": 97,
+      "height": 23,
+      "right": 371,
+      "bottom": 660,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 583,
+      "top": 647,
+      "width": 6,
+      "height": 17,
+      "right": 589,
+      "bottom": 664,
+      "confidence": 77
+    },
+    {
+      "text": "(5600250846),RELAX",
+      "left": 1524,
+      "top": 672,
+      "width": 335,
+      "height": 31,
+      "right": 1859,
+      "bottom": 703,
+      "confidence": 91
+    },
+    {
+      "text": "HEALTHCARE",
+      "left": 1874,
+      "top": 673,
+      "width": 201,
+      "height": 23,
+      "right": 2075,
+      "bottom": 696,
+      "confidence": 96
+    },
+    {
+      "text": "SERVICES",
+      "left": 2089,
+      "top": 673,
+      "width": 156,
+      "height": 24,
+      "right": 2245,
+      "bottom": 697,
+      "confidence": 96
+    },
+    {
+      "text": "INDIA",
+      "left": 2259,
+      "top": 673,
+      "width": 93,
+      "height": 23,
+      "right": 2352,
+      "bottom": 696,
+      "confidence": 95
+    },
+    {
+      "text": "PVT",
+      "left": 2366,
+      "top": 673,
+      "width": 56,
+      "height": 23,
+      "right": 2422,
+      "bottom": 696,
+      "confidence": 95
+    },
+    {
+      "text": "REF.",
+      "left": 274,
+      "top": 689,
+      "width": 63,
+      "height": 23,
+      "right": 337,
+      "bottom": 712,
+      "confidence": 96
+    },
+    {
+      "text": "BY",
+      "left": 362,
+      "top": 689,
+      "width": 44,
+      "height": 23,
+      "right": 406,
+      "bottom": 712,
+      "confidence": 96
+    },
+    {
+      "text": "SELF",
+      "left": 611,
+      "top": 689,
+      "width": 74,
+      "height": 24,
+      "right": 685,
+      "bottom": 713,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 583,
+      "top": 698,
+      "width": 6,
+      "height": 6,
+      "right": 589,
+      "bottom": 704,
+      "confidence": 92
+    },
+    {
+      "text": "°",
+      "left": 583,
+      "top": 709,
+      "width": 6,
+      "height": 6,
+      "right": 589,
+      "bottom": 715,
+      "confidence": 42
+    },
+    {
+      "text": "25/2,NORRIS",
+      "left": 1651,
+      "top": 710,
+      "width": 206,
+      "height": 30,
+      "right": 1857,
+      "bottom": 740,
+      "confidence": 92
+    },
+    {
+      "text": "LTD,NO",
+      "left": 1524,
+      "top": 711,
+      "width": 113,
+      "height": 29,
+      "right": 1637,
+      "bottom": 740,
+      "confidence": 88
+    },
+    {
+      "text": "ROAD,",
+      "left": 1873,
+      "top": 711,
+      "width": 97,
+      "height": 29,
+      "right": 1970,
+      "bottom": 740,
+      "confidence": 96
+    },
+    {
+      "text": "RICHMOND",
+      "left": 1986,
+      "top": 711,
+      "width": 173,
+      "height": 24,
+      "right": 2159,
+      "bottom": 735,
+      "confidence": 96
+    },
+    {
+      "text": "TEST",
+      "left": 272,
+      "top": 738,
+      "width": 85,
+      "height": 23,
+      "right": 357,
+      "bottom": 761,
+      "confidence": 96
+    },
+    {
+      "text": "ASKED",
+      "left": 368,
+      "top": 738,
+      "width": 115,
+      "height": 23,
+      "right": 483,
+      "bottom": 761,
+      "confidence": 96
+    },
+    {
+      "text": "AAROGYAM",
+      "left": 604,
+      "top": 740,
+      "width": 175,
+      "height": 24,
+      "right": 779,
+      "bottom": 764,
+      "confidence": 91
+    },
+    {
+      "text": "C",
+      "left": 794,
+      "top": 740,
+      "width": 20,
+      "height": 24,
+      "right": 814,
+      "bottom": 764,
+      "confidence": 92
+    },
+    {
+      "text": ":",
+      "left": 582,
+      "top": 748,
+      "width": 6,
+      "height": 17,
+      "right": 588,
+      "bottom": 765,
+      "confidence": 87
+    },
+    {
+      "text": "TOWN,BENGALURU,",
+      "left": 1521,
+      "top": 748,
+      "width": 311,
+      "height": 29,
+      "right": 1832,
+      "bottom": 777,
+      "confidence": 91
+    },
+    {
+      "text": "KARNATAKA",
+      "left": 1848,
+      "top": 748,
+      "width": 185,
+      "height": 23,
+      "right": 2033,
+      "bottom": 771,
+      "confidence": 96
+    },
+    {
+      "text": "560025,",
+      "left": 2046,
+      "top": 748,
+      "width": 125,
+      "height": 29,
+      "right": 2171,
+      "bottom": 777,
+      "confidence": 93
+    },
+    {
+      "text": "INDIA,560025",
+      "left": 2186,
+      "top": 748,
+      "width": 221,
+      "height": 29,
+      "right": 2407,
+      "bottom": 777,
+      "confidence": 92
+    },
+    {
+      "text": "‘TESTNAME",
+      "left": 264,
+      "top": 852,
+      "width": 260,
+      "height": 61,
+      "right": 524,
+      "bottom": 913,
+      "confidence": 65
+    },
+    {
+      "text": "~—",
+      "left": 1504,
+      "top": 852,
+      "width": 113,
+      "height": 61,
+      "right": 1617,
+      "bottom": 913,
+      "confidence": 36
+    },
+    {
+      "text": "NORMAL",
+      "left": 2144,
+      "top": 852,
+      "width": 154,
+      "height": 61,
+      "right": 2298,
+      "bottom": 913,
+      "confidence": 89
+    },
+    {
+      "text": "RANGE",
+      "left": 2317,
+      "top": 852,
+      "width": 149,
+      "height": 61,
+      "right": 2466,
+      "bottom": 913,
+      "confidence": 56
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 926,
+      "width": 96,
+      "height": 41,
+      "right": 1990,
+      "bottom": 967,
+      "confidence": 91
+    },
+    {
+      "text": "TOTAL",
+      "left": 283,
+      "top": 930,
+      "width": 109,
+      "height": 27,
+      "right": 392,
+      "bottom": 957,
+      "confidence": 96
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 405,
+      "top": 930,
+      "width": 253,
+      "height": 27,
+      "right": 658,
+      "bottom": 957,
+      "confidence": 95
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1197,
+      "top": 930,
+      "width": 233,
+      "height": 27,
+      "right": 1430,
+      "bottom": 957,
+      "confidence": 96
+    },
+    {
+      "text": "199",
+      "left": 1630,
+      "top": 930,
+      "width": 59,
+      "height": 27,
+      "right": 1689,
+      "bottom": 957,
+      "confidence": 96
+    },
+    {
+      "text": "125-200",
+      "left": 2132,
+      "top": 930,
+      "width": 140,
+      "height": 27,
+      "right": 2272,
+      "bottom": 957,
+      "confidence": 95
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 975,
+      "width": 96,
+      "height": 41,
+      "right": 1990,
+      "bottom": 1016,
+      "confidence": 91
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 369,
+      "top": 979,
+      "width": 252,
+      "height": 27,
+      "right": 621,
+      "bottom": 1006,
+      "confidence": 93
+    },
+    {
+      "text": "DIRECT",
+      "left": 664,
+      "top": 979,
+      "width": 129,
+      "height": 27,
+      "right": 793,
+      "bottom": 1006,
+      "confidence": 96
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1197,
+      "top": 979,
+      "width": 233,
+      "height": 27,
+      "right": 1430,
+      "bottom": 1006,
+      "confidence": 96
+    },
+    {
+      "text": "62",
+      "left": 1628,
+      "top": 979,
+      "width": 40,
+      "height": 27,
+      "right": 1668,
+      "bottom": 1006,
+      "confidence": 95
+    },
+    {
+      "text": "35-80",
+      "left": 2130,
+      "top": 979,
+      "width": 98,
+      "height": 27,
+      "right": 2228,
+      "bottom": 1006,
+      "confidence": 96
+    },
+    {
+      "text": "HDL",
+      "left": 286,
+      "top": 980,
+      "width": 69,
+      "height": 25,
+      "right": 355,
+      "bottom": 1005,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 635,
+      "top": 992,
+      "width": 11,
+      "height": 4,
+      "right": 646,
+      "bottom": 996,
+      "confidence": 90
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 1024,
+      "width": 96,
+      "height": 41,
+      "right": 1990,
+      "bottom": 1065,
+      "confidence": 91
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 362,
+      "top": 1028,
+      "width": 253,
+      "height": 27,
+      "right": 615,
+      "bottom": 1055,
+      "confidence": 93
+    },
+    {
+      "text": "DIRECT",
+      "left": 657,
+      "top": 1028,
+      "width": 129,
+      "height": 27,
+      "right": 786,
+      "bottom": 1055,
+      "confidence": 96
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1197,
+      "top": 1028,
+      "width": 233,
+      "height": 27,
+      "right": 1430,
+      "bottom": 1055,
+      "confidence": 96
+    },
+    {
+      "text": "85-130",
+      "left": 2129,
+      "top": 1028,
+      "width": 121,
+      "height": 27,
+      "right": 2250,
+      "bottom": 1055,
+      "confidence": 96
+    },
+    {
+      "text": "LDL",
+      "left": 286,
+      "top": 1029,
+      "width": 62,
+      "height": 25,
+      "right": 348,
+      "bottom": 1054,
+      "confidence": 96
+    },
+    {
+      "text": "115",
+      "left": 1630,
+      "top": 1029,
+      "width": 59,
+      "height": 26,
+      "right": 1689,
+      "bottom": 1055,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 629,
+      "top": 1041,
+      "width": 11,
+      "height": 4,
+      "right": 640,
+      "bottom": 1045,
+      "confidence": 89
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 1073,
+      "width": 96,
+      "height": 41,
+      "right": 1990,
+      "bottom": 1114,
+      "confidence": 92
+    },
+    {
+      "text": "TRIGLYCERIDES",
+      "left": 283,
+      "top": 1077,
+      "width": 278,
+      "height": 27,
+      "right": 561,
+      "bottom": 1104,
+      "confidence": 96
+    },
+    {
+      "text": "PHOTOMETRY",
+      "left": 1197,
+      "top": 1077,
+      "width": 233,
+      "height": 27,
+      "right": 1430,
+      "bottom": 1104,
+      "confidence": 96
+    },
+    {
+      "text": "116",
+      "left": 1630,
+      "top": 1077,
+      "width": 60,
+      "height": 27,
+      "right": 1690,
+      "bottom": 1104,
+      "confidence": 96
+    },
+    {
+      "text": "25-200",
+      "left": 2130,
+      "top": 1077,
+      "width": 120,
+      "height": 27,
+      "right": 2250,
+      "bottom": 1104,
+      "confidence": 96
+    },
+    {
+      "text": "TC/",
+      "left": 283,
+      "top": 1126,
+      "width": 59,
+      "height": 31,
+      "right": 342,
+      "bottom": 1157,
+      "confidence": 90
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 441,
+      "top": 1126,
+      "width": 252,
+      "height": 27,
+      "right": 693,
+      "bottom": 1153,
+      "confidence": 95
+    },
+    {
+      "text": "RATIO",
+      "left": 708,
+      "top": 1126,
+      "width": 103,
+      "height": 27,
+      "right": 811,
+      "bottom": 1153,
+      "confidence": 95
+    },
+    {
+      "text": "CALCULATED",
+      "left": 1196,
+      "top": 1126,
+      "width": 221,
+      "height": 27,
+      "right": 1417,
+      "bottom": 1153,
+      "confidence": 96
+    },
+    {
+      "text": "3.2",
+      "left": 1629,
+      "top": 1126,
+      "width": 51,
+      "height": 27,
+      "right": 1680,
+      "bottom": 1153,
+      "confidence": 96
+    },
+    {
+      "text": "3-5",
+      "left": 2130,
+      "top": 1126,
+      "width": 78,
+      "height": 27,
+      "right": 2208,
+      "bottom": 1153,
+      "confidence": 95
+    },
+    {
+      "text": "HDL",
+      "left": 358,
+      "top": 1127,
+      "width": 69,
+      "height": 25,
+      "right": 427,
+      "bottom": 1152,
+      "confidence": 95
+    },
+    {
+      "text": "Ratio",
+      "left": 1894,
+      "top": 1127,
+      "width": 83,
+      "height": 26,
+      "right": 1977,
+      "bottom": 1153,
+      "confidence": 96
+    },
+    {
+      "text": "/",
+      "left": 359,
+      "top": 1176,
+      "width": 15,
+      "height": 31,
+      "right": 374,
+      "bottom": 1207,
+      "confidence": 89
+    },
+    {
+      "text": "RATIO",
+      "left": 475,
+      "top": 1176,
+      "width": 102,
+      "height": 27,
+      "right": 577,
+      "bottom": 1203,
+      "confidence": 94
+    },
+    {
+      "text": "CALCULATED",
+      "left": 1196,
+      "top": 1176,
+      "width": 221,
+      "height": 27,
+      "right": 1417,
+      "bottom": 1203,
+      "confidence": 96
+    },
+    {
+      "text": "1.9",
+      "left": 1630,
+      "top": 1176,
+      "width": 50,
+      "height": 27,
+      "right": 1680,
+      "bottom": 1203,
+      "confidence": 95
+    },
+    {
+      "text": "1.5-3.5",
+      "left": 2132,
+      "top": 1176,
+      "width": 121,
+      "height": 27,
+      "right": 2253,
+      "bottom": 1203,
+      "confidence": 89
+    },
+    {
+      "text": "LDL",
+      "left": 286,
+      "top": 1177,
+      "width": 62,
+      "height": 25,
+      "right": 348,
+      "bottom": 1202,
+      "confidence": 89
+    },
+    {
+      "text": "HDL",
+      "left": 391,
+      "top": 1177,
+      "width": 69,
+      "height": 25,
+      "right": 460,
+      "bottom": 1202,
+      "confidence": 94
+    },
+    {
+      "text": "Ratio",
+      "left": 1894,
+      "top": 1177,
+      "width": 83,
+      "height": 26,
+      "right": 1977,
+      "bottom": 1203,
+      "confidence": 96
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 1221,
+      "width": 96,
+      "height": 41,
+      "right": 1990,
+      "bottom": 1262,
+      "confidence": 91
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 385,
+      "top": 1225,
+      "width": 253,
+      "height": 27,
+      "right": 638,
+      "bottom": 1252,
+      "confidence": 95
+    },
+    {
+      "text": "CALCULATED",
+      "left": 1196,
+      "top": 1225,
+      "width": 221,
+      "height": 27,
+      "right": 1417,
+      "bottom": 1252,
+      "confidence": 96
+    },
+    {
+      "text": "23.28",
+      "left": 1628,
+      "top": 1225,
+      "width": 96,
+      "height": 27,
+      "right": 1724,
+      "bottom": 1252,
+      "confidence": 96
+    },
+    {
+      "text": "5-40",
+      "left": 2130,
+      "top": 1225,
+      "width": 100,
+      "height": 27,
+      "right": 2230,
+      "bottom": 1252,
+      "confidence": 81
+    },
+    {
+      "text": "VLDL",
+      "left": 284,
+      "top": 1226,
+      "width": 88,
+      "height": 25,
+      "right": 372,
+      "bottom": 1251,
+      "confidence": 95
+    },
+    {
+      "text": "NON-HDL",
+      "left": 286,
+      "top": 1274,
+      "width": 163,
+      "height": 27,
+      "right": 449,
+      "bottom": 1301,
+      "confidence": 91
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 463,
+      "top": 1274,
+      "width": 252,
+      "height": 27,
+      "right": 715,
+      "bottom": 1301,
+      "confidence": 96
+    },
+    {
+      "text": "CALCULATED",
+      "left": 1196,
+      "top": 1274,
+      "width": 221,
+      "height": 27,
+      "right": 1417,
+      "bottom": 1301,
+      "confidence": 96
+    },
+    {
+      "text": "136.8",
+      "left": 1630,
+      "top": 1274,
+      "width": 94,
+      "height": 27,
+      "right": 1724,
+      "bottom": 1301,
+      "confidence": 96
+    },
+    {
+      "text": "mg/dl",
+      "left": 1894,
+      "top": 1274,
+      "width": 96,
+      "height": 31,
+      "right": 1990,
+      "bottom": 1305,
+      "confidence": 93
+    },
+    {
+      "text": "160",
+      "left": 2172,
+      "top": 1274,
+      "width": 59,
+      "height": 27,
+      "right": 2231,
+      "bottom": 1301,
+      "confidence": 96
+    },
+    {
+      "text": "<",
+      "left": 2131,
+      "top": 1279,
+      "width": 20,
+      "height": 20,
+      "right": 2151,
+      "bottom": 1299,
+      "confidence": 93
+    },
+    {
+      "text": "Please",
+      "left": 286,
+      "top": 1335,
+      "width": 122,
+      "height": 27,
+      "right": 408,
+      "bottom": 1362,
+      "confidence": 95
+    },
+    {
+      "text": "correlate",
+      "left": 422,
+      "top": 1335,
+      "width": 172,
+      "height": 27,
+      "right": 594,
+      "bottom": 1362,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 607,
+      "top": 1335,
+      "width": 83,
+      "height": 26,
+      "right": 690,
+      "bottom": 1361,
+      "confidence": 96
+    },
+    {
+      "text": "clinical",
+      "left": 705,
+      "top": 1335,
+      "width": 131,
+      "height": 27,
+      "right": 836,
+      "bottom": 1362,
+      "confidence": 96
+    },
+    {
+      "text": "conditions.",
+      "left": 852,
+      "top": 1335,
+      "width": 208,
+      "height": 27,
+      "right": 1060,
+      "bottom": 1362,
+      "confidence": 96
+    },
+    {
+      "text": "Method",
+      "left": 286,
+      "top": 1435,
+      "width": 138,
+      "height": 27,
+      "right": 424,
+      "bottom": 1462,
+      "confidence": 91
+    },
+    {
+      "text": ":",
+      "left": 442,
+      "top": 1442,
+      "width": 7,
+      "height": 19,
+      "right": 449,
+      "bottom": 1461,
+      "confidence": 90
+    },
+    {
+      "text": "CHOL",
+      "left": 285,
+      "top": 1497,
+      "width": 94,
+      "height": 27,
+      "right": 379,
+      "bottom": 1524,
+      "confidence": 89
+    },
+    {
+      "text": "CHOD",
+      "left": 421,
+      "top": 1497,
+      "width": 100,
+      "height": 27,
+      "right": 521,
+      "bottom": 1524,
+      "confidence": 92
+    },
+    {
+      "text": "POD",
+      "left": 538,
+      "top": 1497,
+      "width": 69,
+      "height": 27,
+      "right": 607,
+      "bottom": 1524,
+      "confidence": 95
+    },
+    {
+      "text": "METHOD",
+      "left": 624,
+      "top": 1497,
+      "width": 146,
+      "height": 27,
+      "right": 770,
+      "bottom": 1524,
+      "confidence": 95
+    },
+    {
+      "text": "-",
+      "left": 394,
+      "top": 1510,
+      "width": 11,
+      "height": 4,
+      "right": 405,
+      "bottom": 1514,
+      "confidence": 89
+    },
+    {
+      "text": "HCHO",
+      "left": 286,
+      "top": 1547,
+      "width": 98,
+      "height": 27,
+      "right": 384,
+      "bottom": 1574,
+      "confidence": 92
+    },
+    {
+      "text": "SELECTIVE",
+      "left": 583,
+      "top": 1547,
+      "width": 187,
+      "height": 27,
+      "right": 770,
+      "bottom": 1574,
+      "confidence": 96
+    },
+    {
+      "text": "PROTECTION",
+      "left": 787,
+      "top": 1547,
+      "width": 220,
+      "height": 27,
+      "right": 1007,
+      "bottom": 1574,
+      "confidence": 96
+    },
+    {
+      "text": "METHOD",
+      "left": 1025,
+      "top": 1547,
+      "width": 146,
+      "height": 27,
+      "right": 1171,
+      "bottom": 1574,
+      "confidence": 95
+    },
+    {
+      "text": "ENZYME",
+      "left": 429,
+      "top": 1548,
+      "width": 138,
+      "height": 25,
+      "right": 567,
+      "bottom": 1573,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 400,
+      "top": 1560,
+      "width": 11,
+      "height": 4,
+      "right": 411,
+      "bottom": 1564,
+      "confidence": 92
+    },
+    {
+      "text": "HOMOGENOUS",
+      "left": 391,
+      "top": 1597,
+      "width": 254,
+      "height": 27,
+      "right": 645,
+      "bottom": 1624,
+      "confidence": 90
+    },
+    {
+      "text": "ENZYMATIC",
+      "left": 662,
+      "top": 1597,
+      "width": 198,
+      "height": 27,
+      "right": 860,
+      "bottom": 1624,
+      "confidence": 95
+    },
+    {
+      "text": "COLORIMETRIC",
+      "left": 875,
+      "top": 1597,
+      "width": 266,
+      "height": 27,
+      "right": 1141,
+      "bottom": 1624,
+      "confidence": 96
+    },
+    {
+      "text": "ASSAY",
+      "left": 1155,
+      "top": 1597,
+      "width": 112,
+      "height": 27,
+      "right": 1267,
+      "bottom": 1624,
+      "confidence": 96
+    },
+    {
+      "text": "LDL",
+      "left": 286,
+      "top": 1598,
+      "width": 62,
+      "height": 25,
+      "right": 348,
+      "bottom": 1623,
+      "confidence": 88
+    },
+    {
+      "text": "-",
+      "left": 362,
+      "top": 1610,
+      "width": 11,
+      "height": 4,
+      "right": 373,
+      "bottom": 1614,
+      "confidence": 88
+    },
+    {
+      "text": "TRIG",
+      "left": 283,
+      "top": 1647,
+      "width": 84,
+      "height": 27,
+      "right": 367,
+      "bottom": 1674,
+      "confidence": 93
+    },
+    {
+      "text": "ENZYMATIC",
+      "left": 412,
+      "top": 1647,
+      "width": 198,
+      "height": 27,
+      "right": 610,
+      "bottom": 1674,
+      "confidence": 96
+    },
+    {
+      "text": "COLORIMETRIC",
+      "left": 625,
+      "top": 1647,
+      "width": 267,
+      "height": 27,
+      "right": 892,
+      "bottom": 1674,
+      "confidence": 95
+    },
+    {
+      "text": "METHOD",
+      "left": 908,
+      "top": 1647,
+      "width": 146,
+      "height": 27,
+      "right": 1054,
+      "bottom": 1674,
+      "confidence": 95
+    },
+    {
+      "text": "(GPO)",
+      "left": 1071,
+      "top": 1647,
+      "width": 100,
+      "height": 33,
+      "right": 1171,
+      "bottom": 1680,
+      "confidence": 95
+    },
+    {
+      "text": "[HIGHLY",
+      "left": 1190,
+      "top": 1647,
+      "width": 142,
+      "height": 33,
+      "right": 1332,
+      "bottom": 1680,
+      "confidence": 95
+    },
+    {
+      "text": "INFLUENCED",
+      "left": 1346,
+      "top": 1647,
+      "width": 220,
+      "height": 27,
+      "right": 1566,
+      "bottom": 1674,
+      "confidence": 96
+    },
+    {
+      "text": "OF",
+      "left": 1756,
+      "top": 1647,
+      "width": 45,
+      "height": 27,
+      "right": 1801,
+      "bottom": 1674,
+      "confidence": 96
+    },
+    {
+      "text": "FASTING]",
+      "left": 1816,
+      "top": 1647,
+      "width": 161,
+      "height": 33,
+      "right": 1977,
+      "bottom": 1680,
+      "confidence": 96
+    },
+    {
+      "text": "BY",
+      "left": 1583,
+      "top": 1648,
+      "width": 41,
+      "height": 25,
+      "right": 1624,
+      "bottom": 1673,
+      "confidence": 96
+    },
+    {
+      "text": "LEVEL",
+      "left": 1640,
+      "top": 1648,
+      "width": 102,
+      "height": 25,
+      "right": 1742,
+      "bottom": 1673,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 384,
+      "top": 1660,
+      "width": 11,
+      "height": 4,
+      "right": 395,
+      "bottom": 1664,
+      "confidence": 90
+    },
+    {
+      "text": "TC/H",
+      "left": 283,
+      "top": 1697,
+      "width": 83,
+      "height": 31,
+      "right": 366,
+      "bottom": 1728,
+      "confidence": 88
+    },
+    {
+      "text": "FROM",
+      "left": 582,
+      "top": 1697,
+      "width": 94,
+      "height": 27,
+      "right": 676,
+      "bottom": 1724,
+      "confidence": 95
+    },
+    {
+      "text": "SERUM",
+      "left": 693,
+      "top": 1697,
+      "width": 118,
+      "height": 27,
+      "right": 811,
+      "bottom": 1724,
+      "confidence": 96
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 828,
+      "top": 1697,
+      "width": 253,
+      "height": 27,
+      "right": 1081,
+      "bottom": 1724,
+      "confidence": 96
+    },
+    {
+      "text": "VALUES",
+      "left": 1265,
+      "top": 1697,
+      "width": 133,
+      "height": 27,
+      "right": 1398,
+      "bottom": 1724,
+      "confidence": 96
+    },
+    {
+      "text": "DERIVED",
+      "left": 412,
+      "top": 1698,
+      "width": 153,
+      "height": 25,
+      "right": 565,
+      "bottom": 1723,
+      "confidence": 95
+    },
+    {
+      "text": "AND",
+      "left": 1093,
+      "top": 1698,
+      "width": 74,
+      "height": 25,
+      "right": 1167,
+      "bottom": 1723,
+      "confidence": 96
+    },
+    {
+      "text": "HDL",
+      "left": 1184,
+      "top": 1698,
+      "width": 68,
+      "height": 25,
+      "right": 1252,
+      "bottom": 1723,
+      "confidence": 95
+    },
+    {
+      "text": "-",
+      "left": 383,
+      "top": 1710,
+      "width": 11,
+      "height": 4,
+      "right": 394,
+      "bottom": 1714,
+      "confidence": 88
+    },
+    {
+      "text": "LDL/",
+      "left": 286,
+      "top": 1747,
+      "width": 76,
+      "height": 31,
+      "right": 362,
+      "bottom": 1778,
+      "confidence": 92
+    },
+    {
+      "text": "FROM",
+      "left": 577,
+      "top": 1747,
+      "width": 93,
+      "height": 27,
+      "right": 670,
+      "bottom": 1774,
+      "confidence": 96
+    },
+    {
+      "text": "SERUM",
+      "left": 688,
+      "top": 1747,
+      "width": 118,
+      "height": 27,
+      "right": 806,
+      "bottom": 1774,
+      "confidence": 96
+    },
+    {
+      "text": "VALUES",
+      "left": 1070,
+      "top": 1747,
+      "width": 133,
+      "height": 27,
+      "right": 1203,
+      "bottom": 1774,
+      "confidence": 96
+    },
+    {
+      "text": "DERIVED",
+      "left": 407,
+      "top": 1748,
+      "width": 153,
+      "height": 25,
+      "right": 560,
+      "bottom": 1773,
+      "confidence": 96
+    },
+    {
+      "text": "HDL",
+      "left": 824,
+      "top": 1748,
+      "width": 69,
+      "height": 25,
+      "right": 893,
+      "bottom": 1773,
+      "confidence": 96
+    },
+    {
+      "text": "AND",
+      "left": 905,
+      "top": 1748,
+      "width": 73,
+      "height": 25,
+      "right": 978,
+      "bottom": 1773,
+      "confidence": 96
+    },
+    {
+      "text": "LDL",
+      "left": 996,
+      "top": 1748,
+      "width": 61,
+      "height": 25,
+      "right": 1057,
+      "bottom": 1773,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 378,
+      "top": 1760,
+      "width": 11,
+      "height": 4,
+      "right": 389,
+      "bottom": 1764,
+      "confidence": 92
+    },
+    {
+      "text": "FROM",
+      "left": 585,
+      "top": 1797,
+      "width": 93,
+      "height": 27,
+      "right": 678,
+      "bottom": 1824,
+      "confidence": 96
+    },
+    {
+      "text": "SERUM",
+      "left": 695,
+      "top": 1797,
+      "width": 119,
+      "height": 27,
+      "right": 814,
+      "bottom": 1824,
+      "confidence": 95
+    },
+    {
+      "text": "TRIGLYCERIDE",
+      "left": 829,
+      "top": 1797,
+      "width": 254,
+      "height": 27,
+      "right": 1083,
+      "bottom": 1824,
+      "confidence": 95
+    },
+    {
+      "text": "VALUES",
+      "left": 1097,
+      "top": 1797,
+      "width": 134,
+      "height": 27,
+      "right": 1231,
+      "bottom": 1824,
+      "confidence": 96
+    },
+    {
+      "text": "VLDL",
+      "left": 284,
+      "top": 1798,
+      "width": 88,
+      "height": 25,
+      "right": 372,
+      "bottom": 1823,
+      "confidence": 93
+    },
+    {
+      "text": "DERIVED",
+      "left": 414,
+      "top": 1798,
+      "width": 154,
+      "height": 25,
+      "right": 568,
+      "bottom": 1823,
+      "confidence": 96
+    },
+    {
+      "text": "-",
+      "left": 386,
+      "top": 1810,
+      "width": 11,
+      "height": 4,
+      "right": 397,
+      "bottom": 1814,
+      "confidence": 92
+    },
+    {
+      "text": "FROM",
+      "left": 594,
+      "top": 1847,
+      "width": 93,
+      "height": 27,
+      "right": 687,
+      "bottom": 1874,
+      "confidence": 96
+    },
+    {
+      "text": "SERUM",
+      "left": 704,
+      "top": 1847,
+      "width": 118,
+      "height": 27,
+      "right": 822,
+      "bottom": 1874,
+      "confidence": 95
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 840,
+      "top": 1847,
+      "width": 252,
+      "height": 27,
+      "right": 1092,
+      "bottom": 1874,
+      "confidence": 96
+    },
+    {
+      "text": "VALUES",
+      "left": 1276,
+      "top": 1847,
+      "width": 133,
+      "height": 27,
+      "right": 1409,
+      "bottom": 1874,
+      "confidence": 95
+    },
+    {
+      "text": "NHDL",
+      "left": 286,
+      "top": 1848,
+      "width": 95,
+      "height": 25,
+      "right": 381,
+      "bottom": 1873,
+      "confidence": 90
+    },
+    {
+      "text": "DERIVED",
+      "left": 423,
+      "top": 1848,
+      "width": 154,
+      "height": 25,
+      "right": 577,
+      "bottom": 1873,
+      "confidence": 96
+    },
+    {
+      "text": "AND",
+      "left": 1104,
+      "top": 1848,
+      "width": 74,
+      "height": 25,
+      "right": 1178,
+      "bottom": 1873,
+      "confidence": 96
+    },
+    {
+      "text": "HDL",
+      "left": 1195,
+      "top": 1848,
+      "width": 69,
+      "height": 25,
+      "right": 1264,
+      "bottom": 1873,
+      "confidence": 95
+    },
+    {
+      "text": "-",
+      "left": 395,
+      "top": 1860,
+      "width": 11,
+      "height": 4,
+      "right": 406,
+      "bottom": 1864,
+      "confidence": 92
+    },
+    {
+      "text": "*REFERENCE",
+      "left": 285,
+      "top": 1913,
+      "width": 195,
+      "height": 21,
+      "right": 480,
+      "bottom": 1934,
+      "confidence": 92
+    },
+    {
+      "text": "RANGES",
+      "left": 493,
+      "top": 1914,
+      "width": 123,
+      "height": 20,
+      "right": 616,
+      "bottom": 1934,
+      "confidence": 95
+    },
+    {
+      "text": "AS",
+      "left": 627,
+      "top": 1914,
+      "width": 39,
+      "height": 20,
+      "right": 666,
+      "bottom": 1934,
+      "confidence": 95
+    },
+    {
+      "text": "PER",
+      "left": 679,
+      "top": 1914,
+      "width": 59,
+      "height": 20,
+      "right": 738,
+      "bottom": 1934,
+      "confidence": 95
+    },
+    {
+      "text": "NCEP",
+      "left": 749,
+      "top": 1914,
+      "width": 79,
+      "height": 20,
+      "right": 828,
+      "bottom": 1934,
+      "confidence": 95
+    },
+    {
+      "text": "ATP",
+      "left": 838,
+      "top": 1914,
+      "width": 59,
+      "height": 20,
+      "right": 897,
+      "bottom": 1934,
+      "confidence": 95
+    },
+    {
+      "text": "III",
+      "left": 909,
+      "top": 1914,
+      "width": 42,
+      "height": 20,
+      "right": 951,
+      "bottom": 1934,
+      "confidence": 94
+    },
+    {
+      "text": "GUIDELINES:",
+      "left": 964,
+      "top": 1914,
+      "width": 202,
+      "height": 20,
+      "right": 1166,
+      "bottom": 1934,
+      "confidence": 96
+    },
+    {
+      "text": "(mg/dl)",
+      "left": 773,
+      "top": 1977,
+      "width": 121,
+      "height": 42,
+      "right": 894,
+      "bottom": 2019,
+      "confidence": 93
+    },
+    {
+      "text": "(mg/dl)",
+      "left": 1691,
+      "top": 1978,
+      "width": 121,
+      "height": 41,
+      "right": 1812,
+      "bottom": 2019,
+      "confidence": 95
+    },
+    {
+      "text": "TOTAL",
+      "left": 290,
+      "top": 1981,
+      "width": 99,
+      "height": 20,
+      "right": 389,
+      "bottom": 2001,
+      "confidence": 96
+    },
+    {
+      "text": "CHOLESTEROL",
+      "left": 400,
+      "top": 1981,
+      "width": 220,
+      "height": 20,
+      "right": 620,
+      "bottom": 2001,
+      "confidence": 96
+    },
+    {
+      "text": "HDL",
+      "left": 961,
+      "top": 1989,
+      "width": 60,
+      "height": 20,
+      "right": 1021,
+      "bottom": 2009,
+      "confidence": 96
+    },
+    {
+      "text": "LDL",
+      "left": 1335,
+      "top": 1989,
+      "width": 55,
+      "height": 20,
+      "right": 1390,
+      "bottom": 2009,
+      "confidence": 45
+    },
+    {
+      "text": "(mg/dl)",
+      "left": 2269,
+      "top": 1989,
+      "width": 121,
+      "height": 27,
+      "right": 2390,
+      "bottom": 2016,
+      "confidence": 95
+    },
+    {
+      "text": "TRIGLYCERIDES",
+      "left": 1887,
+      "top": 1990,
+      "width": 250,
+      "height": 20,
+      "right": 2137,
+      "bottom": 2010,
+      "confidence": 96
+    },
+    {
+      "text": "<200",
+      "left": 774,
+      "top": 2060,
+      "width": 70,
+      "height": 22,
+      "right": 844,
+      "bottom": 2082,
+      "confidence": 90
+    },
+    {
+      "text": "LOW",
+      "left": 961,
+      "top": 2060,
+      "width": 60,
+      "height": 22,
+      "right": 1021,
+      "bottom": 2082,
+      "confidence": 76
+    },
+    {
+      "text": "<40",
+      "left": 1149,
+      "top": 2060,
+      "width": 53,
+      "height": 22,
+      "right": 1202,
+      "bottom": 2082,
+      "confidence": 92
+    },
+    {
+      "text": "OPTIMAL",
+      "left": 1334,
+      "top": 2060,
+      "width": 123,
+      "height": 22,
+      "right": 1457,
+      "bottom": 2082,
+      "confidence": 96
+    },
+    {
+      "text": "<100",
+      "left": 1692,
+      "top": 2060,
+      "width": 70,
+      "height": 22,
+      "right": 1762,
+      "bottom": 2082,
+      "confidence": 91
+    },
+    {
+      "text": "DESIRABLE",
+      "left": 292,
+      "top": 2061,
+      "width": 155,
+      "height": 20,
+      "right": 447,
+      "bottom": 2081,
+      "confidence": 96
+    },
+    {
+      "text": "NORMAL",
+      "left": 1889,
+      "top": 2061,
+      "width": 116,
+      "height": 22,
+      "right": 2005,
+      "bottom": 2083,
+      "confidence": 96
+    },
+    {
+      "text": "<150",
+      "left": 2270,
+      "top": 2061,
+      "width": 70,
+      "height": 22,
+      "right": 2340,
+      "bottom": 2083,
+      "confidence": 92
+    },
+    {
+      "text": "BORDERLINE",
+      "left": 292,
+      "top": 2131,
+      "width": 178,
+      "height": 22,
+      "right": 470,
+      "bottom": 2153,
+      "confidence": 96
+    },
+    {
+      "text": "200-239",
+      "left": 773,
+      "top": 2131,
+      "width": 114,
+      "height": 22,
+      "right": 887,
+      "bottom": 2153,
+      "confidence": 95
+    },
+    {
+      "text": ">60",
+      "left": 1149,
+      "top": 2131,
+      "width": 53,
+      "height": 22,
+      "right": 1202,
+      "bottom": 2153,
+      "confidence": 93
+    },
+    {
+      "text": "OPTIMAL",
+      "left": 1419,
+      "top": 2131,
+      "width": 123,
+      "height": 22,
+      "right": 1542,
+      "bottom": 2153,
+      "confidence": 96
+    },
+    {
+      "text": "100-129",
+      "left": 1692,
+      "top": 2131,
+      "width": 112,
+      "height": 22,
+      "right": 1804,
+      "bottom": 2153,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 484,
+      "top": 2132,
+      "width": 69,
+      "height": 21,
+      "right": 553,
+      "bottom": 2153,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 961,
+      "top": 2132,
+      "width": 69,
+      "height": 21,
+      "right": 1030,
+      "bottom": 2153,
+      "confidence": 96
+    },
+    {
+      "text": "NEAR",
+      "left": 1335,
+      "top": 2132,
+      "width": 73,
+      "height": 20,
+      "right": 1408,
+      "bottom": 2152,
+      "confidence": 96
+    },
+    {
+      "text": "BORDERLINE",
+      "left": 1889,
+      "top": 2133,
+      "width": 178,
+      "height": 22,
+      "right": 2067,
+      "bottom": 2155,
+      "confidence": 96
+    },
+    {
+      "text": "150-199",
+      "left": 2270,
+      "top": 2133,
+      "width": 112,
+      "height": 22,
+      "right": 2382,
+      "bottom": 2155,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 2081,
+      "top": 2134,
+      "width": 69,
+      "height": 21,
+      "right": 2150,
+      "bottom": 2155,
+      "confidence": 96
+    },
+    {
+      "text": "BORDERLINE",
+      "left": 1335,
+      "top": 2203,
+      "width": 178,
+      "height": 22,
+      "right": 1513,
+      "bottom": 2225,
+      "confidence": 95
+    },
+    {
+      "text": "HIGH",
+      "left": 1526,
+      "top": 2204,
+      "width": 70,
+      "height": 21,
+      "right": 1596,
+      "bottom": 2225,
+      "confidence": 95
+    },
+    {
+      "text": ">240",
+      "left": 774,
+      "top": 2206,
+      "width": 70,
+      "height": 22,
+      "right": 844,
+      "bottom": 2228,
+      "confidence": 91
+    },
+    {
+      "text": "130-159",
+      "left": 1692,
+      "top": 2206,
+      "width": 112,
+      "height": 22,
+      "right": 1804,
+      "bottom": 2228,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 292,
+      "top": 2207,
+      "width": 69,
+      "height": 21,
+      "right": 361,
+      "bottom": 2228,
+      "confidence": 96
+    },
+    {
+      "text": "200-499",
+      "left": 2268,
+      "top": 2208,
+      "width": 114,
+      "height": 22,
+      "right": 2382,
+      "bottom": 2230,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 1889,
+      "top": 2209,
+      "width": 69,
+      "height": 21,
+      "right": 1958,
+      "bottom": 2230,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 1335,
+      "top": 2267,
+      "width": 69,
+      "height": 21,
+      "right": 1404,
+      "bottom": 2288,
+      "confidence": 96
+    },
+    {
+      "text": "160-189",
+      "left": 1692,
+      "top": 2269,
+      "width": 112,
+      "height": 22,
+      "right": 1804,
+      "bottom": 2291,
+      "confidence": 96
+    },
+    {
+      "text": ">500",
+      "left": 2270,
+      "top": 2270,
+      "width": 70,
+      "height": 22,
+      "right": 2340,
+      "bottom": 2292,
+      "confidence": 92
+    },
+    {
+      "text": "VERY",
+      "left": 1886,
+      "top": 2271,
+      "width": 72,
+      "height": 20,
+      "right": 1958,
+      "bottom": 2291,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 1970,
+      "top": 2271,
+      "width": 70,
+      "height": 21,
+      "right": 2040,
+      "bottom": 2292,
+      "confidence": 96
+    },
+    {
+      "text": "VERY",
+      "left": 1332,
+      "top": 2326,
+      "width": 72,
+      "height": 20,
+      "right": 1404,
+      "bottom": 2346,
+      "confidence": 96
+    },
+    {
+      "text": "HIGH",
+      "left": 1416,
+      "top": 2326,
+      "width": 70,
+      "height": 21,
+      "right": 1486,
+      "bottom": 2347,
+      "confidence": 96
+    },
+    {
+      "text": ">190",
+      "left": 1692,
+      "top": 2328,
+      "width": 70,
+      "height": 22,
+      "right": 1762,
+      "bottom": 2350,
+      "confidence": 93
+    },
+    {
+      "text": "fasting",
+      "left": 637,
+      "top": 2438,
+      "width": 118,
+      "height": 35,
+      "right": 755,
+      "bottom": 2473,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1004,
+      "top": 2438,
+      "width": 49,
+      "height": 27,
+      "right": 1053,
+      "bottom": 2465,
+      "confidence": 96
+    },
+    {
+      "text": "If",
+      "left": 1367,
+      "top": 2438,
+      "width": 21,
+      "height": 27,
+      "right": 1388,
+      "bottom": 2465,
+      "confidence": 92
+    },
+    {
+      "text": "fluctuate.",
+      "left": 1707,
+      "top": 2438,
+      "width": 160,
+      "height": 27,
+      "right": 1867,
+      "bottom": 2465,
+      "confidence": 77
+    },
+    {
+      "text": "Alert",
+      "left": 283,
+      "top": 2439,
+      "width": 83,
+      "height": 26,
+      "right": 366,
+      "bottom": 2465,
+      "confidence": 92
+    },
+    {
+      "text": "!!!",
+      "left": 379,
+      "top": 2439,
+      "width": 30,
+      "height": 26,
+      "right": 409,
+      "bottom": 2465,
+      "confidence": 74
+    },
+    {
+      "text": "10-12",
+      "left": 426,
+      "top": 2439,
+      "width": 89,
+      "height": 26,
+      "right": 515,
+      "bottom": 2465,
+      "confidence": 96
+    },
+    {
+      "text": "hours",
+      "left": 528,
+      "top": 2439,
+      "width": 98,
+      "height": 26,
+      "right": 626,
+      "bottom": 2465,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 769,
+      "top": 2439,
+      "width": 27,
+      "height": 26,
+      "right": 796,
+      "bottom": 2465,
+      "confidence": 96
+    },
+    {
+      "text": "mandatory",
+      "left": 810,
+      "top": 2439,
+      "width": 184,
+      "height": 34,
+      "right": 994,
+      "bottom": 2473,
+      "confidence": 96
+    },
+    {
+      "text": "lipid",
+      "left": 1065,
+      "top": 2439,
+      "width": 70,
+      "height": 33,
+      "right": 1135,
+      "bottom": 2472,
+      "confidence": 95
+    },
+    {
+      "text": "parameters.",
+      "left": 1150,
+      "top": 2439,
+      "width": 202,
+      "height": 33,
+      "right": 1352,
+      "bottom": 2472,
+      "confidence": 96
+    },
+    {
+      "text": "not,",
+      "left": 1399,
+      "top": 2439,
+      "width": 63,
+      "height": 32,
+      "right": 1462,
+      "bottom": 2471,
+      "confidence": 96
+    },
+    {
+      "text": "values",
+      "left": 1474,
+      "top": 2439,
+      "width": 112,
+      "height": 26,
+      "right": 1586,
+      "bottom": 2465,
+      "confidence": 96
+    },
+    {
+      "text": "might",
+      "left": 1600,
+      "top": 2439,
+      "width": 97,
+      "height": 34,
+      "right": 1697,
+      "bottom": 2473,
+      "confidence": 96
+    },
+    {
+      "text": "Sample",
+      "left": 295,
+      "top": 2637,
+      "width": 140,
+      "height": 33,
+      "right": 435,
+      "bottom": 2670,
+      "confidence": 96
+    },
+    {
+      "text": "Collected",
+      "left": 449,
+      "top": 2637,
+      "width": 174,
+      "height": 27,
+      "right": 623,
+      "bottom": 2664,
+      "confidence": 96
+    },
+    {
+      "text": "(SCT)",
+      "left": 700,
+      "top": 2637,
+      "width": 104,
+      "height": 33,
+      "right": 804,
+      "bottom": 2670,
+      "confidence": 96
+    },
+    {
+      "text": "04",
+      "left": 947,
+      "top": 2638,
+      "width": 40,
+      "height": 27,
+      "right": 987,
+      "bottom": 2665,
+      "confidence": 96
+    },
+    {
+      "text": "2021",
+      "left": 1079,
+      "top": 2638,
+      "width": 82,
+      "height": 27,
+      "right": 1161,
+      "bottom": 2665,
+      "confidence": 94
+    },
+    {
+      "text": "13:25",
+      "left": 1181,
+      "top": 2638,
+      "width": 96,
+      "height": 27,
+      "right": 1277,
+      "bottom": 2665,
+      "confidence": 94
+    },
+    {
+      "text": "Mar",
+      "left": 1004,
+      "top": 2639,
+      "width": 61,
+      "height": 26,
+      "right": 1065,
+      "bottom": 2665,
+      "confidence": 95
+    },
+    {
+      "text": "on",
+      "left": 638,
+      "top": 2644,
+      "width": 45,
+      "height": 20,
+      "right": 683,
+      "bottom": 2664,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 919,
+      "top": 2645,
+      "width": 6,
+      "height": 19,
+      "right": 925,
+      "bottom": 2664,
+      "confidence": 91
+    },
+    {
+      "text": "04",
+      "left": 955,
+      "top": 2692,
+      "width": 40,
+      "height": 27,
+      "right": 995,
+      "bottom": 2719,
+      "confidence": 93
+    },
+    {
+      "text": "2021",
+      "left": 1088,
+      "top": 2692,
+      "width": 81,
+      "height": 27,
+      "right": 1169,
+      "bottom": 2719,
+      "confidence": 92
+    },
+    {
+      "text": "16:11",
+      "left": 1189,
+      "top": 2692,
+      "width": 96,
+      "height": 27,
+      "right": 1285,
+      "bottom": 2719,
+      "confidence": 92
+    },
+    {
+      "text": "Mar",
+      "left": 1012,
+      "top": 2693,
+      "width": 62,
+      "height": 26,
+      "right": 1074,
+      "bottom": 2719,
+      "confidence": 95
+    },
+    {
+      "text": "Sample",
+      "left": 295,
+      "top": 2698,
+      "width": 140,
+      "height": 33,
+      "right": 435,
+      "bottom": 2731,
+      "confidence": 96
+    },
+    {
+      "text": "Received",
+      "left": 451,
+      "top": 2698,
+      "width": 168,
+      "height": 27,
+      "right": 619,
+      "bottom": 2725,
+      "confidence": 96
+    },
+    {
+      "text": "(SRT)",
+      "left": 696,
+      "top": 2698,
+      "width": 106,
+      "height": 33,
+      "right": 802,
+      "bottom": 2731,
+      "confidence": 96
+    },
+    {
+      "text": "on",
+      "left": 635,
+      "top": 2705,
+      "width": 44,
+      "height": 20,
+      "right": 679,
+      "bottom": 2725,
+      "confidence": 95
+    },
+    {
+      "text": ":",
+      "left": 919,
+      "top": 2705,
+      "width": 6,
+      "height": 19,
+      "right": 925,
+      "bottom": 2724,
+      "confidence": 77
+    },
+    {
+      "text": "j",
+      "left": 1578,
+      "top": 2709,
+      "width": 5,
+      "height": 14,
+      "right": 1583,
+      "bottom": 2723,
+      "confidence": 47
+    },
+    {
+      "text": "Released",
+      "left": 449,
+      "top": 2751,
+      "width": 169,
+      "height": 27,
+      "right": 618,
+      "bottom": 2778,
+      "confidence": 95
+    },
+    {
+      "text": "(RRT)",
+      "left": 695,
+      "top": 2751,
+      "width": 109,
+      "height": 33,
+      "right": 804,
+      "bottom": 2784,
+      "confidence": 90
+    },
+    {
+      "text": "Report",
+      "left": 295,
+      "top": 2752,
+      "width": 127,
+      "height": 32,
+      "right": 422,
+      "bottom": 2784,
+      "confidence": 96
+    },
+    {
+      "text": "on",
+      "left": 634,
+      "top": 2758,
+      "width": 44,
+      "height": 20,
+      "right": 678,
+      "bottom": 2778,
+      "confidence": 93
+    },
+    {
+      "text": "05",
+      "left": 947,
+      "top": 2758,
+      "width": 39,
+      "height": 27,
+      "right": 986,
+      "bottom": 2785,
+      "confidence": 93
+    },
+    {
+      "text": "2021",
+      "left": 1079,
+      "top": 2758,
+      "width": 82,
+      "height": 27,
+      "right": 1161,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": "06:03",
+      "left": 1179,
+      "top": 2758,
+      "width": 98,
+      "height": 27,
+      "right": 1277,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": "Mar",
+      "left": 1004,
+      "top": 2759,
+      "width": 61,
+      "height": 26,
+      "right": 1065,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 919,
+      "top": 2765,
+      "width": 6,
+      "height": 19,
+      "right": 925,
+      "bottom": 2784,
+      "confidence": 86
+    },
+    {
+      "text": "ORO",
+      "left": 625,
+      "top": 2806,
+      "width": 208,
+      "height": 66,
+      "right": 833,
+      "bottom": 2872,
+      "confidence": 36
+    },
+    {
+      "text": "*",
+      "left": 2245,
+      "top": 2810,
+      "width": 17,
+      "height": 10,
+      "right": 2262,
+      "bottom": 2820,
+      "confidence": 75
+    },
+    {
+      "text": "Sample",
+      "left": 292,
+      "top": 2818,
+      "width": 140,
+      "height": 33,
+      "right": 432,
+      "bottom": 2851,
+      "confidence": 96
+    },
+    {
+      "text": "SERUM",
+      "left": 947,
+      "top": 2818,
+      "width": 118,
+      "height": 27,
+      "right": 1065,
+      "bottom": 2845,
+      "confidence": 96
+    },
+    {
+      "text": "Type",
+      "left": 445,
+      "top": 2819,
+      "width": 91,
+      "height": 32,
+      "right": 536,
+      "bottom": 2851,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 919,
+      "top": 2825,
+      "width": 6,
+      "height": 19,
+      "right": 925,
+      "bottom": 2844,
+      "confidence": 92
+    },
+    {
+      "text": "Dr",
+      "left": 1353,
+      "top": 2874,
+      "width": 36,
+      "height": 27,
+      "right": 1389,
+      "bottom": 2901,
+      "confidence": 62
+    },
+    {
+      "text": "Arjun",
+      "left": 1397,
+      "top": 2874,
+      "width": 84,
+      "height": 35,
+      "right": 1481,
+      "bottom": 2909,
+      "confidence": 62
+    },
+    {
+      "text": "CP",
+      "left": 1497,
+      "top": 2874,
+      "width": 47,
+      "height": 28,
+      "right": 1544,
+      "bottom": 2902,
+      "confidence": 93
+    },
+    {
+      "text": "MD(Path)",
+      "left": 1559,
+      "top": 2874,
+      "width": 155,
+      "height": 35,
+      "right": 1714,
+      "bottom": 2909,
+      "confidence": 90
+    },
+    {
+      "text": "Dr.Caesar",
+      "left": 1971,
+      "top": 2874,
+      "width": 168,
+      "height": 28,
+      "right": 2139,
+      "bottom": 2902,
+      "confidence": 92
+    },
+    {
+      "text": "Sengupta",
+      "left": 2151,
+      "top": 2874,
+      "width": 155,
+      "height": 35,
+      "right": 2306,
+      "bottom": 2909,
+      "confidence": 91
+    },
+    {
+      "text": "MD(Micro)",
+      "left": 2322,
+      "top": 2874,
+      "width": 169,
+      "height": 35,
+      "right": 2491,
+      "bottom": 2909,
+      "confidence": 91
+    },
+    {
+      "text": "Labcode",
+      "left": 293,
+      "top": 2884,
+      "width": 156,
+      "height": 27,
+      "right": 449,
+      "bottom": 2911,
+      "confidence": 92
+    },
+    {
+      "text": "0403042289/PU190",
+      "left": 948,
+      "top": 2884,
+      "width": 341,
+      "height": 31,
+      "right": 1289,
+      "bottom": 2915,
+      "confidence": 85
+    },
+    {
+      "text": ":",
+      "left": 919,
+      "top": 2895,
+      "width": 7,
+      "height": 19,
+      "right": 926,
+      "bottom": 2914,
+      "confidence": 74
+    },
+    {
+      "text": "Barcode",
+      "left": 293,
+      "top": 2944,
+      "width": 153,
+      "height": 27,
+      "right": 446,
+      "bottom": 2971,
+      "confidence": 96
+    },
+    {
+      "text": "P8767524",
+      "left": 949,
+      "top": 2944,
+      "width": 169,
+      "height": 27,
+      "right": 1118,
+      "bottom": 2971,
+      "confidence": 89
+    },
+    {
+      "text": "Page:",
+      "left": 2049,
+      "top": 2949,
+      "width": 102,
+      "height": 35,
+      "right": 2151,
+      "bottom": 2984,
+      "confidence": 81
+    },
+    {
+      "text": "7",
+      "left": 2167,
+      "top": 2949,
+      "width": 17,
+      "height": 27,
+      "right": 2184,
+      "bottom": 2976,
+      "confidence": 94
+    },
+    {
+      "text": "of",
+      "left": 2197,
+      "top": 2949,
+      "width": 31,
+      "height": 28,
+      "right": 2228,
+      "bottom": 2977,
+      "confidence": 96
+    },
+    {
+      "text": "15",
+      "left": 2241,
+      "top": 2949,
+      "width": 36,
+      "height": 28,
+      "right": 2277,
+      "bottom": 2977,
+      "confidence": 95
+    },
+    {
+      "text": "»",
+      "left": 919,
+      "top": 2959,
+      "width": 7,
+      "height": 19,
+      "right": 926,
+      "bottom": 2978,
+      "confidence": 38
+    }
+  ],
+  "total_tokens": 330
+}

@@ -1,0 +1,2656 @@
+{
+  "image_path": "C:\\Users\\tvijo\\Desktop\\coding\\NLP\\File Extraction Project\\data\\processed\\page_18.png",
+  "tokens": [
+    {
+      "text": "{7",
+      "left": 1585,
+      "top": 207,
+      "width": 27,
+      "height": 22,
+      "right": 1612,
+      "bottom": 229,
+      "confidence": 31
+    },
+    {
+      "text": "MC-3003",
+      "left": 1561,
+      "top": 248,
+      "width": 109,
+      "height": 20,
+      "right": 1670,
+      "bottom": 268,
+      "confidence": 88
+    },
+    {
+      "text": "FARKHUNDA",
+      "left": 500,
+      "top": 327,
+      "width": 233,
+      "height": 26,
+      "right": 733,
+      "bottom": 353,
+      "confidence": 91
+    },
+    {
+      "text": "DOCTOR:",
+      "left": 1538,
+      "top": 327,
+      "width": 175,
+      "height": 26,
+      "right": 1713,
+      "bottom": 353,
+      "confidence": 87
+    },
+    {
+      "text": "PATIENT",
+      "left": 168,
+      "top": 328,
+      "width": 162,
+      "height": 24,
+      "right": 330,
+      "bottom": 352,
+      "confidence": 95
+    },
+    {
+      "text": "NAME",
+      "left": 344,
+      "top": 328,
+      "width": 104,
+      "height": 24,
+      "right": 448,
+      "bottom": 352,
+      "confidence": 84
+    },
+    {
+      "text": "JABEEN",
+      "left": 745,
+      "top": 328,
+      "width": 141,
+      "height": 24,
+      "right": 886,
+      "bottom": 352,
+      "confidence": 93
+    },
+    {
+      "text": "REF.",
+      "left": 1444,
+      "top": 328,
+      "width": 77,
+      "height": 24,
+      "right": 1521,
+      "bottom": 352,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 465,
+      "top": 333,
+      "width": 6,
+      "height": 19,
+      "right": 471,
+      "bottom": 352,
+      "confidence": 84
+    },
+    {
+      "text": "CODE/NAME",
+      "left": 166,
+      "top": 380,
+      "width": 202,
+      "height": 27,
+      "right": 368,
+      "bottom": 407,
+      "confidence": 92
+    },
+    {
+      "text": "&",
+      "left": 382,
+      "top": 380,
+      "width": 20,
+      "height": 22,
+      "right": 402,
+      "bottom": 402,
+      "confidence": 93
+    },
+    {
+      "text": "ADDRESS",
+      "left": 415,
+      "top": 380,
+      "width": 154,
+      "height": 22,
+      "right": 569,
+      "bottom": 402,
+      "confidence": 93
+    },
+    {
+      "text": ":C000138482",
+      "left": 593,
+      "top": 381,
+      "width": 227,
+      "height": 26,
+      "right": 820,
+      "bottom": 407,
+      "confidence": 64
+    },
+    {
+      "text": "Female",
+      "left": 2188,
+      "top": 382,
+      "width": 114,
+      "height": 27,
+      "right": 2302,
+      "bottom": 409,
+      "confidence": 96
+    },
+    {
+      "text": ":42",
+      "left": 1938,
+      "top": 383,
+      "width": 51,
+      "height": 25,
+      "right": 1989,
+      "bottom": 408,
+      "confidence": 73
+    },
+    {
+      "text": "Years",
+      "left": 2003,
+      "top": 383,
+      "width": 91,
+      "height": 26,
+      "right": 2094,
+      "bottom": 409,
+      "confidence": 96
+    },
+    {
+      "text": "‘ACCESSION",
+      "left": 1073,
+      "top": 384,
+      "width": 181,
+      "height": 34,
+      "right": 1254,
+      "bottom": 418,
+      "confidence": 55
+    },
+    {
+      "text": "0042WB003997",
+      "left": 1345,
+      "top": 384,
+      "width": 296,
+      "height": 26,
+      "right": 1641,
+      "bottom": 410,
+      "confidence": 87
+    },
+    {
+      "text": "NO",
+      "left": 1269,
+      "top": 388,
+      "width": 41,
+      "height": 23,
+      "right": 1310,
+      "bottom": 411,
+      "confidence": 92
+    },
+    {
+      "text": ":",
+      "left": 1326,
+      "top": 394,
+      "width": 4,
+      "height": 16,
+      "right": 1330,
+      "bottom": 410,
+      "confidence": 89
+    },
+    {
+      "text": "RELEX",
+      "left": 168,
+      "top": 428,
+      "width": 102,
+      "height": 25,
+      "right": 270,
+      "bottom": 453,
+      "confidence": 92
+    },
+    {
+      "text": "HEALTHCARE",
+      "left": 286,
+      "top": 428,
+      "width": 215,
+      "height": 26,
+      "right": 501,
+      "bottom": 454,
+      "confidence": 96
+    },
+    {
+      "text": "SERVICES",
+      "left": 516,
+      "top": 428,
+      "width": 167,
+      "height": 26,
+      "right": 683,
+      "bottom": 454,
+      "confidence": 96
+    },
+    {
+      "text": "INDIA",
+      "left": 699,
+      "top": 428,
+      "width": 99,
+      "height": 25,
+      "right": 798,
+      "bottom": 453,
+      "confidence": 95
+    },
+    {
+      "text": "PVT",
+      "left": 813,
+      "top": 428,
+      "width": 61,
+      "height": 25,
+      "right": 874,
+      "bottom": 453,
+      "confidence": 78
+    },
+    {
+      "text": "LID",
+      "left": 885,
+      "top": 429,
+      "width": 56,
+      "height": 24,
+      "right": 941,
+      "bottom": 453,
+      "confidence": 78
+    },
+    {
+      "text": "IPATIENTID",
+      "left": 1073,
+      "top": 434,
+      "width": 170,
+      "height": 34,
+      "right": 1243,
+      "bottom": 468,
+      "confidence": 53
+    },
+    {
+      "text": "00:00:00",
+      "left": 2163,
+      "top": 440,
+      "width": 153,
+      "height": 26,
+      "right": 2316,
+      "bottom": 466,
+      "confidence": 96
+    },
+    {
+      "text": "FARKF24028142",
+      "left": 1346,
+      "top": 446,
+      "width": 269,
+      "height": 26,
+      "right": 1615,
+      "bottom": 472,
+      "confidence": 92
+    },
+    {
+      "text": "'",
+      "left": 1073,
+      "top": 471,
+      "width": 3,
+      "height": 34,
+      "right": 1076,
+      "bottom": 505,
+      "confidence": 43
+    },
+    {
+      "text": "'",
+      "left": 1747,
+      "top": 471,
+      "width": 3,
+      "height": 34,
+      "right": 1750,
+      "bottom": 505,
+      "confidence": 43
+    },
+    {
+      "text": "63/A,",
+      "left": 265,
+      "top": 474,
+      "width": 87,
+      "height": 32,
+      "right": 352,
+      "bottom": 506,
+      "confidence": 91
+    },
+    {
+      "text": "PLOT",
+      "left": 168,
+      "top": 475,
+      "width": 83,
+      "height": 26,
+      "right": 251,
+      "bottom": 501,
+      "confidence": 91
+    },
+    {
+      "text": "GROUND",
+      "left": 369,
+      "top": 475,
+      "width": 147,
+      "height": 26,
+      "right": 516,
+      "bottom": 501,
+      "confidence": 96
+    },
+    {
+      "text": "FLOOR,",
+      "left": 533,
+      "top": 475,
+      "width": 117,
+      "height": 31,
+      "right": 650,
+      "bottom": 506,
+      "confidence": 93
+    },
+    {
+      "text": "RAGHAVENDRA",
+      "left": 670,
+      "top": 475,
+      "width": 257,
+      "height": 26,
+      "right": 927,
+      "bottom": 501,
+      "confidence": 92
+    },
+    {
+      "text": "24/02/2023",
+      "left": 1951,
+      "top": 498,
+      "width": 195,
+      "height": 31,
+      "right": 2146,
+      "bottom": 529,
+      "confidence": 32
+    },
+    {
+      "text": "11:15:24",
+      "left": 2165,
+      "top": 499,
+      "width": 152,
+      "height": 26,
+      "right": 2317,
+      "bottom": 525,
+      "confidence": 95
+    },
+    {
+      "text": "{CLIENT",
+      "left": 1073,
+      "top": 503,
+      "width": 114,
+      "height": 52,
+      "right": 1187,
+      "bottom": 555,
+      "confidence": 59
+    },
+    {
+      "text": "RECEIVED",
+      "left": 1773,
+      "top": 503,
+      "width": 135,
+      "height": 22,
+      "right": 1908,
+      "bottom": 525,
+      "confidence": 95
+    },
+    {
+      "text": "PATIENT",
+      "left": 1197,
+      "top": 504,
+      "width": 120,
+      "height": 21,
+      "right": 1317,
+      "bottom": 525,
+      "confidence": 96
+    },
+    {
+      "text": "ID:",
+      "left": 1326,
+      "top": 504,
+      "width": 41,
+      "height": 21,
+      "right": 1367,
+      "bottom": 525,
+      "confidence": 96
+    },
+    {
+      "text": "{",
+      "left": 1747,
+      "top": 509,
+      "width": 3,
+      "height": 46,
+      "right": 1750,
+      "bottom": 555,
+      "confidence": 45
+    },
+    {
+      "text": "NILAYAM,",
+      "left": 168,
+      "top": 516,
+      "width": 158,
+      "height": 31,
+      "right": 326,
+      "bottom": 547,
+      "confidence": 90
+    },
+    {
+      "text": "PHASE,KPHB",
+      "left": 423,
+      "top": 516,
+      "width": 211,
+      "height": 31,
+      "right": 634,
+      "bottom": 547,
+      "confidence": 89
+    },
+    {
+      "text": "COLONY,",
+      "left": 649,
+      "top": 516,
+      "width": 147,
+      "height": 31,
+      "right": 796,
+      "bottom": 547,
+      "confidence": 96
+    },
+    {
+      "text": "7TH",
+      "left": 343,
+      "top": 517,
+      "width": 58,
+      "height": 24,
+      "right": 401,
+      "bottom": 541,
+      "confidence": 93
+    },
+    {
+      "text": ":",
+      "left": 1935,
+      "top": 521,
+      "width": 4,
+      "height": 4,
+      "right": 1939,
+      "bottom": 525,
+      "confidence": 32
+    },
+    {
+      "text": "REPORTED",
+      "left": 1774,
+      "top": 547,
+      "width": 139,
+      "height": 62,
+      "right": 1913,
+      "bottom": 609,
+      "confidence": 96
+    },
+    {
+      "text": "15:24:24",
+      "left": 2165,
+      "top": 552,
+      "width": 152,
+      "height": 26,
+      "right": 2317,
+      "bottom": 578,
+      "confidence": 95
+    },
+    {
+      "text": "HYDERABAD",
+      "left": 168,
+      "top": 564,
+      "width": 205,
+      "height": 25,
+      "right": 373,
+      "bottom": 589,
+      "confidence": 96
+    },
+    {
+      "text": "500072",
+      "left": 389,
+      "top": 564,
+      "width": 123,
+      "height": 26,
+      "right": 512,
+      "bottom": 590,
+      "confidence": 96
+    },
+    {
+      "text": "NO",
+      "left": 1175,
+      "top": 564,
+      "width": 41,
+      "height": 23,
+      "right": 1216,
+      "bottom": 587,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 1325,
+      "top": 570,
+      "width": 4,
+      "height": 16,
+      "right": 1329,
+      "bottom": 586,
+      "confidence": 88
+    },
+    {
+      "text": "08047109222",
+      "left": 167,
+      "top": 611,
+      "width": 229,
+      "height": 26,
+      "right": 396,
+      "bottom": 637,
+      "confidence": 95
+    },
+    {
+      "text": "Results",
+      "left": 1121,
+      "top": 712,
+      "width": 134,
+      "height": 42,
+      "right": 1255,
+      "bottom": 754,
+      "confidence": 96
+    },
+    {
+      "text": "Biological",
+      "left": 1556,
+      "top": 716,
+      "width": 176,
+      "height": 33,
+      "right": 1732,
+      "bottom": 749,
+      "confidence": 96
+    },
+    {
+      "text": "Reference",
+      "left": 1749,
+      "top": 716,
+      "width": 185,
+      "height": 27,
+      "right": 1934,
+      "bottom": 743,
+      "confidence": 96
+    },
+    {
+      "text": "Interval",
+      "left": 1948,
+      "top": 716,
+      "width": 147,
+      "height": 27,
+      "right": 2095,
+      "bottom": 743,
+      "confidence": 82
+    },
+    {
+      "text": "Units",
+      "left": 2143,
+      "top": 716,
+      "width": 93,
+      "height": 27,
+      "right": 2236,
+      "bottom": 743,
+      "confidence": 82
+    },
+    {
+      "text": "Status",
+      "left": 396,
+      "top": 717,
+      "width": 117,
+      "height": 26,
+      "right": 513,
+      "bottom": 743,
+      "confidence": 96
+    },
+    {
+      "text": "Final",
+      "left": 582,
+      "top": 717,
+      "width": 96,
+      "height": 29,
+      "right": 678,
+      "bottom": 746,
+      "confidence": 96
+    },
+    {
+      "text": "Test",
+      "left": 165,
+      "top": 718,
+      "width": 79,
+      "height": 25,
+      "right": 244,
+      "bottom": 743,
+      "confidence": 96
+    },
+    {
+      "text": "Report",
+      "left": 259,
+      "top": 718,
+      "width": 123,
+      "height": 31,
+      "right": 382,
+      "bottom": 749,
+      "confidence": 96
+    },
+    {
+      "text": "1.To",
+      "left": 167,
+      "top": 844,
+      "width": 48,
+      "height": 20,
+      "right": 215,
+      "bottom": 864,
+      "confidence": 87
+    },
+    {
+      "text": "biotin",
+      "left": 336,
+      "top": 844,
+      "width": 66,
+      "height": 20,
+      "right": 402,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "interference",
+      "left": 415,
+      "top": 844,
+      "width": 148,
+      "height": 19,
+      "right": 563,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 574,
+      "top": 844,
+      "width": 39,
+      "height": 19,
+      "right": 613,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "patient",
+      "left": 625,
+      "top": 844,
+      "width": 86,
+      "height": 24,
+      "right": 711,
+      "bottom": 868,
+      "confidence": 96
+    },
+    {
+      "text": "should",
+      "left": 721,
+      "top": 844,
+      "width": 79,
+      "height": 20,
+      "right": 800,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "be",
+      "left": 813,
+      "top": 844,
+      "width": 28,
+      "height": 20,
+      "right": 841,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "atleast",
+      "left": 852,
+      "top": 844,
+      "width": 83,
+      "height": 20,
+      "right": 935,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "8",
+      "left": 946,
+      "top": 844,
+      "width": 13,
+      "height": 20,
+      "right": 959,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "hours",
+      "left": 971,
+      "top": 844,
+      "width": 68,
+      "height": 20,
+      "right": 1039,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "fasting",
+      "left": 1049,
+      "top": 844,
+      "width": 83,
+      "height": 24,
+      "right": 1132,
+      "bottom": 868,
+      "confidence": 96
+    },
+    {
+      "text": "before",
+      "left": 1145,
+      "top": 844,
+      "width": 77,
+      "height": 20,
+      "right": 1222,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "submitting",
+      "left": 1233,
+      "top": 844,
+      "width": 130,
+      "height": 24,
+      "right": 1363,
+      "bottom": 868,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1375,
+      "top": 844,
+      "width": 39,
+      "height": 19,
+      "right": 1414,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "sample",
+      "left": 1425,
+      "top": 844,
+      "width": 88,
+      "height": 24,
+      "right": 1513,
+      "bottom": 868,
+      "confidence": 90
+    },
+    {
+      "text": "2.25(OH)D",
+      "left": 1533,
+      "top": 844,
+      "width": 134,
+      "height": 24,
+      "right": 1667,
+      "bottom": 868,
+      "confidence": 64
+    },
+    {
+      "text": "is",
+      "left": 1680,
+      "top": 844,
+      "width": 17,
+      "height": 19,
+      "right": 1697,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1707,
+      "top": 844,
+      "width": 39,
+      "height": 19,
+      "right": 1746,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "analyte",
+      "left": 1758,
+      "top": 844,
+      "width": 90,
+      "height": 24,
+      "right": 1848,
+      "bottom": 868,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1859,
+      "top": 844,
+      "width": 24,
+      "height": 20,
+      "right": 1883,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "choice",
+      "left": 1892,
+      "top": 844,
+      "width": 76,
+      "height": 20,
+      "right": 1968,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1979,
+      "top": 844,
+      "width": 35,
+      "height": 20,
+      "right": 2014,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "determination",
+      "left": 2023,
+      "top": 844,
+      "width": 173,
+      "height": 20,
+      "right": 2196,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 2208,
+      "top": 844,
+      "width": 24,
+      "height": 20,
+      "right": 2232,
+      "bottom": 864,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 2241,
+      "top": 844,
+      "width": 38,
+      "height": 19,
+      "right": 2279,
+      "bottom": 863,
+      "confidence": 96
+    },
+    {
+      "text": "prevent",
+      "left": 230,
+      "top": 845,
+      "width": 95,
+      "height": 23,
+      "right": 325,
+      "bottom": 868,
+      "confidence": 96
+    },
+    {
+      "text": "Vitamin",
+      "left": 164,
+      "top": 874,
+      "width": 94,
+      "height": 20,
+      "right": 258,
+      "bottom": 894,
+      "confidence": 93
+    },
+    {
+      "text": "it",
+      "left": 422,
+      "top": 874,
+      "width": 14,
+      "height": 19,
+      "right": 436,
+      "bottom": 893,
+      "confidence": 95
+    },
+    {
+      "text": "is",
+      "left": 447,
+      "top": 874,
+      "width": 17,
+      "height": 19,
+      "right": 464,
+      "bottom": 893,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 475,
+      "top": 874,
+      "width": 39,
+      "height": 19,
+      "right": 514,
+      "bottom": 893,
+      "confidence": 96
+    },
+    {
+      "text": "major",
+      "left": 526,
+      "top": 874,
+      "width": 72,
+      "height": 24,
+      "right": 598,
+      "bottom": 898,
+      "confidence": 96
+    },
+    {
+      "text": "&",
+      "left": 712,
+      "top": 874,
+      "width": 17,
+      "height": 20,
+      "right": 729,
+      "bottom": 894,
+      "confidence": 93
+    },
+    {
+      "text": "active",
+      "left": 739,
+      "top": 874,
+      "width": 72,
+      "height": 20,
+      "right": 811,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "form",
+      "left": 822,
+      "top": 874,
+      "width": 56,
+      "height": 20,
+      "right": 878,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "of",
+      "left": 890,
+      "top": 874,
+      "width": 24,
+      "height": 20,
+      "right": 914,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "Vitamin",
+      "left": 922,
+      "top": 874,
+      "width": 94,
+      "height": 20,
+      "right": 1016,
+      "bottom": 894,
+      "confidence": 93
+    },
+    {
+      "text": "and",
+      "left": 1056,
+      "top": 874,
+      "width": 44,
+      "height": 20,
+      "right": 1100,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "has",
+      "left": 1112,
+      "top": 874,
+      "width": 41,
+      "height": 20,
+      "right": 1153,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "longer",
+      "left": 1165,
+      "top": 874,
+      "width": 78,
+      "height": 24,
+      "right": 1243,
+      "bottom": 898,
+      "confidence": 95
+    },
+    {
+      "text": "half-life.",
+      "left": 1253,
+      "top": 874,
+      "width": 100,
+      "height": 20,
+      "right": 1353,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "3.",
+      "left": 1367,
+      "top": 874,
+      "width": 20,
+      "height": 20,
+      "right": 1387,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "Kidney",
+      "left": 1401,
+      "top": 874,
+      "width": 83,
+      "height": 24,
+      "right": 1484,
+      "bottom": 898,
+      "confidence": 96
+    },
+    {
+      "text": "Disease",
+      "left": 1495,
+      "top": 874,
+      "width": 94,
+      "height": 20,
+      "right": 1589,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "Outcomes",
+      "left": 1601,
+      "top": 874,
+      "width": 123,
+      "height": 20,
+      "right": 1724,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "Quality",
+      "left": 1736,
+      "top": 874,
+      "width": 86,
+      "height": 24,
+      "right": 1822,
+      "bottom": 898,
+      "confidence": 94
+    },
+    {
+      "text": "Initiatives",
+      "left": 1834,
+      "top": 874,
+      "width": 121,
+      "height": 20,
+      "right": 1955,
+      "bottom": 894,
+      "confidence": 93
+    },
+    {
+      "text": "(KDOQI)",
+      "left": 1968,
+      "top": 874,
+      "width": 105,
+      "height": 24,
+      "right": 2073,
+      "bottom": 898,
+      "confidence": 91
+    },
+    {
+      "text": "and",
+      "left": 2085,
+      "top": 874,
+      "width": 43,
+      "height": 20,
+      "right": 2128,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "Kidney",
+      "left": 2141,
+      "top": 874,
+      "width": 83,
+      "height": 24,
+      "right": 2224,
+      "bottom": 898,
+      "confidence": 96
+    },
+    {
+      "text": "Disease",
+      "left": 2236,
+      "top": 874,
+      "width": 93,
+      "height": 20,
+      "right": 2329,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 271,
+      "top": 875,
+      "width": 16,
+      "height": 18,
+      "right": 287,
+      "bottom": 893,
+      "confidence": 92
+    },
+    {
+      "text": "status",
+      "left": 298,
+      "top": 875,
+      "width": 75,
+      "height": 19,
+      "right": 373,
+      "bottom": 894,
+      "confidence": 95
+    },
+    {
+      "text": "storage",
+      "left": 608,
+      "top": 875,
+      "width": 92,
+      "height": 23,
+      "right": 700,
+      "bottom": 898,
+      "confidence": 93
+    },
+    {
+      "text": "D",
+      "left": 1029,
+      "top": 875,
+      "width": 16,
+      "height": 18,
+      "right": 1045,
+      "bottom": 893,
+      "confidence": 92
+    },
+    {
+      "text": "as",
+      "left": 384,
+      "top": 879,
+      "width": 26,
+      "height": 15,
+      "right": 410,
+      "bottom": 894,
+      "confidence": 96
+    },
+    {
+      "text": "Improving",
+      "left": 165,
+      "top": 905,
+      "width": 126,
+      "height": 24,
+      "right": 291,
+      "bottom": 929,
+      "confidence": 96
+    },
+    {
+      "text": "Global",
+      "left": 304,
+      "top": 905,
+      "width": 75,
+      "height": 20,
+      "right": 379,
+      "bottom": 925,
+      "confidence": 96
+    },
+    {
+      "text": "Outcomes",
+      "left": 392,
+      "top": 905,
+      "width": 123,
+      "height": 20,
+      "right": 515,
+      "bottom": 925,
+      "confidence": 90
+    },
+    {
+      "text": "(KDIGO)",
+      "left": 527,
+      "top": 905,
+      "width": 105,
+      "height": 24,
+      "right": 632,
+      "bottom": 929,
+      "confidence": 90
+    },
+    {
+      "text": "recommend",
+      "left": 645,
+      "top": 905,
+      "width": 145,
+      "height": 20,
+      "right": 790,
+      "bottom": 925,
+      "confidence": 96
+    },
+    {
+      "text": "activated",
+      "left": 802,
+      "top": 905,
+      "width": 112,
+      "height": 20,
+      "right": 914,
+      "bottom": 925,
+      "confidence": 96
+    },
+    {
+      "text": "vitamin",
+      "left": 925,
+      "top": 905,
+      "width": 91,
+      "height": 20,
+      "right": 1016,
+      "bottom": 925,
+      "confidence": 93
+    },
+    {
+      "text": "testing",
+      "left": 1056,
+      "top": 905,
+      "width": 83,
+      "height": 24,
+      "right": 1139,
+      "bottom": 929,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 1151,
+      "top": 905,
+      "width": 35,
+      "height": 20,
+      "right": 1186,
+      "bottom": 925,
+      "confidence": 96
+    },
+    {
+      "text": "CKD",
+      "left": 1195,
+      "top": 905,
+      "width": 52,
+      "height": 19,
+      "right": 1247,
+      "bottom": 924,
+      "confidence": 96
+    },
+    {
+      "text": "patients.",
+      "left": 1259,
+      "top": 905,
+      "width": 105,
+      "height": 24,
+      "right": 1364,
+      "bottom": 929,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 1029,
+      "top": 906,
+      "width": 16,
+      "height": 18,
+      "right": 1045,
+      "bottom": 924,
+      "confidence": 93
+    },
+    {
+      "text": "Note-Our",
+      "left": 166,
+      "top": 935,
+      "width": 122,
+      "height": 20,
+      "right": 288,
+      "bottom": 955,
+      "confidence": 92
+    },
+    {
+      "text": "Vitamin",
+      "left": 297,
+      "top": 935,
+      "width": 94,
+      "height": 20,
+      "right": 391,
+      "bottom": 955,
+      "confidence": 93
+    },
+    {
+      "text": "is",
+      "left": 525,
+      "top": 935,
+      "width": 17,
+      "height": 19,
+      "right": 542,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "standardized",
+      "left": 553,
+      "top": 935,
+      "width": 158,
+      "height": 20,
+      "right": 711,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "be",
+      "left": 758,
+      "top": 935,
+      "width": 27,
+      "height": 20,
+      "right": 785,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "in",
+      "left": 797,
+      "top": 935,
+      "width": 19,
+      "height": 19,
+      "right": 816,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "alignment",
+      "left": 828,
+      "top": 935,
+      "width": 124,
+      "height": 24,
+      "right": 952,
+      "bottom": 959,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 962,
+      "top": 935,
+      "width": 50,
+      "height": 19,
+      "right": 1012,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1024,
+      "top": 935,
+      "width": 39,
+      "height": 19,
+      "right": 1063,
+      "bottom": 954,
+      "confidence": 93
+    },
+    {
+      "text": "ID-LC/MS/MS",
+      "left": 1074,
+      "top": 935,
+      "width": 169,
+      "height": 23,
+      "right": 1243,
+      "bottom": 958,
+      "confidence": 90
+    },
+    {
+      "text": "25(OH)vitamin",
+      "left": 1255,
+      "top": 935,
+      "width": 183,
+      "height": 24,
+      "right": 1438,
+      "bottom": 959,
+      "confidence": 87
+    },
+    {
+      "text": "Reference",
+      "left": 1480,
+      "top": 935,
+      "width": 122,
+      "height": 19,
+      "right": 1602,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "Method",
+      "left": 1614,
+      "top": 935,
+      "width": 88,
+      "height": 20,
+      "right": 1702,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "Procedure",
+      "left": 1715,
+      "top": 935,
+      "width": 123,
+      "height": 20,
+      "right": 1838,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "(RMP),",
+      "left": 1850,
+      "top": 935,
+      "width": 81,
+      "height": 24,
+      "right": 1931,
+      "bottom": 959,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1943,
+      "top": 935,
+      "width": 39,
+      "height": 19,
+      "right": 1982,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "reference",
+      "left": 1994,
+      "top": 935,
+      "width": 116,
+      "height": 19,
+      "right": 2110,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "procedure",
+      "left": 2122,
+      "top": 935,
+      "width": 123,
+      "height": 24,
+      "right": 2245,
+      "bottom": 959,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 2256,
+      "top": 935,
+      "width": 34,
+      "height": 20,
+      "right": 2290,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 2299,
+      "top": 935,
+      "width": 39,
+      "height": 19,
+      "right": 2338,
+      "bottom": 954,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 404,
+      "top": 936,
+      "width": 15,
+      "height": 18,
+      "right": 419,
+      "bottom": 954,
+      "confidence": 92
+    },
+    {
+      "text": "to",
+      "left": 723,
+      "top": 936,
+      "width": 23,
+      "height": 19,
+      "right": 746,
+      "bottom": 955,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 1451,
+      "top": 936,
+      "width": 16,
+      "height": 18,
+      "right": 1467,
+      "bottom": 954,
+      "confidence": 93
+    },
+    {
+      "text": "assays",
+      "left": 431,
+      "top": 940,
+      "width": 82,
+      "height": 19,
+      "right": 513,
+      "bottom": 959,
+      "confidence": 96
+    },
+    {
+      "text": "Vitamin",
+      "left": 164,
+      "top": 965,
+      "width": 94,
+      "height": 20,
+      "right": 258,
+      "bottom": 985,
+      "confidence": 92
+    },
+    {
+      "text": "Standardization",
+      "left": 298,
+      "top": 965,
+      "width": 194,
+      "height": 20,
+      "right": 492,
+      "bottom": 985,
+      "confidence": 95
+    },
+    {
+      "text": "(VDSP).",
+      "left": 621,
+      "top": 965,
+      "width": 96,
+      "height": 24,
+      "right": 717,
+      "bottom": 989,
+      "confidence": 92
+    },
+    {
+      "text": "The",
+      "left": 728,
+      "top": 965,
+      "width": 43,
+      "height": 19,
+      "right": 771,
+      "bottom": 984,
+      "confidence": 93
+    },
+    {
+      "text": "VDSP,",
+      "left": 784,
+      "top": 965,
+      "width": 75,
+      "height": 24,
+      "right": 859,
+      "bottom": 989,
+      "confidence": 92
+    },
+    {
+      "text": "collaboration",
+      "left": 895,
+      "top": 965,
+      "width": 158,
+      "height": 20,
+      "right": 1053,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1066,
+      "top": 965,
+      "width": 23,
+      "height": 20,
+      "right": 1089,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1098,
+      "top": 965,
+      "width": 39,
+      "height": 19,
+      "right": 1137,
+      "bottom": 984,
+      "confidence": 96
+    },
+    {
+      "text": "National",
+      "left": 1149,
+      "top": 965,
+      "width": 99,
+      "height": 20,
+      "right": 1248,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Institutes",
+      "left": 1261,
+      "top": 965,
+      "width": 117,
+      "height": 20,
+      "right": 1378,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1389,
+      "top": 965,
+      "width": 24,
+      "height": 20,
+      "right": 1413,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Health",
+      "left": 1423,
+      "top": 965,
+      "width": 77,
+      "height": 20,
+      "right": 1500,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Office",
+      "left": 1513,
+      "top": 965,
+      "width": 69,
+      "height": 20,
+      "right": 1582,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1593,
+      "top": 965,
+      "width": 24,
+      "height": 20,
+      "right": 1617,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Dietary",
+      "left": 1628,
+      "top": 965,
+      "width": 88,
+      "height": 24,
+      "right": 1716,
+      "bottom": 989,
+      "confidence": 95
+    },
+    {
+      "text": "Supplements,",
+      "left": 1727,
+      "top": 965,
+      "width": 170,
+      "height": 24,
+      "right": 1897,
+      "bottom": 989,
+      "confidence": 95
+    },
+    {
+      "text": "National",
+      "left": 1910,
+      "top": 965,
+      "width": 99,
+      "height": 20,
+      "right": 2009,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Institute",
+      "left": 2021,
+      "top": 965,
+      "width": 104,
+      "height": 20,
+      "right": 2125,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 2137,
+      "top": 965,
+      "width": 24,
+      "height": 20,
+      "right": 2161,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "Technology",
+      "left": 2168,
+      "top": 965,
+      "width": 139,
+      "height": 24,
+      "right": 2307,
+      "bottom": 989,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 271,
+      "top": 966,
+      "width": 16,
+      "height": 18,
+      "right": 287,
+      "bottom": 984,
+      "confidence": 92
+    },
+    {
+      "text": "Program",
+      "left": 506,
+      "top": 966,
+      "width": 102,
+      "height": 23,
+      "right": 608,
+      "bottom": 989,
+      "confidence": 93
+    },
+    {
+      "text": "a",
+      "left": 871,
+      "top": 970,
+      "width": 12,
+      "height": 15,
+      "right": 883,
+      "bottom": 985,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 165,
+      "top": 996,
+      "width": 43,
+      "height": 20,
+      "right": 208,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "Standards,",
+      "left": 221,
+      "top": 996,
+      "width": 133,
+      "height": 24,
+      "right": 354,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "Centers",
+      "left": 366,
+      "top": 996,
+      "width": 95,
+      "height": 19,
+      "right": 461,
+      "bottom": 1015,
+      "confidence": 96
+    },
+    {
+      "text": "for",
+      "left": 471,
+      "top": 996,
+      "width": 35,
+      "height": 20,
+      "right": 506,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "Disease",
+      "left": 517,
+      "top": 996,
+      "width": 93,
+      "height": 20,
+      "right": 610,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "Control",
+      "left": 622,
+      "top": 996,
+      "width": 87,
+      "height": 20,
+      "right": 709,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "and",
+      "left": 722,
+      "top": 996,
+      "width": 43,
+      "height": 20,
+      "right": 765,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "Ghent",
+      "left": 777,
+      "top": 996,
+      "width": 74,
+      "height": 19,
+      "right": 851,
+      "bottom": 1015,
+      "confidence": 96
+    },
+    {
+      "text": "University,",
+      "left": 863,
+      "top": 996,
+      "width": 131,
+      "height": 24,
+      "right": 994,
+      "bottom": 1020,
+      "confidence": 96
+    },
+    {
+      "text": "is",
+      "left": 1007,
+      "top": 996,
+      "width": 17,
+      "height": 19,
+      "right": 1024,
+      "bottom": 1015,
+      "confidence": 96
+    },
+    {
+      "text": "initiative",
+      "left": 1076,
+      "top": 996,
+      "width": 104,
+      "height": 20,
+      "right": 1180,
+      "bottom": 1016,
+      "confidence": 95
+    },
+    {
+      "text": "standardize",
+      "left": 1226,
+      "top": 996,
+      "width": 143,
+      "height": 20,
+      "right": 1369,
+      "bottom": 1016,
+      "confidence": 92
+    },
+    {
+      "text": "25(OH)vitamin",
+      "left": 1381,
+      "top": 996,
+      "width": 182,
+      "height": 24,
+      "right": 1563,
+      "bottom": 1020,
+      "confidence": 86
+    },
+    {
+      "text": "methods.",
+      "left": 1876,
+      "top": 996,
+      "width": 113,
+      "height": 20,
+      "right": 1989,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "to",
+      "left": 1191,
+      "top": 997,
+      "width": 23,
+      "height": 19,
+      "right": 1214,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "D",
+      "left": 1577,
+      "top": 997,
+      "width": 15,
+      "height": 18,
+      "right": 1592,
+      "bottom": 1015,
+      "confidence": 92
+    },
+    {
+      "text": "measurement",
+      "left": 1605,
+      "top": 997,
+      "width": 171,
+      "height": 19,
+      "right": 1776,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "an",
+      "left": 1035,
+      "top": 1001,
+      "width": 28,
+      "height": 15,
+      "right": 1063,
+      "bottom": 1016,
+      "confidence": 95
+    },
+    {
+      "text": "across",
+      "left": 1787,
+      "top": 1001,
+      "width": 77,
+      "height": 15,
+      "right": 1864,
+      "bottom": 1016,
+      "confidence": 96
+    },
+    {
+      "text": "Reference:",
+      "left": 166,
+      "top": 1026,
+      "width": 131,
+      "height": 19,
+      "right": 297,
+      "bottom": 1045,
+      "confidence": 96
+    },
+    {
+      "text": "Thterpretation",
+      "left": 739,
+      "top": 1056,
+      "width": 172,
+      "height": 24,
+      "right": 911,
+      "bottom": 1080,
+      "confidence": 68
+    },
+    {
+      "text": "of",
+      "left": 924,
+      "top": 1056,
+      "width": 23,
+      "height": 20,
+      "right": 947,
+      "bottom": 1076,
+      "confidence": 96
+    },
+    {
+      "text": "diagnostic",
+      "left": 957,
+      "top": 1056,
+      "width": 125,
+      "height": 24,
+      "right": 1082,
+      "bottom": 1080,
+      "confidence": 96
+    },
+    {
+      "text": "10th",
+      "left": 1160,
+      "top": 1056,
+      "width": 53,
+      "height": 20,
+      "right": 1213,
+      "bottom": 1076,
+      "confidence": 96
+    },
+    {
+      "text": "edition.",
+      "left": 1225,
+      "top": 1056,
+      "width": 90,
+      "height": 20,
+      "right": 1315,
+      "bottom": 1076,
+      "confidence": 96
+    },
+    {
+      "text": "test,",
+      "left": 1092,
+      "top": 1057,
+      "width": 54,
+      "height": 23,
+      "right": 1146,
+      "bottom": 1080,
+      "confidence": 96
+    },
+    {
+      "text": "**End",
+      "left": 1065,
+      "top": 1091,
+      "width": 97,
+      "height": 22,
+      "right": 1162,
+      "bottom": 1113,
+      "confidence": 85
+    },
+    {
+      "text": "Of",
+      "left": 1176,
+      "top": 1091,
+      "width": 37,
+      "height": 22,
+      "right": 1213,
+      "bottom": 1113,
+      "confidence": 93
+    },
+    {
+      "text": "Report**",
+      "left": 1224,
+      "top": 1091,
+      "width": 147,
+      "height": 28,
+      "right": 1371,
+      "bottom": 1119,
+      "confidence": 87
+    },
+    {
+      "text": "Please",
+      "left": 583,
+      "top": 1127,
+      "width": 104,
+      "height": 22,
+      "right": 687,
+      "bottom": 1149,
+      "confidence": 96
+    },
+    {
+      "text": "visit",
+      "left": 698,
+      "top": 1127,
+      "width": 69,
+      "height": 22,
+      "right": 767,
+      "bottom": 1149,
+      "confidence": 93
+    },
+    {
+      "text": "www.srlworld.com",
+      "left": 778,
+      "top": 1127,
+      "width": 307,
+      "height": 23,
+      "right": 1085,
+      "bottom": 1150,
+      "confidence": 89
+    },
+    {
+      "text": "for",
+      "left": 1098,
+      "top": 1127,
+      "width": 46,
+      "height": 23,
+      "right": 1144,
+      "bottom": 1150,
+      "confidence": 96
+    },
+    {
+      "text": "related",
+      "left": 1156,
+      "top": 1127,
+      "width": 112,
+      "height": 22,
+      "right": 1268,
+      "bottom": 1149,
+      "confidence": 96
+    },
+    {
+      "text": "Information",
+      "left": 1362,
+      "top": 1127,
+      "width": 194,
+      "height": 23,
+      "right": 1556,
+      "bottom": 1150,
+      "confidence": 95
+    },
+    {
+      "text": "for",
+      "left": 1569,
+      "top": 1127,
+      "width": 46,
+      "height": 23,
+      "right": 1615,
+      "bottom": 1150,
+      "confidence": 95
+    },
+    {
+      "text": "this",
+      "left": 1626,
+      "top": 1127,
+      "width": 60,
+      "height": 22,
+      "right": 1686,
+      "bottom": 1149,
+      "confidence": 96
+    },
+    {
+      "text": "accession",
+      "left": 1698,
+      "top": 1127,
+      "width": 155,
+      "height": 23,
+      "right": 1853,
+      "bottom": 1150,
+      "confidence": 96
+    },
+    {
+      "text": "Test",
+      "left": 1281,
+      "top": 1128,
+      "width": 69,
+      "height": 21,
+      "right": 1350,
+      "bottom": 1149,
+      "confidence": 96
+    },
+    {
+      "text": "18",
+      "left": 2262,
+      "top": 2896,
+      "width": 32,
+      "height": 23,
+      "right": 2294,
+      "bottom": 2919,
+      "confidence": 95
+    },
+    {
+      "text": "Of",
+      "left": 2307,
+      "top": 2896,
+      "width": 33,
+      "height": 23,
+      "right": 2340,
+      "bottom": 2919,
+      "confidence": 91
+    },
+    {
+      "text": "18",
+      "left": 2353,
+      "top": 2896,
+      "width": 31,
+      "height": 23,
+      "right": 2384,
+      "bottom": 2919,
+      "confidence": 96
+    },
+    {
+      "text": "Page",
+      "left": 2180,
+      "top": 2897,
+      "width": 67,
+      "height": 27,
+      "right": 2247,
+      "bottom": 2924,
+      "confidence": 96
+    },
+    {
+      "text": "Consultant",
+      "left": 166,
+      "top": 3032,
+      "width": 175,
+      "height": 23,
+      "right": 341,
+      "bottom": 3055,
+      "confidence": 96
+    },
+    {
+      "text": "Pathologist",
+      "left": 354,
+      "top": 3032,
+      "width": 183,
+      "height": 28,
+      "right": 537,
+      "bottom": 3060,
+      "confidence": 95
+    },
+    {
+      "text": "pe",
+      "left": 1936,
+      "top": 3064,
+      "width": 87,
+      "height": 27,
+      "right": 2023,
+      "bottom": 3091,
+      "confidence": 40
+    },
+    {
+      "text": "ake",
+      "left": 2043,
+      "top": 3072,
+      "width": 41,
+      "height": 27,
+      "right": 2084,
+      "bottom": 3099,
+      "confidence": 33
+    },
+    {
+      "text": "El:",
+      "left": 1932,
+      "top": 3090,
+      "width": 55,
+      "height": 49,
+      "right": 1987,
+      "bottom": 3139,
+      "confidence": 33
+    },
+    {
+      "text": "EE",
+      "left": 2201,
+      "top": 3090,
+      "width": 201,
+      "height": 34,
+      "right": 2402,
+      "bottom": 3124,
+      "confidence": 38
+    },
+    {
+      "text": ">)",
+      "left": 2135,
+      "top": 3110,
+      "width": 11,
+      "height": 16,
+      "right": 2146,
+      "bottom": 3126,
+      "confidence": 51
+    },
+    {
+      "text": "View",
+      "left": 1957,
+      "top": 3149,
+      "width": 68,
+      "height": 22,
+      "right": 2025,
+      "bottom": 3171,
+      "confidence": 96
+    },
+    {
+      "text": "Details",
+      "left": 2039,
+      "top": 3149,
+      "width": 96,
+      "height": 23,
+      "right": 2135,
+      "bottom": 3172,
+      "confidence": 96
+    },
+    {
+      "text": "View",
+      "left": 2231,
+      "top": 3149,
+      "width": 67,
+      "height": 22,
+      "right": 2298,
+      "bottom": 3171,
+      "confidence": 96
+    },
+    {
+      "text": "Report",
+      "left": 2312,
+      "top": 3150,
+      "width": 95,
+      "height": 29,
+      "right": 2407,
+      "bottom": 3179,
+      "confidence": 96
+    },
+    {
+      "text": "PERFORMED",
+      "left": 168,
+      "top": 3186,
+      "width": 234,
+      "height": 27,
+      "right": 402,
+      "bottom": 3213,
+      "confidence": 96
+    },
+    {
+      "text": "AT:",
+      "left": 416,
+      "top": 3187,
+      "width": 72,
+      "height": 25,
+      "right": 488,
+      "bottom": 3212,
+      "confidence": 80
+    },
+    {
+      "text": "SE",
+      "left": 2094,
+      "top": 3203,
+      "width": 91,
+      "height": 98,
+      "right": 2185,
+      "bottom": 3301,
+      "confidence": 47
+    },
+    {
+      "text": "Ll",
+      "left": 1837,
+      "top": 3210,
+      "width": 63,
+      "height": 71,
+      "right": 1900,
+      "bottom": 3281,
+      "confidence": 57
+    },
+    {
+      "text": "LEGEND",
+      "left": 167,
+      "top": 3261,
+      "width": 116,
+      "height": 23,
+      "right": 283,
+      "bottom": 3284,
+      "confidence": 93
+    },
+    {
+      "text": "CRYSTAL,SHOP",
+      "left": 297,
+      "top": 3261,
+      "width": 220,
+      "height": 28,
+      "right": 517,
+      "bottom": 3289,
+      "confidence": 89
+    },
+    {
+      "text": "NO-6,GROUND",
+      "left": 534,
+      "top": 3261,
+      "width": 215,
+      "height": 28,
+      "right": 749,
+      "bottom": 3289,
+      "confidence": 90
+    },
+    {
+      "text": "&",
+      "left": 762,
+      "top": 3261,
+      "width": 21,
+      "height": 23,
+      "right": 783,
+      "bottom": 3284,
+      "confidence": 90
+    },
+    {
+      "text": "1ST",
+      "left": 796,
+      "top": 3261,
+      "width": 53,
+      "height": 22,
+      "right": 849,
+      "bottom": 3283,
+      "confidence": 93
+    },
+    {
+      "text": "FLOOR,PLOT",
+      "left": 862,
+      "top": 3261,
+      "width": 181,
+      "height": 28,
+      "right": 1043,
+      "bottom": 3289,
+      "confidence": 90
+    },
+    {
+      "text": "NO-1-7-79/A",
+      "left": 1057,
+      "top": 3261,
+      "width": 189,
+      "height": 27,
+      "right": 1246,
+      "bottom": 3288,
+      "confidence": 91
+    },
+    {
+      "text": "B:,PRENDERGHAST",
+      "left": 1260,
+      "top": 3261,
+      "width": 283,
+      "height": 28,
+      "right": 1543,
+      "bottom": 3289,
+      "confidence": 90
+    },
+    {
+      "text": "ROAD",
+      "left": 1556,
+      "top": 3261,
+      "width": 81,
+      "height": 23,
+      "right": 1637,
+      "bottom": 3284,
+      "confidence": 96
+    },
+    {
+      "text": "gt",
+      "left": 2209,
+      "top": 3261,
+      "width": 35,
+      "height": 20,
+      "right": 2244,
+      "bottom": 3281,
+      "confidence": 32
+    },
+    {
+      "text": "aos",
+      "left": 1940,
+      "top": 3276,
+      "width": 45,
+      "height": 5,
+      "right": 1985,
+      "bottom": 3281,
+      "confidence": 36
+    },
+    {
+      "text": "Patient",
+      "left": 1792,
+      "top": 3291,
+      "width": 114,
+      "height": 22,
+      "right": 1906,
+      "bottom": 3313,
+      "confidence": 95
+    },
+    {
+      "text": "Ref.",
+      "left": 1919,
+      "top": 3291,
+      "width": 60,
+      "height": 22,
+      "right": 1979,
+      "bottom": 3313,
+      "confidence": 92
+    },
+    {
+      "text": "775000002431311",
+      "left": 2059,
+      "top": 3291,
+      "width": 306,
+      "height": 22,
+      "right": 2365,
+      "bottom": 3313,
+      "confidence": 89
+    },
+    {
+      "text": "No.",
+      "left": 1994,
+      "top": 3292,
+      "width": 50,
+      "height": 21,
+      "right": 2044,
+      "bottom": 3313,
+      "confidence": 90
+    },
+    {
+      "text": "SECUNDERABAD,",
+      "left": 166,
+      "top": 3297,
+      "width": 252,
+      "height": 28,
+      "right": 418,
+      "bottom": 3325,
+      "confidence": 92
+    },
+    {
+      "text": "500003",
+      "left": 434,
+      "top": 3297,
+      "width": 106,
+      "height": 23,
+      "right": 540,
+      "bottom": 3320,
+      "confidence": 96
+    },
+    {
+      "text": "TELANGANA,",
+      "left": 164,
+      "top": 3332,
+      "width": 184,
+      "height": 28,
+      "right": 348,
+      "bottom": 3360,
+      "confidence": 91
+    },
+    {
+      "text": "INDIA",
+      "left": 366,
+      "top": 3333,
+      "width": 87,
+      "height": 21,
+      "right": 453,
+      "bottom": 3354,
+      "confidence": 96
+    },
+    {
+      "text": "Tel",
+      "left": 164,
+      "top": 3368,
+      "width": 39,
+      "height": 22,
+      "right": 203,
+      "bottom": 3390,
+      "confidence": 89
+    },
+    {
+      "text": "9111591115,",
+      "left": 244,
+      "top": 3368,
+      "width": 192,
+      "height": 28,
+      "right": 436,
+      "bottom": 3396,
+      "confidence": 96
+    },
+    {
+      "text": "Fax:",
+      "left": 452,
+      "top": 3369,
+      "width": 68,
+      "height": 22,
+      "right": 520,
+      "bottom": 3391,
+      "confidence": 75
+    },
+    {
+      "text": ":",
+      "left": 223,
+      "top": 3374,
+      "width": 4,
+      "height": 16,
+      "right": 227,
+      "bottom": 3390,
+      "confidence": 89
+    },
+    {
+      "text": "CIN",
+      "left": 166,
+      "top": 3403,
+      "width": 51,
+      "height": 22,
+      "right": 217,
+      "bottom": 3425,
+      "confidence": 93
+    },
+    {
+      "text": "U74899PB1995PLC045956",
+      "left": 256,
+      "top": 3403,
+      "width": 387,
+      "height": 23,
+      "right": 643,
+      "bottom": 3426,
+      "confidence": 72
+    },
+    {
+      "text": "-",
+      "left": 232,
+      "top": 3414,
+      "width": 9,
+      "height": 3,
+      "right": 241,
+      "bottom": 3417,
+      "confidence": 90
+    },
+    {
+      "text": "Email",
+      "left": 167,
+      "top": 3438,
+      "width": 76,
+      "height": 23,
+      "right": 243,
+      "bottom": 3461,
+      "confidence": 93
+    },
+    {
+      "text": "customercare.hyderabad@srl.in",
+      "left": 281,
+      "top": 3438,
+      "width": 462,
+      "height": 28,
+      "right": 743,
+      "bottom": 3466,
+      "confidence": 87
+    },
+    {
+      "text": ":",
+      "left": 260,
+      "top": 3444,
+      "width": 4,
+      "height": 16,
+      "right": 264,
+      "bottom": 3460,
+      "confidence": 91
+    }
+  ],
+  "total_tokens": 265
+}

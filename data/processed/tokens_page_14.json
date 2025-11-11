@@ -1,0 +1,3526 @@
+{
+  "image_path": "C:\\Users\\tvijo\\Desktop\\coding\\NLP\\File Extraction Project\\data\\processed\\page_14.png",
+  "tokens": [
+    {
+      "text": "PROCESSED",
+      "left": 292,
+      "top": 89,
+      "width": 226,
+      "height": 27,
+      "right": 518,
+      "bottom": 116,
+      "confidence": 96
+    },
+    {
+      "text": "AT:",
+      "left": 532,
+      "top": 90,
+      "width": 72,
+      "height": 25,
+      "right": 604,
+      "bottom": 115,
+      "confidence": 74
+    },
+    {
+      "text": "Thyrocare’",
+      "left": 1881,
+      "top": 95,
+      "width": 465,
+      "height": 101,
+      "right": 2346,
+      "bottom": 196,
+      "confidence": 51
+    },
+    {
+      "text": "Thyrocare",
+      "left": 292,
+      "top": 128,
+      "width": 189,
+      "height": 33,
+      "right": 481,
+      "bottom": 161,
+      "confidence": 64
+    },
+    {
+      "text": "Samanvitha",
+      "left": 293,
+      "top": 178,
+      "width": 201,
+      "height": 27,
+      "right": 494,
+      "bottom": 205,
+      "confidence": 91
+    },
+    {
+      "text": "Complex,",
+      "left": 511,
+      "top": 178,
+      "width": 158,
+      "height": 33,
+      "right": 669,
+      "bottom": 211,
+      "confidence": 92
+    },
+    {
+      "text": "No.12,13",
+      "left": 687,
+      "top": 178,
+      "width": 153,
+      "height": 33,
+      "right": 840,
+      "bottom": 211,
+      "confidence": 88
+    },
+    {
+      "text": "and",
+      "left": 293,
+      "top": 228,
+      "width": 60,
+      "height": 27,
+      "right": 353,
+      "bottom": 255,
+      "confidence": 94
+    },
+    {
+      "text": "The",
+      "left": 1885,
+      "top": 228,
+      "width": 79,
+      "height": 41,
+      "right": 1964,
+      "bottom": 269,
+      "confidence": 96
+    },
+    {
+      "text": "The",
+      "left": 2119,
+      "top": 228,
+      "width": 79,
+      "height": 40,
+      "right": 2198,
+      "bottom": 268,
+      "confidence": 97
+    },
+    {
+      "text": "Truth.",
+      "left": 2213,
+      "top": 228,
+      "width": 127,
+      "height": 40,
+      "right": 2340,
+      "bottom": 268,
+      "confidence": 96
+    },
+    {
+      "text": "14,",
+      "left": 372,
+      "top": 229,
+      "width": 49,
+      "height": 32,
+      "right": 421,
+      "bottom": 261,
+      "confidence": 94
+    },
+    {
+      "text": "Trust.",
+      "left": 1979,
+      "top": 229,
+      "width": 124,
+      "height": 38,
+      "right": 2103,
+      "bottom": 267,
+      "confidence": 96
+    },
+    {
+      "text": "Street,Outer",
+      "left": 432,
+      "top": 278,
+      "width": 214,
+      "height": 32,
+      "right": 646,
+      "bottom": 310,
+      "confidence": 90
+    },
+    {
+      "text": "Road,",
+      "left": 749,
+      "top": 278,
+      "width": 93,
+      "height": 33,
+      "right": 842,
+      "bottom": 311,
+      "confidence": 96
+    },
+    {
+      "text": "Mayura",
+      "left": 295,
+      "top": 279,
+      "width": 120,
+      "height": 32,
+      "right": 415,
+      "bottom": 311,
+      "confidence": 91
+    },
+    {
+      "text": "Ring",
+      "left": 661,
+      "top": 279,
+      "width": 70,
+      "height": 32,
+      "right": 731,
+      "bottom": 311,
+      "confidence": 96
+    },
+    {
+      "text": "Hebbal,",
+      "left": 295,
+      "top": 328,
+      "width": 125,
+      "height": 32,
+      "right": 420,
+      "bottom": 360,
+      "confidence": 92
+    },
+    {
+      "text": "Bangalore-560095",
+      "left": 438,
+      "top": 328,
+      "width": 322,
+      "height": 33,
+      "right": 760,
+      "bottom": 361,
+      "confidence": 63
+    },
+    {
+      "text": "9",
+      "left": 1287,
+      "top": 387,
+      "width": 25,
+      "height": 36,
+      "right": 1312,
+      "bottom": 423,
+      "confidence": 86
+    },
+    {
+      "text": "D-37/3,",
+      "left": 1323,
+      "top": 389,
+      "width": 105,
+      "height": 37,
+      "right": 1428,
+      "bottom": 426,
+      "confidence": 84
+    },
+    {
+      "text": "\\",
+      "left": 420,
+      "top": 390,
+      "width": 16,
+      "height": 34,
+      "right": 436,
+      "bottom": 424,
+      "confidence": 60
+    },
+    {
+      "text": "Mumbal",
+      "left": 1779,
+      "top": 392,
+      "width": 115,
+      "height": 28,
+      "right": 1894,
+      "bottom": 420,
+      "confidence": 91
+    },
+    {
+      "text": "Corporate",
+      "left": 548,
+      "top": 393,
+      "width": 145,
+      "height": 33,
+      "right": 693,
+      "bottom": 426,
+      "confidence": 96
+    },
+    {
+      "text": "office:",
+      "left": 701,
+      "top": 393,
+      "width": 93,
+      "height": 32,
+      "right": 794,
+      "bottom": 425,
+      "confidence": 68
+    },
+    {
+      "text": "Thyrotare",
+      "left": 811,
+      "top": 393,
+      "width": 144,
+      "height": 33,
+      "right": 955,
+      "bottom": 426,
+      "confidence": 52
+    },
+    {
+      "text": "Technologies",
+      "left": 961,
+      "top": 393,
+      "width": 188,
+      "height": 32,
+      "right": 1149,
+      "bottom": 425,
+      "confidence": 59
+    },
+    {
+      "text": "Limited,",
+      "left": 1158,
+      "top": 393,
+      "width": 114,
+      "height": 33,
+      "right": 1272,
+      "bottom": 426,
+      "confidence": 96
+    },
+    {
+      "text": "TTC",
+      "left": 1436,
+      "top": 393,
+      "width": 52,
+      "height": 27,
+      "right": 1488,
+      "bottom": 420,
+      "confidence": 93
+    },
+    {
+      "text": "MIDC,",
+      "left": 1498,
+      "top": 393,
+      "width": 83,
+      "height": 33,
+      "right": 1581,
+      "bottom": 426,
+      "confidence": 92
+    },
+    {
+      "text": "Turbhe,",
+      "left": 1590,
+      "top": 393,
+      "width": 107,
+      "height": 33,
+      "right": 1697,
+      "bottom": 426,
+      "confidence": 92
+    },
+    {
+      "text": "Navi",
+      "left": 1708,
+      "top": 393,
+      "width": 61,
+      "height": 26,
+      "right": 1769,
+      "bottom": 419,
+      "confidence": 93
+    },
+    {
+      "text": "400",
+      "left": 1921,
+      "top": 393,
+      "width": 54,
+      "height": 26,
+      "right": 1975,
+      "bottom": 419,
+      "confidence": 85
+    },
+    {
+      "text": "703",
+      "left": 1984,
+      "top": 393,
+      "width": 50,
+      "height": 26,
+      "right": 2034,
+      "bottom": 419,
+      "confidence": 93
+    },
+    {
+      "text": "-",
+      "left": 1904,
+      "top": 406,
+      "width": 11,
+      "height": 7,
+      "right": 1915,
+      "bottom": 413,
+      "confidence": 85
+    },
+    {
+      "text": "GD",
+      "left": 1746,
+      "top": 433,
+      "width": 38,
+      "height": 47,
+      "right": 1784,
+      "bottom": 480,
+      "confidence": 52
+    },
+    {
+      "text": "©",
+      "left": 556,
+      "top": 440,
+      "width": 37,
+      "height": 36,
+      "right": 593,
+      "bottom": 476,
+      "confidence": 88
+    },
+    {
+      "text": "/",
+      "left": 839,
+      "top": 440,
+      "width": 16,
+      "height": 36,
+      "right": 855,
+      "bottom": 476,
+      "confidence": 72
+    },
+    {
+      "text": "022",
+      "left": 604,
+      "top": 443,
+      "width": 52,
+      "height": 27,
+      "right": 656,
+      "bottom": 470,
+      "confidence": 93
+    },
+    {
+      "text": "3090",
+      "left": 683,
+      "top": 443,
+      "width": 69,
+      "height": 27,
+      "right": 752,
+      "bottom": 470,
+      "confidence": 84
+    },
+    {
+      "text": "0000",
+      "left": 762,
+      "top": 443,
+      "width": 71,
+      "height": 27,
+      "right": 833,
+      "bottom": 470,
+      "confidence": 74
+    },
+    {
+      "text": "6712",
+      "left": 864,
+      "top": 443,
+      "width": 67,
+      "height": 27,
+      "right": 931,
+      "bottom": 470,
+      "confidence": 94
+    },
+    {
+      "text": "3400",
+      "left": 942,
+      "top": 443,
+      "width": 70,
+      "height": 27,
+      "right": 1012,
+      "bottom": 470,
+      "confidence": 83
+    },
+    {
+      "text": "wellness@thyrocare.com",
+      "left": 1361,
+      "top": 443,
+      "width": 358,
+      "height": 33,
+      "right": 1719,
+      "bottom": 476,
+      "confidence": 89
+    },
+    {
+      "text": "ita",
+      "left": 1314,
+      "top": 446,
+      "width": 36,
+      "height": 24,
+      "right": 1350,
+      "bottom": 470,
+      "confidence": 60
+    },
+    {
+      "text": "-",
+      "left": 664,
+      "top": 456,
+      "width": 10,
+      "height": 7,
+      "right": 674,
+      "bottom": 463,
+      "confidence": 90
+    },
+    {
+      "text": "REBORT",
+      "left": 1292,
+      "top": 506,
+      "width": 164,
+      "height": 36,
+      "right": 1456,
+      "bottom": 542,
+      "confidence": 80
+    },
+    {
+      "text": "(61Y/F)",
+      "left": 872,
+      "top": 584,
+      "width": 113,
+      "height": 31,
+      "right": 985,
+      "bottom": 615,
+      "confidence": 92
+    },
+    {
+      "text": "NAYANA",
+      "left": 616,
+      "top": 585,
+      "width": 124,
+      "height": 23,
+      "right": 740,
+      "bottom": 608,
+      "confidence": 92
+    },
+    {
+      "text": "SURTI",
+      "left": 753,
+      "top": 585,
+      "width": 93,
+      "height": 24,
+      "right": 846,
+      "bottom": 609,
+      "confidence": 89
+    },
+    {
+      "text": "SAMPLE",
+      "left": 1558,
+      "top": 585,
+      "width": 136,
+      "height": 23,
+      "right": 1694,
+      "bottom": 608,
+      "confidence": 96
+    },
+    {
+      "text": "COLLECTED",
+      "left": 1708,
+      "top": 585,
+      "width": 197,
+      "height": 23,
+      "right": 1905,
+      "bottom": 608,
+      "confidence": 96
+    },
+    {
+      "text": "AT",
+      "left": 1917,
+      "top": 585,
+      "width": 45,
+      "height": 23,
+      "right": 1962,
+      "bottom": 608,
+      "confidence": 92
+    },
+    {
+      "text": "NAME",
+      "left": 294,
+      "top": 586,
+      "width": 97,
+      "height": 23,
+      "right": 391,
+      "bottom": 609,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 1976,
+      "top": 591,
+      "width": 6,
+      "height": 17,
+      "right": 1982,
+      "bottom": 608,
+      "confidence": 89
+    },
+    {
+      "text": ":",
+      "left": 573,
+      "top": 594,
+      "width": 6,
+      "height": 17,
+      "right": 579,
+      "bottom": 611,
+      "confidence": 91
+    },
+    {
+      "text": "REF.",
+      "left": 294,
+      "top": 633,
+      "width": 72,
+      "height": 23,
+      "right": 366,
+      "bottom": 656,
+      "confidence": 96
+    },
+    {
+      "text": "BY",
+      "left": 382,
+      "top": 633,
+      "width": 44,
+      "height": 23,
+      "right": 426,
+      "bottom": 656,
+      "confidence": 96
+    },
+    {
+      "text": "SELF",
+      "left": 618,
+      "top": 633,
+      "width": 74,
+      "height": 24,
+      "right": 692,
+      "bottom": 657,
+      "confidence": 96
+    },
+    {
+      "text": "(5600250846),RELAX",
+      "left": 1562,
+      "top": 633,
+      "width": 335,
+      "height": 31,
+      "right": 1897,
+      "bottom": 664,
+      "confidence": 91
+    },
+    {
+      "text": "HEALTHCARE",
+      "left": 1912,
+      "top": 634,
+      "width": 201,
+      "height": 24,
+      "right": 2113,
+      "bottom": 658,
+      "confidence": 96
+    },
+    {
+      "text": "SERVICES",
+      "left": 2127,
+      "top": 634,
+      "width": 156,
+      "height": 24,
+      "right": 2283,
+      "bottom": 658,
+      "confidence": 96
+    },
+    {
+      "text": ":",
+      "left": 573,
+      "top": 641,
+      "width": 6,
+      "height": 17,
+      "right": 579,
+      "bottom": 658,
+      "confidence": 89
+    },
+    {
+      "text": "25/2,NORRIS",
+      "left": 1865,
+      "top": 670,
+      "width": 206,
+      "height": 30,
+      "right": 2071,
+      "bottom": 700,
+      "confidence": 91
+    },
+    {
+      "text": "INDIA",
+      "left": 1561,
+      "top": 671,
+      "width": 92,
+      "height": 23,
+      "right": 1653,
+      "bottom": 694,
+      "confidence": 96
+    },
+    {
+      "text": "PVT",
+      "left": 1668,
+      "top": 671,
+      "width": 56,
+      "height": 23,
+      "right": 1724,
+      "bottom": 694,
+      "confidence": 92
+    },
+    {
+      "text": "LTD,NO",
+      "left": 1738,
+      "top": 671,
+      "width": 112,
+      "height": 29,
+      "right": 1850,
+      "bottom": 700,
+      "confidence": 91
+    },
+    {
+      "text": "ROAD,",
+      "left": 2086,
+      "top": 671,
+      "width": 97,
+      "height": 29,
+      "right": 2183,
+      "bottom": 700,
+      "confidence": 96
+    },
+    {
+      "text": "TEST",
+      "left": 292,
+      "top": 691,
+      "width": 85,
+      "height": 23,
+      "right": 377,
+      "bottom": 714,
+      "confidence": 96
+    },
+    {
+      "text": "ASKED",
+      "left": 388,
+      "top": 691,
+      "width": 115,
+      "height": 23,
+      "right": 503,
+      "bottom": 714,
+      "confidence": 96
+    },
+    {
+      "text": ".",
+      "left": 572,
+      "top": 699,
+      "width": 6,
+      "height": 6,
+      "right": 578,
+      "bottom": 705,
+      "confidence": 52
+    },
+    {
+      "text": "RICHMOND",
+      "left": 1562,
+      "top": 709,
+      "width": 173,
+      "height": 24,
+      "right": 1735,
+      "bottom": 733,
+      "confidence": 91
+    },
+    {
+      "text": "TOWN,BENGALURU,",
+      "left": 1747,
+      "top": 709,
+      "width": 311,
+      "height": 29,
+      "right": 2058,
+      "bottom": 738,
+      "confidence": 89
+    },
+    {
+      "text": "KARNATAKA",
+      "left": 2074,
+      "top": 709,
+      "width": 185,
+      "height": 23,
+      "right": 2259,
+      "bottom": 732,
+      "confidence": 96
+    },
+    {
+      "text": "560025,",
+      "left": 1562,
+      "top": 746,
+      "width": 124,
+      "height": 29,
+      "right": 1686,
+      "bottom": 775,
+      "confidence": 93
+    },
+    {
+      "text": "INDIA,560025",
+      "left": 1702,
+      "top": 746,
+      "width": 220,
+      "height": 29,
+      "right": 1922,
+      "bottom": 775,
+      "confidence": 91
+    },
+    {
+      "text": "UNITS",
+      "left": 1560,
+      "top": 812,
+      "width": 120,
+      "height": 26,
+      "right": 1680,
+      "bottom": 838,
+      "confidence": 95
+    },
+    {
+      "text": "TEST",
+      "left": 292,
+      "top": 813,
+      "width": 94,
+      "height": 25,
+      "right": 386,
+      "bottom": 838,
+      "confidence": 96
+    },
+    {
+      "text": "NAME",
+      "left": 401,
+      "top": 813,
+      "width": 107,
+      "height": 25,
+      "right": 508,
+      "bottom": 838,
+      "confidence": 95
+    },
+    {
+      "text": "VALUE",
+      "left": 1264,
+      "top": 813,
+      "width": 124,
+      "height": 26,
+      "right": 1388,
+      "bottom": 839,
+      "confidence": 96
+    },
+    {
+      "text": "REFERENCE",
+      "left": 1812,
+      "top": 813,
+      "width": 219,
+      "height": 25,
+      "right": 2031,
+      "bottom": 838,
+      "confidence": 96
+    },
+    {
+      "text": "RANGE",
+      "left": 2048,
+      "top": 813,
+      "width": 129,
+      "height": 26,
+      "right": 2177,
+      "bottom": 839,
+      "confidence": 95
+    },
+    {
+      "text": "7.34",
+      "left": 1282,
+      "top": 871,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 898,
+      "confidence": 91
+    },
+    {
+      "text": "TOTAL",
+      "left": 291,
+      "top": 873,
+      "width": 109,
+      "height": 27,
+      "right": 400,
+      "bottom": 900,
+      "confidence": 91
+    },
+    {
+      "text": "LEUCOCYTES",
+      "left": 415,
+      "top": 873,
+      "width": 224,
+      "height": 27,
+      "right": 639,
+      "bottom": 900,
+      "confidence": 90
+    },
+    {
+      "text": "COUNT",
+      "left": 655,
+      "top": 873,
+      "width": 121,
+      "height": 27,
+      "right": 776,
+      "bottom": 900,
+      "confidence": 95
+    },
+    {
+      "text": "40-80",
+      "left": 1810,
+      "top": 917,
+      "width": 94,
+      "height": 28,
+      "right": 1904,
+      "bottom": 945,
+      "confidence": 96
+    },
+    {
+      "text": "NEUTROPHILS",
+      "left": 295,
+      "top": 918,
+      "width": 243,
+      "height": 42,
+      "right": 538,
+      "bottom": 960,
+      "confidence": 96
+    },
+    {
+      "text": "64.1",
+      "left": 1282,
+      "top": 921,
+      "width": 73,
+      "height": 27,
+      "right": 1355,
+      "bottom": 948,
+      "confidence": 94
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 924,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 951,
+      "confidence": 88
+    },
+    {
+      "text": "20.0-40.0",
+      "left": 1811,
+      "top": 966,
+      "width": 155,
+      "height": 28,
+      "right": 1966,
+      "bottom": 994,
+      "confidence": 91
+    },
+    {
+      "text": "27",
+      "left": 1282,
+      "top": 970,
+      "width": 39,
+      "height": 26,
+      "right": 1321,
+      "bottom": 996,
+      "confidence": 96
+    },
+    {
+      "text": "LYMPHOCYTE",
+      "left": 295,
+      "top": 972,
+      "width": 223,
+      "height": 27,
+      "right": 518,
+      "bottom": 999,
+      "confidence": 95
+    },
+    {
+      "text": "PERCENTAGE",
+      "left": 535,
+      "top": 972,
+      "width": 224,
+      "height": 27,
+      "right": 759,
+      "bottom": 999,
+      "confidence": 95
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 973,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1000,
+      "confidence": 88
+    },
+    {
+      "text": "0.0-10.0",
+      "left": 1812,
+      "top": 1016,
+      "width": 133,
+      "height": 28,
+      "right": 1945,
+      "bottom": 1044,
+      "confidence": 90
+    },
+    {
+      "text": "MONOCYTES",
+      "left": 295,
+      "top": 1017,
+      "width": 215,
+      "height": 42,
+      "right": 510,
+      "bottom": 1059,
+      "confidence": 96
+    },
+    {
+      "text": "3.5",
+      "left": 1282,
+      "top": 1019,
+      "width": 52,
+      "height": 27,
+      "right": 1334,
+      "bottom": 1046,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1022,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1049,
+      "confidence": 83
+    },
+    {
+      "text": "0.0-6.0",
+      "left": 1812,
+      "top": 1065,
+      "width": 112,
+      "height": 28,
+      "right": 1924,
+      "bottom": 1093,
+      "confidence": 93
+    },
+    {
+      "text": "4.1",
+      "left": 1281,
+      "top": 1069,
+      "width": 52,
+      "height": 25,
+      "right": 1333,
+      "bottom": 1094,
+      "confidence": 96
+    },
+    {
+      "text": "EOSINOPHILS",
+      "left": 295,
+      "top": 1070,
+      "width": 238,
+      "height": 27,
+      "right": 533,
+      "bottom": 1097,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1071,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1098,
+      "confidence": 91
+    },
+    {
+      "text": "<2",
+      "left": 1812,
+      "top": 1114,
+      "width": 39,
+      "height": 27,
+      "right": 1851,
+      "bottom": 1141,
+      "confidence": 96
+    },
+    {
+      "text": "BASOPHILS",
+      "left": 295,
+      "top": 1115,
+      "width": 196,
+      "height": 42,
+      "right": 491,
+      "bottom": 1157,
+      "confidence": 90
+    },
+    {
+      "text": "1",
+      "left": 1284,
+      "top": 1118,
+      "width": 14,
+      "height": 25,
+      "right": 1298,
+      "bottom": 1143,
+      "confidence": 95
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1120,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1147,
+      "confidence": 91
+    },
+    {
+      "text": "0.0-0.4",
+      "left": 1812,
+      "top": 1163,
+      "width": 112,
+      "height": 28,
+      "right": 1924,
+      "bottom": 1191,
+      "confidence": 92
+    },
+    {
+      "text": "0.3",
+      "left": 1282,
+      "top": 1166,
+      "width": 51,
+      "height": 27,
+      "right": 1333,
+      "bottom": 1193,
+      "confidence": 94
+    },
+    {
+      "text": "GRANULOCYTE",
+      "left": 491,
+      "top": 1168,
+      "width": 256,
+      "height": 27,
+      "right": 747,
+      "bottom": 1195,
+      "confidence": 93
+    },
+    {
+      "text": "PERCENTAGE(IG%)",
+      "left": 763,
+      "top": 1168,
+      "width": 332,
+      "height": 32,
+      "right": 1095,
+      "bottom": 1200,
+      "confidence": 91
+    },
+    {
+      "text": "IMMATURE",
+      "left": 294,
+      "top": 1169,
+      "width": 182,
+      "height": 26,
+      "right": 476,
+      "bottom": 1195,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1170,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1197,
+      "confidence": 79
+    },
+    {
+      "text": "NEUTROPHILS",
+      "left": 295,
+      "top": 1217,
+      "width": 243,
+      "height": 27,
+      "right": 538,
+      "bottom": 1244,
+      "confidence": 93
+    },
+    {
+      "text": "ABSOLUTE",
+      "left": 580,
+      "top": 1217,
+      "width": 183,
+      "height": 27,
+      "right": 763,
+      "bottom": 1244,
+      "confidence": 95
+    },
+    {
+      "text": "COUNT",
+      "left": 779,
+      "top": 1217,
+      "width": 121,
+      "height": 27,
+      "right": 900,
+      "bottom": 1244,
+      "confidence": 96
+    },
+    {
+      "text": "4.7",
+      "left": 1281,
+      "top": 1217,
+      "width": 53,
+      "height": 25,
+      "right": 1334,
+      "bottom": 1242,
+      "confidence": 93
+    },
+    {
+      "text": "-",
+      "left": 554,
+      "top": 1230,
+      "width": 11,
+      "height": 4,
+      "right": 565,
+      "bottom": 1234,
+      "confidence": 92
+    },
+    {
+      "text": "1.0-3.0",
+      "left": 1814,
+      "top": 1261,
+      "width": 110,
+      "height": 28,
+      "right": 1924,
+      "bottom": 1289,
+      "confidence": 43
+    },
+    {
+      "text": "1.98",
+      "left": 1284,
+      "top": 1265,
+      "width": 72,
+      "height": 27,
+      "right": 1356,
+      "bottom": 1292,
+      "confidence": 96
+    },
+    {
+      "text": "LYMPHOCYTES",
+      "left": 295,
+      "top": 1267,
+      "width": 246,
+      "height": 27,
+      "right": 541,
+      "bottom": 1294,
+      "confidence": 93
+    },
+    {
+      "text": "ABSOLUTE",
+      "left": 583,
+      "top": 1267,
+      "width": 183,
+      "height": 27,
+      "right": 766,
+      "bottom": 1294,
+      "confidence": 96
+    },
+    {
+      "text": "COUNT",
+      "left": 782,
+      "top": 1267,
+      "width": 121,
+      "height": 27,
+      "right": 903,
+      "bottom": 1294,
+      "confidence": 94
+    },
+    {
+      "text": "X103/pL",
+      "left": 1565,
+      "top": 1268,
+      "width": 178,
+      "height": 31,
+      "right": 1743,
+      "bottom": 1299,
+      "confidence": 43
+    },
+    {
+      "text": "-",
+      "left": 558,
+      "top": 1280,
+      "width": 11,
+      "height": 4,
+      "right": 569,
+      "bottom": 1284,
+      "confidence": 90
+    },
+    {
+      "text": "0.2-1.0",
+      "left": 1812,
+      "top": 1311,
+      "width": 112,
+      "height": 28,
+      "right": 1924,
+      "bottom": 1339,
+      "confidence": 92
+    },
+    {
+      "text": "0.26",
+      "left": 1282,
+      "top": 1314,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 1341,
+      "confidence": 95
+    },
+    {
+      "text": "MONOCYTES",
+      "left": 295,
+      "top": 1316,
+      "width": 215,
+      "height": 27,
+      "right": 510,
+      "bottom": 1343,
+      "confidence": 91
+    },
+    {
+      "text": "ABSOLUTE",
+      "left": 552,
+      "top": 1316,
+      "width": 183,
+      "height": 27,
+      "right": 735,
+      "bottom": 1343,
+      "confidence": 95
+    },
+    {
+      "text": "COUNT",
+      "left": 751,
+      "top": 1316,
+      "width": 121,
+      "height": 27,
+      "right": 872,
+      "bottom": 1343,
+      "confidence": 96
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 1317,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 1344,
+      "confidence": 68
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 1317,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 1348,
+      "confidence": 68
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 1318,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 1343,
+      "confidence": 91
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 1318,
+      "width": 39,
+      "height": 30,
+      "right": 1743,
+      "bottom": 1348,
+      "confidence": 67
+    },
+    {
+      "text": "-",
+      "left": 526,
+      "top": 1329,
+      "width": 11,
+      "height": 4,
+      "right": 537,
+      "bottom": 1333,
+      "confidence": 91
+    },
+    {
+      "text": "0.02-0.1",
+      "left": 1812,
+      "top": 1360,
+      "width": 128,
+      "height": 28,
+      "right": 1940,
+      "bottom": 1388,
+      "confidence": 89
+    },
+    {
+      "text": "0.07",
+      "left": 1282,
+      "top": 1363,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 1390,
+      "confidence": 96
+    },
+    {
+      "text": "BASOPHILS",
+      "left": 295,
+      "top": 1365,
+      "width": 196,
+      "height": 27,
+      "right": 491,
+      "bottom": 1392,
+      "confidence": 90
+    },
+    {
+      "text": "ABSOLUTE",
+      "left": 533,
+      "top": 1365,
+      "width": 183,
+      "height": 27,
+      "right": 716,
+      "bottom": 1392,
+      "confidence": 96
+    },
+    {
+      "text": "COUNT",
+      "left": 731,
+      "top": 1365,
+      "width": 122,
+      "height": 27,
+      "right": 853,
+      "bottom": 1392,
+      "confidence": 96
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 1366,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 1393,
+      "confidence": 70
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 1366,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 1397,
+      "confidence": 70
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 1367,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 1392,
+      "confidence": 90
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 1367,
+      "width": 39,
+      "height": 31,
+      "right": 1743,
+      "bottom": 1398,
+      "confidence": 64
+    },
+    {
+      "text": "-",
+      "left": 507,
+      "top": 1378,
+      "width": 11,
+      "height": 4,
+      "right": 518,
+      "bottom": 1382,
+      "confidence": 91
+    },
+    {
+      "text": "0.02-0.5",
+      "left": 1812,
+      "top": 1409,
+      "width": 133,
+      "height": 28,
+      "right": 1945,
+      "bottom": 1437,
+      "confidence": 88
+    },
+    {
+      "text": "0.3",
+      "left": 1282,
+      "top": 1412,
+      "width": 51,
+      "height": 27,
+      "right": 1333,
+      "bottom": 1439,
+      "confidence": 96
+    },
+    {
+      "text": "EOSINOPHILS",
+      "left": 295,
+      "top": 1414,
+      "width": 238,
+      "height": 27,
+      "right": 533,
+      "bottom": 1441,
+      "confidence": 90
+    },
+    {
+      "text": "ABSOLUTE",
+      "left": 575,
+      "top": 1414,
+      "width": 183,
+      "height": 27,
+      "right": 758,
+      "bottom": 1441,
+      "confidence": 95
+    },
+    {
+      "text": "COUNT",
+      "left": 773,
+      "top": 1414,
+      "width": 122,
+      "height": 27,
+      "right": 895,
+      "bottom": 1441,
+      "confidence": 96
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 1415,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 1442,
+      "confidence": 70
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 1415,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 1446,
+      "confidence": 70
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 1416,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 1441,
+      "confidence": 90
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 1416,
+      "width": 39,
+      "height": 31,
+      "right": 1743,
+      "bottom": 1447,
+      "confidence": 64
+    },
+    {
+      "text": "-",
+      "left": 549,
+      "top": 1427,
+      "width": 11,
+      "height": 4,
+      "right": 560,
+      "bottom": 1431,
+      "confidence": 90
+    },
+    {
+      "text": "0.0-0.3",
+      "left": 1812,
+      "top": 1458,
+      "width": 112,
+      "height": 28,
+      "right": 1924,
+      "bottom": 1486,
+      "confidence": 92
+    },
+    {
+      "text": "0.02",
+      "left": 1282,
+      "top": 1461,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 1488,
+      "confidence": 96
+    },
+    {
+      "text": "GRANULOCYTES(IG)",
+      "left": 491,
+      "top": 1463,
+      "width": 350,
+      "height": 32,
+      "right": 841,
+      "bottom": 1495,
+      "confidence": 90
+    },
+    {
+      "text": "IMMATURE",
+      "left": 294,
+      "top": 1464,
+      "width": 182,
+      "height": 26,
+      "right": 476,
+      "bottom": 1490,
+      "confidence": 92
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 1465,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 1492,
+      "confidence": 68
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 1465,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 1496,
+      "confidence": 68
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 1466,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 1491,
+      "confidence": 91
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 1466,
+      "width": 39,
+      "height": 30,
+      "right": 1743,
+      "bottom": 1496,
+      "confidence": 67
+    },
+    {
+      "text": "TOTAL",
+      "left": 291,
+      "top": 1512,
+      "width": 109,
+      "height": 27,
+      "right": 400,
+      "bottom": 1539,
+      "confidence": 96
+    },
+    {
+      "text": "RBC",
+      "left": 415,
+      "top": 1512,
+      "width": 67,
+      "height": 27,
+      "right": 482,
+      "bottom": 1539,
+      "confidence": 96
+    },
+    {
+      "text": "4.55",
+      "left": 1281,
+      "top": 1512,
+      "width": 75,
+      "height": 26,
+      "right": 1356,
+      "bottom": 1538,
+      "confidence": 95
+    },
+    {
+      "text": "X10%6/uL",
+      "left": 1565,
+      "top": 1514,
+      "width": 185,
+      "height": 31,
+      "right": 1750,
+      "bottom": 1545,
+      "confidence": 47
+    },
+    {
+      "text": "Nil",
+      "left": 1271,
+      "top": 1555,
+      "width": 38,
+      "height": 43,
+      "right": 1309,
+      "bottom": 1598,
+      "confidence": 96
+    },
+    {
+      "text": "<0.01",
+      "left": 1812,
+      "top": 1556,
+      "width": 86,
+      "height": 28,
+      "right": 1898,
+      "bottom": 1584,
+      "confidence": 89
+    },
+    {
+      "text": "NUCLEATED",
+      "left": 295,
+      "top": 1562,
+      "width": 201,
+      "height": 27,
+      "right": 496,
+      "bottom": 1589,
+      "confidence": 91
+    },
+    {
+      "text": "BLOOD",
+      "left": 598,
+      "top": 1562,
+      "width": 117,
+      "height": 27,
+      "right": 715,
+      "bottom": 1589,
+      "confidence": 95
+    },
+    {
+      "text": "CELLS",
+      "left": 731,
+      "top": 1562,
+      "width": 104,
+      "height": 27,
+      "right": 835,
+      "bottom": 1589,
+      "confidence": 96
+    },
+    {
+      "text": "RED",
+      "left": 513,
+      "top": 1563,
+      "width": 67,
+      "height": 25,
+      "right": 580,
+      "bottom": 1588,
+      "confidence": 96
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 1563,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 1590,
+      "confidence": 68
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 1563,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 1594,
+      "confidence": 68
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 1564,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 1589,
+      "confidence": 91
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 1564,
+      "width": 39,
+      "height": 30,
+      "right": 1743,
+      "bottom": 1594,
+      "confidence": 67
+    },
+    {
+      "text": "Nil",
+      "left": 1271,
+      "top": 1604,
+      "width": 38,
+      "height": 43,
+      "right": 1309,
+      "bottom": 1647,
+      "confidence": 96
+    },
+    {
+      "text": "<0.01",
+      "left": 1812,
+      "top": 1606,
+      "width": 86,
+      "height": 28,
+      "right": 1898,
+      "bottom": 1634,
+      "confidence": 89
+    },
+    {
+      "text": "NUCLEATED",
+      "left": 295,
+      "top": 1611,
+      "width": 201,
+      "height": 27,
+      "right": 496,
+      "bottom": 1638,
+      "confidence": 90
+    },
+    {
+      "text": "BLOOD",
+      "left": 598,
+      "top": 1611,
+      "width": 117,
+      "height": 27,
+      "right": 715,
+      "bottom": 1638,
+      "confidence": 96
+    },
+    {
+      "text": "CELLS",
+      "left": 731,
+      "top": 1611,
+      "width": 104,
+      "height": 27,
+      "right": 835,
+      "bottom": 1638,
+      "confidence": 93
+    },
+    {
+      "text": "%",
+      "left": 851,
+      "top": 1611,
+      "width": 33,
+      "height": 27,
+      "right": 884,
+      "bottom": 1638,
+      "confidence": 92
+    },
+    {
+      "text": "RED",
+      "left": 513,
+      "top": 1612,
+      "width": 67,
+      "height": 25,
+      "right": 580,
+      "bottom": 1637,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1612,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1639,
+      "confidence": 91
+    },
+    {
+      "text": "12.0-15.0",
+      "left": 1814,
+      "top": 1655,
+      "width": 152,
+      "height": 28,
+      "right": 1966,
+      "bottom": 1683,
+      "confidence": 91
+    },
+    {
+      "text": "12",
+      "left": 1284,
+      "top": 1658,
+      "width": 37,
+      "height": 26,
+      "right": 1321,
+      "bottom": 1684,
+      "confidence": 96
+    },
+    {
+      "text": "HEMOGLOBIN",
+      "left": 295,
+      "top": 1660,
+      "width": 233,
+      "height": 27,
+      "right": 528,
+      "bottom": 1687,
+      "confidence": 96
+    },
+    {
+      "text": "g/dL",
+      "left": 1565,
+      "top": 1661,
+      "width": 76,
+      "height": 32,
+      "right": 1641,
+      "bottom": 1693,
+      "confidence": 80
+    },
+    {
+      "text": "36.0-46.0",
+      "left": 1811,
+      "top": 1704,
+      "width": 155,
+      "height": 28,
+      "right": 1966,
+      "bottom": 1732,
+      "confidence": 92
+    },
+    {
+      "text": "HEMATOCRIT(PCV)",
+      "left": 295,
+      "top": 1705,
+      "width": 322,
+      "height": 42,
+      "right": 617,
+      "bottom": 1747,
+      "confidence": 90
+    },
+    {
+      "text": "37.1",
+      "left": 1282,
+      "top": 1707,
+      "width": 73,
+      "height": 27,
+      "right": 1355,
+      "bottom": 1734,
+      "confidence": 91
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1710,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 1737,
+      "confidence": 83
+    },
+    {
+      "text": "83.0-101.0",
+      "left": 1811,
+      "top": 1755,
+      "width": 171,
+      "height": 26,
+      "right": 1982,
+      "bottom": 1781,
+      "confidence": 92
+    },
+    {
+      "text": "81.5",
+      "left": 1281,
+      "top": 1756,
+      "width": 82,
+      "height": 27,
+      "right": 1363,
+      "bottom": 1783,
+      "confidence": 96
+    },
+    {
+      "text": "CORPUSCULAR",
+      "left": 417,
+      "top": 1758,
+      "width": 285,
+      "height": 27,
+      "right": 702,
+      "bottom": 1785,
+      "confidence": 93
+    },
+    {
+      "text": "VOLUME(MCV)",
+      "left": 714,
+      "top": 1758,
+      "width": 279,
+      "height": 32,
+      "right": 993,
+      "bottom": 1790,
+      "confidence": 91
+    },
+    {
+      "text": "MEAN",
+      "left": 294,
+      "top": 1759,
+      "width": 106,
+      "height": 25,
+      "right": 400,
+      "bottom": 1784,
+      "confidence": 95
+    },
+    {
+      "text": "fL",
+      "left": 1564,
+      "top": 1760,
+      "width": 35,
+      "height": 26,
+      "right": 1599,
+      "bottom": 1786,
+      "confidence": 91
+    },
+    {
+      "text": "27.0-32.0",
+      "left": 1811,
+      "top": 1805,
+      "width": 151,
+      "height": 26,
+      "right": 1962,
+      "bottom": 1831,
+      "confidence": 91
+    },
+    {
+      "text": "CORPUSCULAR",
+      "left": 417,
+      "top": 1807,
+      "width": 285,
+      "height": 27,
+      "right": 702,
+      "bottom": 1834,
+      "confidence": 93
+    },
+    {
+      "text": "HEMOGLOBIN(MCH)",
+      "left": 717,
+      "top": 1807,
+      "width": 384,
+      "height": 32,
+      "right": 1101,
+      "bottom": 1839,
+      "confidence": 91
+    },
+    {
+      "text": "26.4",
+      "left": 1282,
+      "top": 1807,
+      "width": 82,
+      "height": 26,
+      "right": 1364,
+      "bottom": 1833,
+      "confidence": 96
+    },
+    {
+      "text": "MEAN",
+      "left": 294,
+      "top": 1808,
+      "width": 106,
+      "height": 25,
+      "right": 400,
+      "bottom": 1833,
+      "confidence": 96
+    },
+    {
+      "text": "pq",
+      "left": 1566,
+      "top": 1816,
+      "width": 43,
+      "height": 24,
+      "right": 1609,
+      "bottom": 1840,
+      "confidence": 86
+    },
+    {
+      "text": "31.5-34.5",
+      "left": 1811,
+      "top": 1851,
+      "width": 155,
+      "height": 28,
+      "right": 1966,
+      "bottom": 1879,
+      "confidence": 91
+    },
+    {
+      "text": "32.3",
+      "left": 1282,
+      "top": 1855,
+      "width": 73,
+      "height": 27,
+      "right": 1355,
+      "bottom": 1882,
+      "confidence": 95
+    },
+    {
+      "text": "CORP.HEMO.CONC(MCHC)",
+      "left": 405,
+      "top": 1857,
+      "width": 455,
+      "height": 31,
+      "right": 860,
+      "bottom": 1888,
+      "confidence": 89
+    },
+    {
+      "text": "MEAN",
+      "left": 295,
+      "top": 1858,
+      "width": 93,
+      "height": 25,
+      "right": 388,
+      "bottom": 1883,
+      "confidence": 93
+    },
+    {
+      "text": "g/dL",
+      "left": 1565,
+      "top": 1858,
+      "width": 76,
+      "height": 31,
+      "right": 1641,
+      "bottom": 1889,
+      "confidence": 54
+    },
+    {
+      "text": "39.0-46.0",
+      "left": 1811,
+      "top": 1901,
+      "width": 155,
+      "height": 28,
+      "right": 1966,
+      "bottom": 1929,
+      "confidence": 90
+    },
+    {
+      "text": "44.5",
+      "left": 1281,
+      "top": 1905,
+      "width": 75,
+      "height": 26,
+      "right": 1356,
+      "bottom": 1931,
+      "confidence": 96
+    },
+    {
+      "text": "CELL",
+      "left": 378,
+      "top": 1906,
+      "width": 82,
+      "height": 27,
+      "right": 460,
+      "bottom": 1933,
+      "confidence": 96
+    },
+    {
+      "text": "DISTRIBUTION",
+      "left": 475,
+      "top": 1906,
+      "width": 255,
+      "height": 27,
+      "right": 730,
+      "bottom": 1933,
+      "confidence": 96
+    },
+    {
+      "text": "SD(RDW-SD)",
+      "left": 908,
+      "top": 1906,
+      "width": 226,
+      "height": 31,
+      "right": 1134,
+      "bottom": 1937,
+      "confidence": 88
+    },
+    {
+      "text": "RED",
+      "left": 295,
+      "top": 1907,
+      "width": 67,
+      "height": 25,
+      "right": 362,
+      "bottom": 1932,
+      "confidence": 96
+    },
+    {
+      "text": "WIDTH",
+      "left": 747,
+      "top": 1907,
+      "width": 116,
+      "height": 25,
+      "right": 863,
+      "bottom": 1932,
+      "confidence": 92
+    },
+    {
+      "text": "fL",
+      "left": 1564,
+      "top": 1907,
+      "width": 31,
+      "height": 26,
+      "right": 1595,
+      "bottom": 1933,
+      "confidence": 91
+    },
+    {
+      "text": "-",
+      "left": 881,
+      "top": 1919,
+      "width": 11,
+      "height": 4,
+      "right": 892,
+      "bottom": 1923,
+      "confidence": 91
+    },
+    {
+      "text": "11.6-14.0",
+      "left": 1813,
+      "top": 1952,
+      "width": 147,
+      "height": 26,
+      "right": 1960,
+      "bottom": 1978,
+      "confidence": 92
+    },
+    {
+      "text": "14.9",
+      "left": 1283,
+      "top": 1953,
+      "width": 80,
+      "height": 26,
+      "right": 1363,
+      "bottom": 1979,
+      "confidence": 95
+    },
+    {
+      "text": "DISTRIBUTION",
+      "left": 489,
+      "top": 1955,
+      "width": 290,
+      "height": 27,
+      "right": 779,
+      "bottom": 1982,
+      "confidence": 96
+    },
+    {
+      "text": "(RDW-CV)",
+      "left": 946,
+      "top": 1955,
+      "width": 193,
+      "height": 31,
+      "right": 1139,
+      "bottom": 1986,
+      "confidence": 91
+    },
+    {
+      "text": "RED",
+      "left": 294,
+      "top": 1956,
+      "width": 75,
+      "height": 25,
+      "right": 369,
+      "bottom": 1981,
+      "confidence": 96
+    },
+    {
+      "text": "CELL",
+      "left": 384,
+      "top": 1956,
+      "width": 90,
+      "height": 25,
+      "right": 474,
+      "bottom": 1981,
+      "confidence": 95
+    },
+    {
+      "text": "WIDTH",
+      "left": 794,
+      "top": 1956,
+      "width": 135,
+      "height": 25,
+      "right": 929,
+      "bottom": 1981,
+      "confidence": 91
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 1956,
+      "width": 39,
+      "height": 27,
+      "right": 1605,
+      "bottom": 1983,
+      "confidence": 88
+    },
+    {
+      "text": "9.6-15.2",
+      "left": 1811,
+      "top": 1999,
+      "width": 134,
+      "height": 28,
+      "right": 1945,
+      "bottom": 2027,
+      "confidence": 92
+    },
+    {
+      "text": "10.9",
+      "left": 1284,
+      "top": 2002,
+      "width": 72,
+      "height": 27,
+      "right": 1356,
+      "bottom": 2029,
+      "confidence": 94
+    },
+    {
+      "text": "DISTRIBUTION",
+      "left": 473,
+      "top": 2004,
+      "width": 255,
+      "height": 27,
+      "right": 728,
+      "bottom": 2031,
+      "confidence": 93
+    },
+    {
+      "text": "WIDTH(PDW)",
+      "left": 745,
+      "top": 2004,
+      "width": 229,
+      "height": 32,
+      "right": 974,
+      "bottom": 2036,
+      "confidence": 87
+    },
+    {
+      "text": "PLATELET",
+      "left": 295,
+      "top": 2005,
+      "width": 163,
+      "height": 25,
+      "right": 458,
+      "bottom": 2030,
+      "confidence": 96
+    },
+    {
+      "text": "fL",
+      "left": 1564,
+      "top": 2005,
+      "width": 31,
+      "height": 26,
+      "right": 1595,
+      "bottom": 2031,
+      "confidence": 90
+    },
+    {
+      "text": "6.5-12",
+      "left": 1811,
+      "top": 2048,
+      "width": 103,
+      "height": 28,
+      "right": 1914,
+      "bottom": 2076,
+      "confidence": 89
+    },
+    {
+      "text": "10.3",
+      "left": 1284,
+      "top": 2051,
+      "width": 71,
+      "height": 27,
+      "right": 1355,
+      "bottom": 2078,
+      "confidence": 96
+    },
+    {
+      "text": "VOLUME(MPV)",
+      "left": 582,
+      "top": 2053,
+      "width": 247,
+      "height": 32,
+      "right": 829,
+      "bottom": 2085,
+      "confidence": 90
+    },
+    {
+      "text": "MEAN",
+      "left": 295,
+      "top": 2054,
+      "width": 93,
+      "height": 25,
+      "right": 388,
+      "bottom": 2079,
+      "confidence": 96
+    },
+    {
+      "text": "PLATELET",
+      "left": 407,
+      "top": 2054,
+      "width": 163,
+      "height": 25,
+      "right": 570,
+      "bottom": 2079,
+      "confidence": 92
+    },
+    {
+      "text": "fL",
+      "left": 1564,
+      "top": 2055,
+      "width": 31,
+      "height": 26,
+      "right": 1595,
+      "bottom": 2081,
+      "confidence": 91
+    },
+    {
+      "text": "150-400",
+      "left": 1814,
+      "top": 2097,
+      "width": 131,
+      "height": 28,
+      "right": 1945,
+      "bottom": 2125,
+      "confidence": 96
+    },
+    {
+      "text": "378",
+      "left": 1282,
+      "top": 2101,
+      "width": 61,
+      "height": 27,
+      "right": 1343,
+      "bottom": 2128,
+      "confidence": 96
+    },
+    {
+      "text": "COUNT",
+      "left": 472,
+      "top": 2102,
+      "width": 121,
+      "height": 27,
+      "right": 593,
+      "bottom": 2129,
+      "confidence": 94
+    },
+    {
+      "text": "PLATELET",
+      "left": 295,
+      "top": 2103,
+      "width": 163,
+      "height": 25,
+      "right": 458,
+      "bottom": 2128,
+      "confidence": 95
+    },
+    {
+      "text": "103",
+      "left": 1603,
+      "top": 2104,
+      "width": 56,
+      "height": 27,
+      "right": 1659,
+      "bottom": 2131,
+      "confidence": 73
+    },
+    {
+      "text": "/",
+      "left": 1673,
+      "top": 2104,
+      "width": 15,
+      "height": 31,
+      "right": 1688,
+      "bottom": 2135,
+      "confidence": 71
+    },
+    {
+      "text": "X",
+      "left": 1565,
+      "top": 2105,
+      "width": 21,
+      "height": 25,
+      "right": 1586,
+      "bottom": 2130,
+      "confidence": 90
+    },
+    {
+      "text": "uL",
+      "left": 1704,
+      "top": 2105,
+      "width": 39,
+      "height": 30,
+      "right": 1743,
+      "bottom": 2135,
+      "confidence": 71
+    },
+    {
+      "text": "19.7-42.4",
+      "left": 1814,
+      "top": 2146,
+      "width": 152,
+      "height": 28,
+      "right": 1966,
+      "bottom": 2174,
+      "confidence": 91
+    },
+    {
+      "text": "26.9",
+      "left": 1282,
+      "top": 2150,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 2177,
+      "confidence": 96
+    },
+    {
+      "text": "TO",
+      "left": 470,
+      "top": 2152,
+      "width": 45,
+      "height": 27,
+      "right": 515,
+      "bottom": 2179,
+      "confidence": 96
+    },
+    {
+      "text": "LARGE",
+      "left": 533,
+      "top": 2152,
+      "width": 110,
+      "height": 27,
+      "right": 643,
+      "bottom": 2179,
+      "confidence": 96
+    },
+    {
+      "text": "CELL",
+      "left": 658,
+      "top": 2152,
+      "width": 83,
+      "height": 27,
+      "right": 741,
+      "bottom": 2179,
+      "confidence": 92
+    },
+    {
+      "text": "RATIO(PLCR)",
+      "left": 756,
+      "top": 2152,
+      "width": 220,
+      "height": 31,
+      "right": 976,
+      "bottom": 2183,
+      "confidence": 92
+    },
+    {
+      "text": "PLATELET",
+      "left": 295,
+      "top": 2153,
+      "width": 163,
+      "height": 25,
+      "right": 458,
+      "bottom": 2178,
+      "confidence": 96
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 2153,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 2180,
+      "confidence": 91
+    },
+    {
+      "text": "0.19-0.39",
+      "left": 1812,
+      "top": 2196,
+      "width": 154,
+      "height": 28,
+      "right": 1966,
+      "bottom": 2224,
+      "confidence": 88
+    },
+    {
+      "text": "0.39",
+      "left": 1282,
+      "top": 2199,
+      "width": 74,
+      "height": 27,
+      "right": 1356,
+      "bottom": 2226,
+      "confidence": 95
+    },
+    {
+      "text": "PLATELETCRIT(PCT)",
+      "left": 295,
+      "top": 2201,
+      "width": 340,
+      "height": 31,
+      "right": 635,
+      "bottom": 2232,
+      "confidence": 91
+    },
+    {
+      "text": "%",
+      "left": 1566,
+      "top": 2202,
+      "width": 32,
+      "height": 27,
+      "right": 1598,
+      "bottom": 2229,
+      "confidence": 83
+    },
+    {
+      "text": "Please",
+      "left": 294,
+      "top": 2254,
+      "width": 97,
+      "height": 21,
+      "right": 391,
+      "bottom": 2275,
+      "confidence": 95
+    },
+    {
+      "text": "Correlate",
+      "left": 403,
+      "top": 2254,
+      "width": 141,
+      "height": 22,
+      "right": 544,
+      "bottom": 2276,
+      "confidence": 96
+    },
+    {
+      "text": "with",
+      "left": 555,
+      "top": 2254,
+      "width": 66,
+      "height": 21,
+      "right": 621,
+      "bottom": 2275,
+      "confidence": 96
+    },
+    {
+      "text": "clinical",
+      "left": 633,
+      "top": 2254,
+      "width": 105,
+      "height": 21,
+      "right": 738,
+      "bottom": 2275,
+      "confidence": 96
+    },
+    {
+      "text": "conditions.",
+      "left": 750,
+      "top": 2254,
+      "width": 167,
+      "height": 22,
+      "right": 917,
+      "bottom": 2276,
+      "confidence": 95
+    },
+    {
+      "text": "Method",
+      "left": 294,
+      "top": 2294,
+      "width": 110,
+      "height": 22,
+      "right": 404,
+      "bottom": 2316,
+      "confidence": 92
+    },
+    {
+      "text": "Fully",
+      "left": 438,
+      "top": 2294,
+      "width": 72,
+      "height": 27,
+      "right": 510,
+      "bottom": 2321,
+      "confidence": 95
+    },
+    {
+      "text": "automated",
+      "left": 521,
+      "top": 2294,
+      "width": 163,
+      "height": 22,
+      "right": 684,
+      "bottom": 2316,
+      "confidence": 96
+    },
+    {
+      "text": "bidirectional",
+      "left": 698,
+      "top": 2294,
+      "width": 189,
+      "height": 22,
+      "right": 887,
+      "bottom": 2316,
+      "confidence": 95
+    },
+    {
+      "text": "analyser",
+      "left": 900,
+      "top": 2294,
+      "width": 130,
+      "height": 27,
+      "right": 1030,
+      "bottom": 2321,
+      "confidence": 96
+    },
+    {
+      "text": "(6",
+      "left": 1043,
+      "top": 2294,
+      "width": 30,
+      "height": 27,
+      "right": 1073,
+      "bottom": 2321,
+      "confidence": 96
+    },
+    {
+      "text": "Differential",
+      "left": 1160,
+      "top": 2294,
+      "width": 171,
+      "height": 21,
+      "right": 1331,
+      "bottom": 2315,
+      "confidence": 93
+    },
+    {
+      "text": "XN-1000)",
+      "left": 1477,
+      "top": 2294,
+      "width": 148,
+      "height": 27,
+      "right": 1625,
+      "bottom": 2321,
+      "confidence": 92
+    },
+    {
+      "text": "Part",
+      "left": 1086,
+      "top": 2295,
+      "width": 62,
+      "height": 20,
+      "right": 1148,
+      "bottom": 2315,
+      "confidence": 95
+    },
+    {
+      "text": "SYSMEX",
+      "left": 1344,
+      "top": 2295,
+      "width": 123,
+      "height": 20,
+      "right": 1467,
+      "bottom": 2315,
+      "confidence": 91
+    },
+    {
+      "text": ":",
+      "left": 418,
+      "top": 2300,
+      "width": 6,
+      "height": 15,
+      "right": 424,
+      "bottom": 2315,
+      "confidence": 89
+    },
+    {
+      "text": "(This",
+      "left": 294,
+      "top": 2334,
+      "width": 76,
+      "height": 27,
+      "right": 370,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "device",
+      "left": 381,
+      "top": 2334,
+      "width": 97,
+      "height": 21,
+      "right": 478,
+      "bottom": 2355,
+      "confidence": 96
+    },
+    {
+      "text": "performs",
+      "left": 491,
+      "top": 2334,
+      "width": 137,
+      "height": 27,
+      "right": 628,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "hematology",
+      "left": 641,
+      "top": 2334,
+      "width": 180,
+      "height": 27,
+      "right": 821,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "analyses",
+      "left": 831,
+      "top": 2334,
+      "width": 133,
+      "height": 27,
+      "right": 964,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "according",
+      "left": 975,
+      "top": 2334,
+      "width": 148,
+      "height": 27,
+      "right": 1123,
+      "bottom": 2361,
+      "confidence": 96
+    },
+    {
+      "text": "the",
+      "left": 1175,
+      "top": 2334,
+      "width": 50,
+      "height": 21,
+      "right": 1225,
+      "bottom": 2355,
+      "confidence": 95
+    },
+    {
+      "text": "Hydrodynamic",
+      "left": 1237,
+      "top": 2334,
+      "width": 220,
+      "height": 27,
+      "right": 1457,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "Focussing",
+      "left": 1469,
+      "top": 2334,
+      "width": 149,
+      "height": 27,
+      "right": 1618,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "(DC",
+      "left": 1632,
+      "top": 2334,
+      "width": 54,
+      "height": 27,
+      "right": 1686,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "method),",
+      "left": 1699,
+      "top": 2334,
+      "width": 138,
+      "height": 27,
+      "right": 1837,
+      "bottom": 2361,
+      "confidence": 95
+    },
+    {
+      "text": "Flow",
+      "left": 1851,
+      "top": 2334,
+      "width": 70,
+      "height": 22,
+      "right": 1921,
+      "bottom": 2356,
+      "confidence": 96
+    },
+    {
+      "text": "to",
+      "left": 1135,
+      "top": 2335,
+      "width": 29,
+      "height": 21,
+      "right": 1164,
+      "bottom": 2356,
+      "confidence": 96
+    },
+    {
+      "text": "Method",
+      "left": 464,
+      "top": 2375,
+      "width": 110,
+      "height": 22,
+      "right": 574,
+      "bottom": 2397,
+      "confidence": 96
+    },
+    {
+      "text": "(using",
+      "left": 588,
+      "top": 2375,
+      "width": 95,
+      "height": 27,
+      "right": 683,
+      "bottom": 2402,
+      "confidence": 96
+    },
+    {
+      "text": "semiconductor",
+      "left": 723,
+      "top": 2375,
+      "width": 226,
+      "height": 22,
+      "right": 949,
+      "bottom": 2397,
+      "confidence": 95
+    },
+    {
+      "text": "laser),",
+      "left": 961,
+      "top": 2375,
+      "width": 97,
+      "height": 27,
+      "right": 1058,
+      "bottom": 2402,
+      "confidence": 95
+    },
+    {
+      "text": "and",
+      "left": 1070,
+      "top": 2375,
+      "width": 54,
+      "height": 21,
+      "right": 1124,
+      "bottom": 2396,
+      "confidence": 92
+    },
+    {
+      "text": "hemoglobin",
+      "left": 1217,
+      "top": 2375,
+      "width": 178,
+      "height": 27,
+      "right": 1395,
+      "bottom": 2402,
+      "confidence": 96
+    },
+    {
+      "text": "method)",
+      "left": 1408,
+      "top": 2375,
+      "width": 128,
+      "height": 27,
+      "right": 1536,
+      "bottom": 2402,
+      "confidence": 96
+    },
+    {
+      "text": "Cytometry",
+      "left": 293,
+      "top": 2376,
+      "width": 159,
+      "height": 26,
+      "right": 452,
+      "bottom": 2402,
+      "confidence": 96
+    },
+    {
+      "text": "SLS-",
+      "left": 1137,
+      "top": 2376,
+      "width": 67,
+      "height": 20,
+      "right": 1204,
+      "bottom": 2396,
+      "confidence": 92
+    },
+    {
+      "text": "a",
+      "left": 695,
+      "top": 2380,
+      "width": 15,
+      "height": 16,
+      "right": 710,
+      "bottom": 2396,
+      "confidence": 96
+    },
+    {
+      "text": "of",
+      "left": 1151,
+      "top": 2482,
+      "width": 34,
+      "height": 27,
+      "right": 1185,
+      "bottom": 2509,
+      "confidence": 96
+    },
+    {
+      "text": "End",
+      "left": 1073,
+      "top": 2483,
+      "width": 65,
+      "height": 26,
+      "right": 1138,
+      "bottom": 2509,
+      "confidence": 95
+    },
+    {
+      "text": "report",
+      "left": 1197,
+      "top": 2483,
+      "width": 103,
+      "height": 33,
+      "right": 1300,
+      "bottom": 2516,
+      "confidence": 96
+    },
+    {
+      "text": "~~",
+      "left": 1019,
+      "top": 2493,
+      "width": 41,
+      "height": 7,
+      "right": 1060,
+      "bottom": 2500,
+      "confidence": 95
+    },
+    {
+      "text": "~~",
+      "left": 1311,
+      "top": 2493,
+      "width": 40,
+      "height": 7,
+      "right": 1351,
+      "bottom": 2500,
+      "confidence": 94
+    },
+    {
+      "text": "Sample",
+      "left": 302,
+      "top": 2699,
+      "width": 139,
+      "height": 33,
+      "right": 441,
+      "bottom": 2732,
+      "confidence": 96
+    },
+    {
+      "text": "Collected",
+      "left": 456,
+      "top": 2699,
+      "width": 173,
+      "height": 27,
+      "right": 629,
+      "bottom": 2726,
+      "confidence": 95
+    },
+    {
+      "text": "(SCT)",
+      "left": 706,
+      "top": 2699,
+      "width": 104,
+      "height": 33,
+      "right": 810,
+      "bottom": 2732,
+      "confidence": 95
+    },
+    {
+      "text": "04",
+      "left": 948,
+      "top": 2699,
+      "width": 40,
+      "height": 27,
+      "right": 988,
+      "bottom": 2726,
+      "confidence": 96
+    },
+    {
+      "text": "2021",
+      "left": 1080,
+      "top": 2699,
+      "width": 82,
+      "height": 27,
+      "right": 1162,
+      "bottom": 2726,
+      "confidence": 95
+    },
+    {
+      "text": "13:25",
+      "left": 1182,
+      "top": 2699,
+      "width": 96,
+      "height": 27,
+      "right": 1278,
+      "bottom": 2726,
+      "confidence": 95
+    },
+    {
+      "text": "Mar",
+      "left": 1005,
+      "top": 2700,
+      "width": 61,
+      "height": 26,
+      "right": 1066,
+      "bottom": 2726,
+      "confidence": 95
+    },
+    {
+      "text": "on",
+      "left": 645,
+      "top": 2706,
+      "width": 44,
+      "height": 20,
+      "right": 689,
+      "bottom": 2726,
+      "confidence": 95
+    },
+    {
+      "text": "2021",
+      "left": 1080,
+      "top": 2758,
+      "width": 82,
+      "height": 27,
+      "right": 1162,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": "16:11",
+      "left": 1182,
+      "top": 2758,
+      "width": 95,
+      "height": 27,
+      "right": 1277,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": "Mar",
+      "left": 1005,
+      "top": 2759,
+      "width": 61,
+      "height": 26,
+      "right": 1066,
+      "bottom": 2785,
+      "confidence": 96
+    },
+    {
+      "text": "Sample",
+      "left": 299,
+      "top": 2764,
+      "width": 140,
+      "height": 33,
+      "right": 439,
+      "bottom": 2797,
+      "confidence": 96
+    },
+    {
+      "text": "Received",
+      "left": 455,
+      "top": 2764,
+      "width": 168,
+      "height": 27,
+      "right": 623,
+      "bottom": 2791,
+      "confidence": 96
+    },
+    {
+      "text": "(SRT)",
+      "left": 700,
+      "top": 2764,
+      "width": 106,
+      "height": 33,
+      "right": 806,
+      "bottom": 2797,
+      "confidence": 96
+    },
+    {
+      "text": "on",
+      "left": 639,
+      "top": 2771,
+      "width": 44,
+      "height": 20,
+      "right": 683,
+      "bottom": 2791,
+      "confidence": 96
+    },
+    {
+      "text": "1",
+      "left": 1524,
+      "top": 2785,
+      "width": 5,
+      "height": 14,
+      "right": 1529,
+      "bottom": 2799,
+      "confidence": 60
+    },
+    {
+      "text": ",04",
+      "left": 929,
+      "top": 2817,
+      "width": 59,
+      "height": 39,
+      "right": 988,
+      "bottom": 2856,
+      "confidence": 47
+    },
+    {
+      "text": "2021",
+      "left": 1080,
+      "top": 2817,
+      "width": 82,
+      "height": 27,
+      "right": 1162,
+      "bottom": 2844,
+      "confidence": 96
+    },
+    {
+      "text": "19:24",
+      "left": 1182,
+      "top": 2817,
+      "width": 97,
+      "height": 27,
+      "right": 1279,
+      "bottom": 2844,
+      "confidence": 96
+    },
+    {
+      "text": "Mar",
+      "left": 1005,
+      "top": 2818,
+      "width": 61,
+      "height": 26,
+      "right": 1066,
+      "bottom": 2844,
+      "confidence": 96
+    },
+    {
+      "text": "Released",
+      "left": 449,
+      "top": 2826,
+      "width": 169,
+      "height": 27,
+      "right": 618,
+      "bottom": 2853,
+      "confidence": 96
+    },
+    {
+      "text": "(RRT)",
+      "left": 695,
+      "top": 2826,
+      "width": 109,
+      "height": 33,
+      "right": 804,
+      "bottom": 2859,
+      "confidence": 92
+    },
+    {
+      "text": "Report",
+      "left": 295,
+      "top": 2827,
+      "width": 127,
+      "height": 32,
+      "right": 422,
+      "bottom": 2859,
+      "confidence": 96
+    },
+    {
+      "text": "on",
+      "left": 634,
+      "top": 2833,
+      "width": 44,
+      "height": 20,
+      "right": 678,
+      "bottom": 2853,
+      "confidence": 93
+    },
+    {
+      "text": "»",
+      "left": 2210,
+      "top": 2860,
+      "width": 13,
+      "height": 10,
+      "right": 2223,
+      "bottom": 2870,
+      "confidence": 44
+    },
+    {
+      "text": "ORO",
+      "left": 648,
+      "top": 2874,
+      "width": 221,
+      "height": 67,
+      "right": 869,
+      "bottom": 2941,
+      "confidence": 43
+    },
+    {
+      "text": "Sample",
+      "left": 295,
+      "top": 2877,
+      "width": 140,
+      "height": 33,
+      "right": 435,
+      "bottom": 2910,
+      "confidence": 96
+    },
+    {
+      "text": "Type",
+      "left": 448,
+      "top": 2878,
+      "width": 91,
+      "height": 32,
+      "right": 539,
+      "bottom": 2910,
+      "confidence": 96
+    },
+    {
+      "text": "EDTA",
+      "left": 949,
+      "top": 2878,
+      "width": 86,
+      "height": 25,
+      "right": 1035,
+      "bottom": 2903,
+      "confidence": 95
+    },
+    {
+      "text": ":",
+      "left": 921,
+      "top": 2896,
+      "width": 7,
+      "height": 19,
+      "right": 928,
+      "bottom": 2915,
+      "confidence": 46
+    },
+    {
+      "text": "Dr.Caesar",
+      "left": 1949,
+      "top": 2935,
+      "width": 168,
+      "height": 28,
+      "right": 2117,
+      "bottom": 2963,
+      "confidence": 91
+    },
+    {
+      "text": "Sengupta",
+      "left": 2129,
+      "top": 2935,
+      "width": 156,
+      "height": 35,
+      "right": 2285,
+      "bottom": 2970,
+      "confidence": 93
+    },
+    {
+      "text": "MD(Micro)",
+      "left": 2300,
+      "top": 2935,
+      "width": 169,
+      "height": 35,
+      "right": 2469,
+      "bottom": 2970,
+      "confidence": 91
+    },
+    {
+      "text": "Dr",
+      "left": 1358,
+      "top": 2937,
+      "width": 34,
+      "height": 27,
+      "right": 1392,
+      "bottom": 2964,
+      "confidence": 51
+    },
+    {
+      "text": "Arjun",
+      "left": 1402,
+      "top": 2937,
+      "width": 85,
+      "height": 35,
+      "right": 1487,
+      "bottom": 2972,
+      "confidence": 68
+    },
+    {
+      "text": "CP",
+      "left": 1502,
+      "top": 2937,
+      "width": 48,
+      "height": 28,
+      "right": 1550,
+      "bottom": 2965,
+      "confidence": 93
+    },
+    {
+      "text": "MD(Path)",
+      "left": 1564,
+      "top": 2937,
+      "width": 155,
+      "height": 35,
+      "right": 1719,
+      "bottom": 2972,
+      "confidence": 92
+    },
+    {
+      "text": "Labcode",
+      "left": 297,
+      "top": 2940,
+      "width": 155,
+      "height": 27,
+      "right": 452,
+      "bottom": 2967,
+      "confidence": 92
+    },
+    {
+      "text": "0403042285/PU190",
+      "left": 950,
+      "top": 2940,
+      "width": 341,
+      "height": 31,
+      "right": 1291,
+      "bottom": 2971,
+      "confidence": 90
+    },
+    {
+      "text": "aie",
+      "left": 647,
+      "top": 2951,
+      "width": 132,
+      "height": 97,
+      "right": 779,
+      "bottom": 3048,
+      "confidence": 42
+    },
+    {
+      "text": "»",
+      "left": 921,
+      "top": 2955,
+      "width": 7,
+      "height": 19,
+      "right": 928,
+      "bottom": 2974,
+      "confidence": 62
+    },
+    {
+      "text": "of",
+      "left": 2155,
+      "top": 2978,
+      "width": 29,
+      "height": 68,
+      "right": 2184,
+      "bottom": 3046,
+      "confidence": 94
+    },
+    {
+      "text": "15",
+      "left": 2201,
+      "top": 2978,
+      "width": 34,
+      "height": 68,
+      "right": 2235,
+      "bottom": 3046,
+      "confidence": 96
+    },
+    {
+      "text": "iT",
+      "left": 797,
+      "top": 2980,
+      "width": 29,
+      "height": 61,
+      "right": 826,
+      "bottom": 3041,
+      "confidence": 49
+    },
+    {
+      "text": "Barcode",
+      "left": 297,
+      "top": 3000,
+      "width": 152,
+      "height": 27,
+      "right": 449,
+      "bottom": 3027,
+      "confidence": 95
+    },
+    {
+      "text": "R8230789",
+      "left": 951,
+      "top": 3000,
+      "width": 171,
+      "height": 27,
+      "right": 1122,
+      "bottom": 3027,
+      "confidence": 91
+    },
+    {
+      "text": "Page",
+      "left": 1984,
+      "top": 3007,
+      "width": 82,
+      "height": 35,
+      "right": 2066,
+      "bottom": 3042,
+      "confidence": 93
+    },
+    {
+      "text": "14",
+      "left": 2103,
+      "top": 3007,
+      "width": 129,
+      "height": 28,
+      "right": 2232,
+      "bottom": 3035,
+      "confidence": 94
+    },
+    {
+      "text": ":",
+      "left": 2081,
+      "top": 3014,
+      "width": 4,
+      "height": 20,
+      "right": 2085,
+      "bottom": 3034,
+      "confidence": 86
+    }
+  ],
+  "total_tokens": 352
+}

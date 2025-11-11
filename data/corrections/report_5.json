@@ -1,0 +1,82 @@
+{
+  "original": {
+    "patient": {
+      "patient_id": "37",
+      "age": 79,
+      "gender": "Male"
+    },
+    "tests": [
+      {
+        "name": "Bese MC-6072",
+        "value": -6072,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "Plasma Glucose F 102 mg/dL </= 100 mg/dl: Normal",
+        "value": 102,
+        "unit": "mg/dL",
+        "confidence": 0.6
+      },
+      {
+        "name": "HEXOKINASE/G-6-PDH -",
+        "value": -6,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "Potassium 4.57 mEq/L 3.5 5.1",
+        "value": 4.57,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "HbA1C H 7.14 </= 5.6 % NORMAL",
+        "value": 1,
+        "unit": null,
+        "confidence": 0.6
+      },
+      {
+        "name": "TSH 5.25 yIU/mL 0.5 8.9",
+        "value": 5.25,
+        "unit": null,
+        "confidence": 0.6
+      }
+    ]
+  },
+  "corrected": {
+    "patient": {
+      "name": "Mrs RATHNA GABRIAL",
+      "patient_id": "50636000175",
+      "age": 79,
+      "gender": "Female",
+      "date": "03-06-2025"
+    },
+    "tests": [
+      {
+        "name": "Plasma Glucose (Fasting)",
+        "value": 102,
+        "unit": "mg/dL",
+        "confidence": 1
+      },
+      {
+        "name": "Potassium",
+        "value": 4.57,
+        "unit": "mEq/L",
+        "confidence": 1
+      },
+      {
+        "name": "HbA1C",
+        "value": 7.1,
+        "unit": "%",
+        "confidence": 1
+      },
+      {
+        "name": "TSH",
+        "value": 5.25,
+        "unit": "IU/mL",
+        "confidence": 1
+      }
+    ]
+  }
+}
